@@ -1,0 +1,8142 @@
+[
+  {
+    "codigo": "00494E",
+    "nombres": "SANCHEZ CABRERA ANGEL SEBASTIAN",
+    "puntaje": 90.1
+  },
+  {
+    "codigo": "00495F",
+    "nombres": "BACA ALVAREZ JACK ENRIQUE",
+    "puntaje": 67.15
+  },
+  {
+    "codigo": "00496G",
+    "nombres": "HUANCA CAMARENA ALVARO SANTIAGO",
+    "puntaje": 37.15
+  },
+  {
+    "codigo": "00497H",
+    "nombres": "VELA AGUILAR JESÚS ANTONIO",
+    "puntaje": null
+  },
+  {
+    "codigo": "00498A",
+    "nombres": "MENDOZA MARQUEZ PAVEL",
+    "puntaje": 73.25
+  },
+  {
+    "codigo": "00499B",
+    "nombres": "SANDOVAL SILUPU JHOAN AMIR",
+    "puntaje": 81.75
+  },
+  {
+    "codigo": "00500C",
+    "nombres": "PIRCA LUNA LUIS ALEXANDER",
+    "puntaje": 74.2
+  },
+  {
+    "codigo": "00501D",
+    "nombres": "VASQUEZ CALAMPA ANGEL GABRIEL",
+    "puntaje": 75.1
+  },
+  {
+    "codigo": "00502E",
+    "nombres": "LÁZARO CONISLLA ANDER AYRTON",
+    "puntaje": 61.85
+  },
+  {
+    "codigo": "00503F",
+    "nombres": "HUAMANÍ CUBA SEBASTIAN LUIS",
+    "puntaje": 52.3
+  },
+  {
+    "codigo": "00504G",
+    "nombres": "CUPE CORONADO MELANI ROSARIO",
+    "puntaje": 60.4
+  },
+  {
+    "codigo": "00505H",
+    "nombres": "OJEDA RIOFRIO ALESSANDRO",
+    "puntaje": 47.2
+  },
+  {
+    "codigo": "00506A",
+    "nombres": "PANDURO FLORES MATÍAS ADRIEL",
+    "puntaje": 49.4
+  },
+  {
+    "codigo": "00507B",
+    "nombres": "GIRALDO HERNÁNDEZ PIERO JESÚS",
+    "puntaje": 79.4
+  },
+  {
+    "codigo": "00508C",
+    "nombres": "ALARCÓN ARANDA DAVID BENJAMÍN",
+    "puntaje": 68.8
+  },
+  {
+    "codigo": "00509D",
+    "nombres": "TREVEJO DURAN SEBASTIAN FAVIO",
+    "puntaje": 74.3
+  },
+  {
+    "codigo": "00510E",
+    "nombres": "CONGONA RAMOS KEVIN FABRICIO",
+    "puntaje": 67.4
+  },
+  {
+    "codigo": "00511F",
+    "nombres": "DEL VALLE AVILA MAYRIM ZULEYDI MASIELL",
+    "puntaje": 46.95
+  },
+  {
+    "codigo": "00512G",
+    "nombres": "CISNEROS VARGAS IAN",
+    "puntaje": 62.9
+  },
+  {
+    "codigo": "00513H",
+    "nombres": "CONDORI CAPA YELSIN",
+    "puntaje": 36.1
+  },
+  {
+    "codigo": "00514A",
+    "nombres": "CARRASCO SANDOVAL ANGEL EINE",
+    "puntaje": 68.65
+  },
+  {
+    "codigo": "00515B",
+    "nombres": "ROCHA ZUÑIGA LUZ",
+    "puntaje": null
+  },
+  {
+    "codigo": "00516C",
+    "nombres": "MALLAUPOMA SUAREZ BENJAMIN ALEJANDRO",
+    "puntaje": 119.6
+  },
+  {
+    "codigo": "00517D",
+    "nombres": "LOPEZ SANTANDER DANIKZA",
+    "puntaje": null
+  },
+  {
+    "codigo": "00518E",
+    "nombres": "LLANOS RODRÍGUEZ VICENTE",
+    "puntaje": 48.85
+  },
+  {
+    "codigo": "00519F",
+    "nombres": "DÍAZ MALLQUI DIEGO ISRAEL",
+    "puntaje": null
+  },
+  {
+    "codigo": "00520G",
+    "nombres": "RODRIGUEZ ACUÑA MATIAS JOSUE",
+    "puntaje": 55.85
+  },
+  {
+    "codigo": "00521H",
+    "nombres": "RIOS HUAMANRICRA SEBASTIAN EVANS",
+    "puntaje": 71.45
+  },
+  {
+    "codigo": "00522A",
+    "nombres": "HUAMANI FALCON ADRIANA",
+    "puntaje": 57
+  },
+  {
+    "codigo": "00523B",
+    "nombres": "CANDAMO SALINAS NICOLAS ADRIANO",
+    "puntaje": 66.95
+  },
+  {
+    "codigo": "00524C",
+    "nombres": "PORRAS LUQUE OSCAR FABRICIO",
+    "puntaje": 73.65
+  },
+  {
+    "codigo": "00525D",
+    "nombres": "REYES SANCHEZ DIVYA",
+    "puntaje": 48.6
+  },
+  {
+    "codigo": "00526E",
+    "nombres": "FLORES ARROYO MOISES VIDAL",
+    "puntaje": 29.65
+  },
+  {
+    "codigo": "00527F",
+    "nombres": "MONTES EUGENIO SERGIO ALEJANDRO",
+    "puntaje": 46.9
+  },
+  {
+    "codigo": "00528G",
+    "nombres": "HUAMANCHAO CANELO JHON ROYER",
+    "puntaje": 57
+  },
+  {
+    "codigo": "00529H",
+    "nombres": "VILCHEZ DURAN VALENTINA AIMEE",
+    "puntaje": 0
+  },
+  {
+    "codigo": "00530A",
+    "nombres": "ALVAREZ YALLICO MAURICIO JESÚS",
+    "puntaje": 83.25
+  },
+  {
+    "codigo": "00531B",
+    "nombres": "CHUQUIMANTARI GAVINO MARIA JOSE ADRIANA",
+    "puntaje": 65.45
+  },
+  {
+    "codigo": "00532C",
+    "nombres": "QUISPESAHUA ZAMBRANO MATEO JUAN",
+    "puntaje": 50.4
+  },
+  {
+    "codigo": "00533D",
+    "nombres": "HUAMANI MENDOZA FÁTIMA SOFÍA",
+    "puntaje": 66.1
+  },
+  {
+    "codigo": "00534E",
+    "nombres": "VILA SULCA ADIF GASTON",
+    "puntaje": 66.55
+  },
+  {
+    "codigo": "00535F",
+    "nombres": "CORONEL GUILLEN CRISTIAN",
+    "puntaje": 76.4
+  },
+  {
+    "codigo": "00536G",
+    "nombres": "NAPA PALOMINO DYLAM SEBASTIAN",
+    "puntaje": 88.75
+  },
+  {
+    "codigo": "00537H",
+    "nombres": "MORENO PUITIZA JHOEL GUSTAVO",
+    "puntaje": 72.45
+  },
+  {
+    "codigo": "00538A",
+    "nombres": "CIRINEO DE LA CRUZ JEFRY JEANPIERE",
+    "puntaje": 114.65
+  },
+  {
+    "codigo": "00539B",
+    "nombres": "CABANILLAS SOLIS JOAQUIN ALONSO",
+    "puntaje": 91.8
+  },
+  {
+    "codigo": "00540C",
+    "nombres": "DÍAZ WONG JOSÉ CARLOS",
+    "puntaje": 78.1
+  },
+  {
+    "codigo": "00541D",
+    "nombres": "TOVAR AGAMA ANTHONY",
+    "puntaje": 74.9
+  },
+  {
+    "codigo": "00542E",
+    "nombres": "GUTIERREZ SOLIS ASHLEY NICOLE",
+    "puntaje": 70.4
+  },
+  {
+    "codigo": "00543F",
+    "nombres": "PATIÑO SALAZAR ANDRES ALEJANDRO",
+    "puntaje": 121.8
+  },
+  {
+    "codigo": "00544G",
+    "nombres": "ESCOBAR ARIAS ADRIAN JOE DNI 61851811",
+    "puntaje": 70.85
+  },
+  {
+    "codigo": "00545H",
+    "nombres": "CASTILLO ACOSTA JUAN EDUARDO NICOLAS",
+    "puntaje": 46
+  },
+  {
+    "codigo": "00546A",
+    "nombres": "LANDA ROSADO PAOLO CAMILO",
+    "puntaje": 63.25
+  },
+  {
+    "codigo": "00547B",
+    "nombres": "MARTINEZ QUILLA LUCIAN DOMINITH",
+    "puntaje": 64.6
+  },
+  {
+    "codigo": "00548C",
+    "nombres": "LOVERA PAMO SEBASTIAN",
+    "puntaje": 80.4
+  },
+  {
+    "codigo": "00549D",
+    "nombres": "ESPINOZA MARROQUIN CESAR LUIS",
+    "puntaje": 72.35
+  },
+  {
+    "codigo": "00550E",
+    "nombres": "MORE YOVERA JONATHAN ADRIAN",
+    "puntaje": 68.6
+  },
+  {
+    "codigo": "00551F",
+    "nombres": "MANDUJANO FLORES MATYAS ALONSO",
+    "puntaje": 84.6
+  },
+  {
+    "codigo": "00552G",
+    "nombres": "CARRANZA ROGEL JOAQUIN",
+    "puntaje": 34.15
+  },
+  {
+    "codigo": "00553H",
+    "nombres": "VILCHEZ CORDOVA SANTIAGO LIONEL",
+    "puntaje": 47.2
+  },
+  {
+    "codigo": "00554A",
+    "nombres": "DAVILA MARTINEZ ESTHER NOEMI",
+    "puntaje": 89.8
+  },
+  {
+    "codigo": "00555B",
+    "nombres": "CÁRDENAS D'ORLEMONT AUGUSTO EMILIO",
+    "puntaje": 109.95
+  },
+  {
+    "codigo": "00556C",
+    "nombres": "MATIENZO BARDALES JOSÉ EVARANDO",
+    "puntaje": 52.7
+  },
+  {
+    "codigo": "00557D",
+    "nombres": "RIOS CONTRERAS MAIKEL FELIPE",
+    "puntaje": 76.65
+  },
+  {
+    "codigo": "00558E",
+    "nombres": "SANCHEZ TELLO ABNER JAIME",
+    "puntaje": 50.65
+  },
+  {
+    "codigo": "00559F",
+    "nombres": "FERNANDEZ LOAYZA JOSE JHIM",
+    "puntaje": 59
+  },
+  {
+    "codigo": "00560G",
+    "nombres": "GONZALES APONTE GABRIEL EDUARDO",
+    "puntaje": 61.55
+  },
+  {
+    "codigo": "00561H",
+    "nombres": "ESTELA MALLQUI ANGELY SOFIA",
+    "puntaje": 70
+  },
+  {
+    "codigo": "00562A",
+    "nombres": "CRUZ VASQUEZ SNAIDER",
+    "puntaje": 38.25
+  },
+  {
+    "codigo": "00563B",
+    "nombres": "HERNANDEZ ARIAS ALESSANDRO MATIAS",
+    "puntaje": 73.5
+  },
+  {
+    "codigo": "00564C",
+    "nombres": "CURI ANICETO YAHIR ALEX",
+    "puntaje": 64.2
+  },
+  {
+    "codigo": "00565D",
+    "nombres": "ABURTO MALCA PATRICK KLUIVERT",
+    "puntaje": 49.65
+  },
+  {
+    "codigo": "00566E",
+    "nombres": "OBREGON ZUÑIGA ANTHONY MATTEO",
+    "puntaje": 51.4
+  },
+  {
+    "codigo": "00567F",
+    "nombres": "NEYRA ASTO DYLAN SMITH",
+    "puntaje": 69.8
+  },
+  {
+    "codigo": "00568G",
+    "nombres": "SANTOS RODRIGUEZ JESÚS DAVID",
+    "puntaje": 95.2
+  },
+  {
+    "codigo": "00569H",
+    "nombres": "TUCO MORENO JHON LEE",
+    "puntaje": 82.8
+  },
+  {
+    "codigo": "00570A",
+    "nombres": "MENDOZA PARRALES CARLOS SEGUNDO",
+    "puntaje": 55
+  },
+  {
+    "codigo": "00571B",
+    "nombres": "PONCE SALAZAR LUANA CAMILA",
+    "puntaje": 73.95
+  },
+  {
+    "codigo": "00572C",
+    "nombres": "MENDOZA PAYANO JESÚS ENRIQUE",
+    "puntaje": 66.6
+  },
+  {
+    "codigo": "00573D",
+    "nombres": "ARCE RIMAC JHOSEP HUGO",
+    "puntaje": 66.55
+  },
+  {
+    "codigo": "00574E",
+    "nombres": "ZAPATA NIZAMA DARWIN",
+    "puntaje": 56.8
+  },
+  {
+    "codigo": "00575F",
+    "nombres": "SOTO ANDRADE JUAN ANGELES",
+    "puntaje": 67.5
+  },
+  {
+    "codigo": "00576G",
+    "nombres": "HUARANCA GONZALES JHENESIS DARLIN",
+    "puntaje": 73.3
+  },
+  {
+    "codigo": "00577H",
+    "nombres": "ECHEVARRÍA GASPAR CARLOS ALFREDO",
+    "puntaje": 84.5
+  },
+  {
+    "codigo": "00578A",
+    "nombres": "CANDELA MORENO ALESSANDRE JUAN",
+    "puntaje": 53.2
+  },
+  {
+    "codigo": "00579B",
+    "nombres": "ALCARRAZ BENAVENTE JEAN TYLOR",
+    "puntaje": 58.6
+  },
+  {
+    "codigo": "00580C",
+    "nombres": "DÍAZ LINARES ALVARO RONAL",
+    "puntaje": 65.25
+  },
+  {
+    "codigo": "00581D",
+    "nombres": "ONOFRE QUISPE REICHEL ESTELA",
+    "puntaje": 70.25
+  },
+  {
+    "codigo": "00582E",
+    "nombres": "PRINCIPE TREJO SEBASTIAN ANDRE",
+    "puntaje": 72.05
+  },
+  {
+    "codigo": "00583F",
+    "nombres": "RAMOS BARREDA NICOLAS",
+    "puntaje": null
+  },
+  {
+    "codigo": "00584G",
+    "nombres": "OSCANOA SILVERIO ANDRÉ SHINE",
+    "puntaje": 69.05
+  },
+  {
+    "codigo": "00585H",
+    "nombres": "BEJARANO DE LA CRUZ KRISTIAN ISMAEL",
+    "puntaje": 54.55
+  },
+  {
+    "codigo": "00586A",
+    "nombres": "LAUREANO MARTINEZ GERARDO",
+    "puntaje": 56.8
+  },
+  {
+    "codigo": "00587B",
+    "nombres": "LLANTOY CARBAJAL LUIS ENRIQUE",
+    "puntaje": 60.85
+  },
+  {
+    "codigo": "00588C",
+    "nombres": "YACSAVILCA PEREZ MARTIN",
+    "puntaje": 55.55
+  },
+  {
+    "codigo": "00589D",
+    "nombres": "TORRES CHOCCE VALERIA DAYANA",
+    "puntaje": 64.45
+  },
+  {
+    "codigo": "00590E",
+    "nombres": "MAURTUA ZOLEZZI CAMILA LUCERO",
+    "puntaje": 59.95
+  },
+  {
+    "codigo": "00591F",
+    "nombres": "CABRERA CAJACURI ELIAS",
+    "puntaje": 43.45
+  },
+  {
+    "codigo": "00592G",
+    "nombres": "ESPINOZA CANALES FABIAN ISMAEL",
+    "puntaje": 131.6
+  },
+  {
+    "codigo": "00593H",
+    "nombres": "AVELINO RAMOS AARON MARCOS",
+    "puntaje": 70.7
+  },
+  {
+    "codigo": "00594A",
+    "nombres": "AIQUIPA ESTRADA MATIAS LEONARDO",
+    "puntaje": 20.85
+  },
+  {
+    "codigo": "00595B",
+    "nombres": "TOCAS ANAMPA DAVID JEANFRANCO",
+    "puntaje": 99.55
+  },
+  {
+    "codigo": "00596C",
+    "nombres": "SANTOS ATOG ALONSO MAURICIO",
+    "puntaje": 60.85
+  },
+  {
+    "codigo": "00597D",
+    "nombres": "TINCO CANGALAYA REYNOL EVARIÑO",
+    "puntaje": 62.05
+  },
+  {
+    "codigo": "00598E",
+    "nombres": "ALIAGA CAMARGO CATALINA GUADALUPE",
+    "puntaje": 80.5
+  },
+  {
+    "codigo": "00599F",
+    "nombres": "ROBLES CABELLO ERICK JHON",
+    "puntaje": 72.7
+  },
+  {
+    "codigo": "00600G",
+    "nombres": "APAZA MATEO FIORELA LUISA",
+    "puntaje": 59.4
+  },
+  {
+    "codigo": "00601H",
+    "nombres": "MORALES HUARCAYA FABRIZIO PAOLO",
+    "puntaje": 83.6
+  },
+  {
+    "codigo": "00602A",
+    "nombres": "MIRANDA MAMANI MAITE ABIGAIL",
+    "puntaje": 53.75
+  },
+  {
+    "codigo": "00603B",
+    "nombres": "VALERIANO COLAN CARLA MILAGROS",
+    "puntaje": 79.65
+  },
+  {
+    "codigo": "00604C",
+    "nombres": "SALAZAR GÓMEZ CAMILA ESTEFANÍA",
+    "puntaje": 70.45
+  },
+  {
+    "codigo": "00605D",
+    "nombres": "PILLACA PAÑIHUARA NOEMI ESTHER",
+    "puntaje": 80.4
+  },
+  {
+    "codigo": "00606E",
+    "nombres": "LAZO CHAVEZ YUBERTH JESUS",
+    "puntaje": 87.8
+  },
+  {
+    "codigo": "00607F",
+    "nombres": "PAREDES ALVITES MATIAS SEBASTIAN",
+    "puntaje": 93.2
+  },
+  {
+    "codigo": "00608G",
+    "nombres": "ORTIZ APONTE LEO SEBASTIAN",
+    "puntaje": 63.3
+  },
+  {
+    "codigo": "00609H",
+    "nombres": "LIZANO QUISPE LIAN ORLANDO",
+    "puntaje": 72
+  },
+  {
+    "codigo": "00610A",
+    "nombres": "MUJICA ARENAS LUIS NICOLAS",
+    "puntaje": 93.45
+  },
+  {
+    "codigo": "00611B",
+    "nombres": "GUILLEN CHAVEZ MARINA OLGA",
+    "puntaje": 84.2
+  },
+  {
+    "codigo": "00612C",
+    "nombres": "AGUILAR SALINAS CAMILA CELESTE",
+    "puntaje": 50.8
+  },
+  {
+    "codigo": "00613D",
+    "nombres": "MOYA DEL CASTILLO JORGE SAUL",
+    "puntaje": 99.5
+  },
+  {
+    "codigo": "00614E",
+    "nombres": "MENDOZA ÁVILA BRUNO JOHANN",
+    "puntaje": 80.4
+  },
+  {
+    "codigo": "00615F",
+    "nombres": "ARAPA LOZANO YAMILE BRISEIDA",
+    "puntaje": 55.15
+  },
+  {
+    "codigo": "00616G",
+    "nombres": "RODRIGUEZ RODRIGUEZ LUIS FERNANDO",
+    "puntaje": 50.35
+  },
+  {
+    "codigo": "00617H",
+    "nombres": "VASQUEZ MEDINA JOSEPH DAVID",
+    "puntaje": 68.9
+  },
+  {
+    "codigo": "00618A",
+    "nombres": "BRICEÑO ALEGRIA ANGELA YARIDH",
+    "puntaje": 69.95
+  },
+  {
+    "codigo": "00619B",
+    "nombres": "TEJADA AMAYA LUCAS BARTOLOMÉ",
+    "puntaje": 65.4
+  },
+  {
+    "codigo": "00620C",
+    "nombres": "CASTRO JIMENEZ HECTOR ALONSO",
+    "puntaje": 48.75
+  },
+  {
+    "codigo": "00621D",
+    "nombres": "REYNOSO BARTOLO LEONARDO ANDRÉS",
+    "puntaje": 62.5
+  },
+  {
+    "codigo": "00622E",
+    "nombres": "MENDOZA FIESTAS HAZIEL ORLANDO",
+    "puntaje": 42.2
+  },
+  {
+    "codigo": "00623F",
+    "nombres": "DURAND HUACASI ANDRE",
+    "puntaje": 110.1
+  },
+  {
+    "codigo": "00624G",
+    "nombres": "ACLARI FLORES SHEYLA MARCELITA",
+    "puntaje": 75.6
+  },
+  {
+    "codigo": "00625H",
+    "nombres": "ACUÑA CARMONA ESAUD AARON",
+    "puntaje": 81.4
+  },
+  {
+    "codigo": "00626A",
+    "nombres": "LUCANA MAMANI HEIDY MEILIN",
+    "puntaje": null
+  },
+  {
+    "codigo": "00627B",
+    "nombres": "ZAMORA PRADO FREDDIE JOSE",
+    "puntaje": 53.85
+  },
+  {
+    "codigo": "00628C",
+    "nombres": "CORRALES HILARIO JHEANPIER LEONEL",
+    "puntaje": 75.4
+  },
+  {
+    "codigo": "00629D",
+    "nombres": "PORTILLO NOVOA ANGEL ALFONSO",
+    "puntaje": 36.8
+  },
+  {
+    "codigo": "00630E",
+    "nombres": "MORALES PONTE FERNANDO DANIEL",
+    "puntaje": 118.5
+  },
+  {
+    "codigo": "00631F",
+    "nombres": "MERMA TOLEDO JHONATAN JOAQUIN",
+    "puntaje": 57.55
+  },
+  {
+    "codigo": "00632G",
+    "nombres": "TAFUR PACHECO FABIAN MATEO",
+    "puntaje": 33.35
+  },
+  {
+    "codigo": "00633H",
+    "nombres": "ALVARO MAURICIO ANGEL ANTONIO",
+    "puntaje": 72.5
+  },
+  {
+    "codigo": "00634A",
+    "nombres": "GUTIERREZ DE LA CRUZ FABRICIO ALEXANDER",
+    "puntaje": 51.1
+  },
+  {
+    "codigo": "00635B",
+    "nombres": "BENAVIDES SALAZAR NICOLÁS",
+    "puntaje": 95.4
+  },
+  {
+    "codigo": "00636C",
+    "nombres": "PEREZ AYRE KATHERINE VALENTINA",
+    "puntaje": 77.4
+  },
+  {
+    "codigo": "00637D",
+    "nombres": "ARRASCUE JERÍ ALEJANDRO URIEL",
+    "puntaje": 96.95
+  },
+  {
+    "codigo": "00638E",
+    "nombres": "PALOMINO JARAMILLO LUIS IVAN",
+    "puntaje": 63.45
+  },
+  {
+    "codigo": "00639F",
+    "nombres": "HUANCA AGUILAR DIEGO FRANCISCO",
+    "puntaje": 79.7
+  },
+  {
+    "codigo": "00640G",
+    "nombres": "ROJAS ARANA YERLIN KRISTEL",
+    "puntaje": 39.45
+  },
+  {
+    "codigo": "00641H",
+    "nombres": "TITO ORMEÑO HECTOR FERNANDO",
+    "puntaje": 54
+  },
+  {
+    "codigo": "00642A",
+    "nombres": "RUIZ ARMAS AYLEN MONSERRAT",
+    "puntaje": 91.8
+  },
+  {
+    "codigo": "00643B",
+    "nombres": "VÁSQUEZ PINEDO LEANDRO FABRICIO",
+    "puntaje": 61.45
+  },
+  {
+    "codigo": "00644C",
+    "nombres": "HUAMAN VILLAFUERTE SEBASTIAN JOAQUIN",
+    "puntaje": 59
+  },
+  {
+    "codigo": "00645D",
+    "nombres": "DELGADILLO BAZALAR GABRIEL ALEXANDER",
+    "puntaje": 66.4
+  },
+  {
+    "codigo": "00646E",
+    "nombres": "YAURI BASALDÚA ANDRÉ JHOSTIN",
+    "puntaje": 77
+  },
+  {
+    "codigo": "00647F",
+    "nombres": "AGUILAR AVENDAÑO CRISTOFER DAVID",
+    "puntaje": 26.05
+  },
+  {
+    "codigo": "00648G",
+    "nombres": "MIRANDA FARFAN SYLVANA MICAELA",
+    "puntaje": null
+  },
+  {
+    "codigo": "00649H",
+    "nombres": "OBLITAS FERRER MAYCOL",
+    "puntaje": 60.65
+  },
+  {
+    "codigo": "00650A",
+    "nombres": "SANTA CRUZ ALONSO EMMY LUHANA",
+    "puntaje": 70.4
+  },
+  {
+    "codigo": "00651B",
+    "nombres": "GONZALES SALAS DAYANA LIZ",
+    "puntaje": 60.1
+  },
+  {
+    "codigo": "00652C",
+    "nombres": "VILLALOBOS ESPINOZA FRANCESCO GUSTAVO",
+    "puntaje": 66.4
+  },
+  {
+    "codigo": "00653D",
+    "nombres": "SOLORZANO CARRION DANIEL",
+    "puntaje": 59.65
+  },
+  {
+    "codigo": "00654E",
+    "nombres": "SALAZAR MATEO JOHN KELLER SNEYDER",
+    "puntaje": 70.25
+  },
+  {
+    "codigo": "00655F",
+    "nombres": "CISNEROS VARGAS GABRIEL JESÚS",
+    "puntaje": 98.2
+  },
+  {
+    "codigo": "00656G",
+    "nombres": "LOPEZ ARAUJO JEAN PIER",
+    "puntaje": 45.2
+  },
+  {
+    "codigo": "00657H",
+    "nombres": "ARCE ECHEVARRIA WALTER ENRIQUE",
+    "puntaje": 97.3
+  },
+  {
+    "codigo": "00658A",
+    "nombres": "FLORES DENOS CARLOS",
+    "puntaje": 59.9
+  },
+  {
+    "codigo": "00659B",
+    "nombres": "HUAYAPA CAPUÑAY ALEJANDRO",
+    "puntaje": 91.1
+  },
+  {
+    "codigo": "00660C",
+    "nombres": "MEJIA ZACNICH GIAN PIERO",
+    "puntaje": 111.3
+  },
+  {
+    "codigo": "00661D",
+    "nombres": "VALENCIA ROJAS YOURI LEONEL DJORKAEFH",
+    "puntaje": 72.55
+  },
+  {
+    "codigo": "00662E",
+    "nombres": "NOLAZCO ENRIQUEZ BEMJAMIM MIJAEL",
+    "puntaje": 66.6
+  },
+  {
+    "codigo": "00663F",
+    "nombres": "GOMEZ QUISPE BREGEETHE VALENTINA",
+    "puntaje": 26.6
+  },
+  {
+    "codigo": "00664G",
+    "nombres": "CASTAÑEDA MALPARTIDA ANTHONY JESÚS",
+    "puntaje": 41.4
+  },
+  {
+    "codigo": "00665H",
+    "nombres": "CRUZ SOLIS KEVIN ANGEL",
+    "puntaje": 54.65
+  },
+  {
+    "codigo": "00666A",
+    "nombres": "SANCHEZ SOLANO AYUMI ELIANA",
+    "puntaje": 54.75
+  },
+  {
+    "codigo": "00667B",
+    "nombres": "LEON BAUTISTA ESNAIDER LEONARDO",
+    "puntaje": 52.9
+  },
+  {
+    "codigo": "00668C",
+    "nombres": "AGUIRRE SOTO JHORDAN SHNEIDER",
+    "puntaje": 64.1
+  },
+  {
+    "codigo": "00669D",
+    "nombres": "HUILLCA DE LA CRUZ JHON IGUAIN",
+    "puntaje": 68.3
+  },
+  {
+    "codigo": "00670E",
+    "nombres": "REBATA MEDRANO FABRIZIO",
+    "puntaje": 51.3
+  },
+  {
+    "codigo": "00671F",
+    "nombres": "VASQUEZ DURAND JHONNY GABRIEL",
+    "puntaje": 91.4
+  },
+  {
+    "codigo": "00672G",
+    "nombres": "HUANCAS ALVARADO NICOLE ALEXANDRA",
+    "puntaje": 43.2
+  },
+  {
+    "codigo": "00673H",
+    "nombres": "ESPIRITU ALIAGA VALESHKA ADALIS",
+    "puntaje": 66.8
+  },
+  {
+    "codigo": "00674A",
+    "nombres": "MESAJIL GUILLEN AYELEN DAYLA",
+    "puntaje": 49.8
+  },
+  {
+    "codigo": "00675B",
+    "nombres": "RODRIGUEZ CASTRO ENRY ADRIAN",
+    "puntaje": 73.4
+  },
+  {
+    "codigo": "00676C",
+    "nombres": "VENTO SANDOVAL ADRIÁN FABRIZIO",
+    "puntaje": 46.05
+  },
+  {
+    "codigo": "00677D",
+    "nombres": "ESPINOZA ZAPANA ENMANUEL ICHIRO",
+    "puntaje": 111
+  },
+  {
+    "codigo": "00678E",
+    "nombres": "QUISPE MONTALVAN DIEGO GERALD",
+    "puntaje": 60.35
+  },
+  {
+    "codigo": "00679F",
+    "nombres": "BANDA MEDRANO JOUBERTH DANILO",
+    "puntaje": 39.6
+  },
+  {
+    "codigo": "00680G",
+    "nombres": "RUBINA AGUILAR MARICIELO RUBY",
+    "puntaje": 69.8
+  },
+  {
+    "codigo": "00681H",
+    "nombres": "FALCÓN DEL CASTILLO JOAQUÍN GABRIEL ALEXANDER",
+    "puntaje": 84
+  },
+  {
+    "codigo": "00682A",
+    "nombres": "SALAZAR IPANAQUÉ SOPHIA MARIAN",
+    "puntaje": 62.85
+  },
+  {
+    "codigo": "00683B",
+    "nombres": "AUCCAILLE LICONA JOSÉ MANUEL",
+    "puntaje": 43.1
+  },
+  {
+    "codigo": "00684C",
+    "nombres": "MARCOS VALDEZ ALEXIS EDWIN",
+    "puntaje": 95.35
+  },
+  {
+    "codigo": "00685D",
+    "nombres": "CASTRO DOLORIERT GIANFRANCO",
+    "puntaje": 85.35
+  },
+  {
+    "codigo": "00686E",
+    "nombres": "TUEROS FERMIN LUIS ANGEL",
+    "puntaje": 50.95
+  },
+  {
+    "codigo": "00687F",
+    "nombres": "TIXI SOLIS VERÓNICA PATRICIA",
+    "puntaje": 62.5
+  },
+  {
+    "codigo": "00688G",
+    "nombres": "ALVAREZ TORO DICSON JHIRO KHALET",
+    "puntaje": 50.9
+  },
+  {
+    "codigo": "00689H",
+    "nombres": "TORRES ENCISO YUL BRYAN",
+    "puntaje": 62.45
+  },
+  {
+    "codigo": "00690A",
+    "nombres": "MARTINEZ DE LA CRUZ SHARIF ZAHIR",
+    "puntaje": 59
+  },
+  {
+    "codigo": "00691B",
+    "nombres": "NUREÑA PAUCARIMA BRAYAN JOAQUIN",
+    "puntaje": 78.4
+  },
+  {
+    "codigo": "00692C",
+    "nombres": "SAMANIEGO CASALLO ERICK EDUARDO",
+    "puntaje": 77.2
+  },
+  {
+    "codigo": "00693D",
+    "nombres": "SERNA ALVITEZ STEVEN DANNY JAIR",
+    "puntaje": 67.6
+  },
+  {
+    "codigo": "00694E",
+    "nombres": "HUACRE ZAMORA CAMILO VALENTE",
+    "puntaje": 55.25
+  },
+  {
+    "codigo": "00695F",
+    "nombres": "RIVERA SABOGAL GABRIEL ANTONIO",
+    "puntaje": 38.3
+  },
+  {
+    "codigo": "00696G",
+    "nombres": "CHOQUEHUAMANI ANAYHUACHACA INGRIDT JASMINE",
+    "puntaje": 52.9
+  },
+  {
+    "codigo": "00697H",
+    "nombres": "BERROCAL ELÍAS SHILAN",
+    "puntaje": 52.85
+  },
+  {
+    "codigo": "00698A",
+    "nombres": "GARCIA MENDOZA KAZUO FABIAN",
+    "puntaje": 77.05
+  },
+  {
+    "codigo": "00699B",
+    "nombres": "VENEGAS PILLACA DANILO ITALO",
+    "puntaje": 26.05
+  },
+  {
+    "codigo": "00700C",
+    "nombres": "PAUCARHUANCA CACERES JESÚS ALEXANDER",
+    "puntaje": 57.55
+  },
+  {
+    "codigo": "00701D",
+    "nombres": "CORDOVA CHUÑOJA CRISTHIAN FACUNDO",
+    "puntaje": 87.6
+  },
+  {
+    "codigo": "00702E",
+    "nombres": "PIZARRO OROPEZA SEBASTIAN",
+    "puntaje": 66.3
+  },
+  {
+    "codigo": "00703F",
+    "nombres": "UTRILLA RENGIFO THAYRA JENISSET",
+    "puntaje": 54
+  },
+  {
+    "codigo": "00704G",
+    "nombres": "CASTRO AGUINAGA JOSE ALEJANDRO",
+    "puntaje": 66.95
+  },
+  {
+    "codigo": "00705H",
+    "nombres": "ROJAS CHALLCO THANIA MARICIELO",
+    "puntaje": 43.7
+  },
+  {
+    "codigo": "00706A",
+    "nombres": "ALVARO DELGADO ALEJANDRO",
+    "puntaje": 109.5
+  },
+  {
+    "codigo": "00707B",
+    "nombres": "TRUJILLO SALAZAR KIARA",
+    "puntaje": 65.2
+  },
+  {
+    "codigo": "00708C",
+    "nombres": "CONTRERAS LÓPEZ FÁTIMA YASMINE",
+    "puntaje": 69
+  },
+  {
+    "codigo": "00709D",
+    "nombres": "FUERTES BERROSPI NICOLL ANTONELLA",
+    "puntaje": 24.65
+  },
+  {
+    "codigo": "00710E",
+    "nombres": "IPARRAGUIRRE RISCO CRISTOPHER ROBINSON",
+    "puntaje": 109.6
+  },
+  {
+    "codigo": "00711F",
+    "nombres": "CORONEL BUSTAMANTE ARIEL ANDRÉ",
+    "puntaje": 76.6
+  },
+  {
+    "codigo": "00712G",
+    "nombres": "RONCAL UCHILLAN ALVARO FELIPE",
+    "puntaje": 59.85
+  },
+  {
+    "codigo": "00713H",
+    "nombres": "MONTORO MELGAREJO MICHAEL",
+    "puntaje": 63.8
+  },
+  {
+    "codigo": "00714A",
+    "nombres": "BANDA ODAR TATIANA BRIGITTE",
+    "puntaje": null
+  },
+  {
+    "codigo": "00715B",
+    "nombres": "CORDOVA LEONARDO FABRIZIO SEBASTIÁN",
+    "puntaje": 50.85
+  },
+  {
+    "codigo": "00716C",
+    "nombres": "MEZA JUAREZ EDWIN DIEGO",
+    "puntaje": 79.3
+  },
+  {
+    "codigo": "00717D",
+    "nombres": "MAMANI CHIRA DANKER SHARUN",
+    "puntaje": 77.6
+  },
+  {
+    "codigo": "00718E",
+    "nombres": "GUEVARA ZUÑIGA NATZUMI GLORIA",
+    "puntaje": 39.6
+  },
+  {
+    "codigo": "00719F",
+    "nombres": "PARDAVE CONTRERAS STEVEN YOSHUA",
+    "puntaje": 92.8
+  },
+  {
+    "codigo": "00720G",
+    "nombres": "ENCISO ROCA CHRISTIAN ANTONIO",
+    "puntaje": 43.25
+  },
+  {
+    "codigo": "00721H",
+    "nombres": "HUAYHUALLA CHASQUIBOL EFRAIN",
+    "puntaje": 61.45
+  },
+  {
+    "codigo": "00722A",
+    "nombres": "APOLINARIO AVELLANEDA JADE SAMIRA",
+    "puntaje": 47.85
+  },
+  {
+    "codigo": "00723B",
+    "nombres": "BENERO FERNÁNDEZ ANDERSON ALEXANDER",
+    "puntaje": 56.85
+  },
+  {
+    "codigo": "00724C",
+    "nombres": "URIARTE ALVARADO KAMILA SHANIRA",
+    "puntaje": 66.95
+  },
+  {
+    "codigo": "00725D",
+    "nombres": "VALENTIN TORRES PIERO DEYVI",
+    "puntaje": 58.95
+  },
+  {
+    "codigo": "00726E",
+    "nombres": "SANTISTEBAN MORALES CHRISTIAN JHAIR",
+    "puntaje": 79.8
+  },
+  {
+    "codigo": "00727F",
+    "nombres": "GUTIERREZ SANTA CRUZ PIERO FABRIZIO",
+    "puntaje": 37.8
+  },
+  {
+    "codigo": "00728G",
+    "nombres": "RIVERA CASTRO MARCELO ANDRE",
+    "puntaje": 42.7
+  },
+  {
+    "codigo": "00729H",
+    "nombres": "PAMPAS DE LA CRUZ ISAAC ANGEL",
+    "puntaje": 117.75
+  },
+  {
+    "codigo": "00730A",
+    "nombres": "LEON GOICOCHEA ANDRE ANIBAL",
+    "puntaje": 123
+  },
+  {
+    "codigo": "00731B",
+    "nombres": "GAYTAN GONZALES SANDRO JHONNY",
+    "puntaje": 46.25
+  },
+  {
+    "codigo": "00732C",
+    "nombres": "TACZA PASTRANA ALONZO ENMANUEL",
+    "puntaje": 89
+  },
+  {
+    "codigo": "00733D",
+    "nombres": "BERNABE RUIZ SERGIO FERNANDO",
+    "puntaje": 107
+  },
+  {
+    "codigo": "00734E",
+    "nombres": "PUMA TINTAYO EVELYN NICOLL FABIOLA",
+    "puntaje": 75.6
+  },
+  {
+    "codigo": "00735F",
+    "nombres": "URDANIVIA VERA FABIO SEBASTIAN",
+    "puntaje": 33.15
+  },
+  {
+    "codigo": "00736G",
+    "nombres": "DIAZ VARA DAYREN JHANPIER",
+    "puntaje": 37.05
+  },
+  {
+    "codigo": "00737H",
+    "nombres": "CRUZADO SALSAVILCA EDWARD FRANCISCO",
+    "puntaje": 34.4
+  },
+  {
+    "codigo": "00738A",
+    "nombres": "VILLALOBOS SAIRE YOLBIZ AVRIL",
+    "puntaje": 60.2
+  },
+  {
+    "codigo": "00739B",
+    "nombres": "ESPINOZA PALOMINO LUCIANA NAYURI",
+    "puntaje": 72.8
+  },
+  {
+    "codigo": "00740C",
+    "nombres": "MATUTE DE LA CRUZ LIONEL EMANUEL MARTÍN",
+    "puntaje": 73.6
+  },
+  {
+    "codigo": "00741D",
+    "nombres": "ACUÑA SOLANO PAULA CECILIA",
+    "puntaje": 35.9
+  },
+  {
+    "codigo": "00742E",
+    "nombres": "GONZALES GUADALUPE CAMILA FERNANDA",
+    "puntaje": 50.8
+  },
+  {
+    "codigo": "00743F",
+    "nombres": "GUTARRA AVALOS SERGIO GUTARRA",
+    "puntaje": 85.6
+  },
+  {
+    "codigo": "00744G",
+    "nombres": "QUILCA PEZUA RUBEN MATHIAS",
+    "puntaje": 87.6
+  },
+  {
+    "codigo": "00745H",
+    "nombres": "VERA BANCAYAN GABRIELA",
+    "puntaje": 64.6
+  },
+  {
+    "codigo": "00746A",
+    "nombres": "GARCIA MARTINEZ YEIKO YARI",
+    "puntaje": 65.8
+  },
+  {
+    "codigo": "00747B",
+    "nombres": "EULOGIO ZAMORA ROMINA MÍA",
+    "puntaje": 71.75
+  },
+  {
+    "codigo": "00748C",
+    "nombres": "RAMIREZ RODRIGUEZ BENJAMIN JOSHUA",
+    "puntaje": 57.1
+  },
+  {
+    "codigo": "00749D",
+    "nombres": "INGA JIMENEZ ANALYA",
+    "puntaje": 62.2
+  },
+  {
+    "codigo": "00750E",
+    "nombres": "LEYVA ACUÑA ALEXANDER SEBASTIAN",
+    "puntaje": 62.3
+  },
+  {
+    "codigo": "00751F",
+    "nombres": "SANCHEZ MACHACA ADRIAN ALEXANDER",
+    "puntaje": 93.5
+  },
+  {
+    "codigo": "00752G",
+    "nombres": "TREJO CHAUCA NICOLA DANILO",
+    "puntaje": 83.2
+  },
+  {
+    "codigo": "00753H",
+    "nombres": "ACHULLI TANTAVILCA YOSHIRO LEANDRO",
+    "puntaje": 70.3
+  },
+  {
+    "codigo": "00754A",
+    "nombres": "URPI VELIZ JOSE GONZALO",
+    "puntaje": 44.25
+  },
+  {
+    "codigo": "00755B",
+    "nombres": "LUJAN BERNA JESUS ALBERTO",
+    "puntaje": 44.05
+  },
+  {
+    "codigo": "00756C",
+    "nombres": "SEBEDON ALLCCAHUAMAN LEONEL STEFFANO",
+    "puntaje": 30.25
+  },
+  {
+    "codigo": "00757D",
+    "nombres": "FELIX HUAMAN ALEXSANDER ABEL",
+    "puntaje": 71.85
+  },
+  {
+    "codigo": "00758E",
+    "nombres": "NINA MALQUI RAQUEL ABIGAIL",
+    "puntaje": 63.6
+  },
+  {
+    "codigo": "00759F",
+    "nombres": "VILCA ALFARO SONIA GABRIELA",
+    "puntaje": 59.2
+  },
+  {
+    "codigo": "00760G",
+    "nombres": "PERONA HUAITA YADIEL EMILIANO",
+    "puntaje": 76.4
+  },
+  {
+    "codigo": "00761H",
+    "nombres": "CHACÓN DELACRUZ MARISABEL KIARA",
+    "puntaje": 47.4
+  },
+  {
+    "codigo": "00762A",
+    "nombres": "BALTAZAR CARCASI MIGUEL ANGEL",
+    "puntaje": 85.9
+  },
+  {
+    "codigo": "00763B",
+    "nombres": "CHAMBILLA MOLINA JOSUE JAREF",
+    "puntaje": 78.6
+  },
+  {
+    "codigo": "00764C",
+    "nombres": "FLORES GARCIA GUILLERMO MANUEL",
+    "puntaje": 48.45
+  },
+  {
+    "codigo": "00765D",
+    "nombres": "BALBUENA PADILLA URIEL SALVADOR",
+    "puntaje": 118.6
+  },
+  {
+    "codigo": "00766E",
+    "nombres": "LIÑAN GARCIA RONALD YAMIL",
+    "puntaje": 51
+  },
+  {
+    "codigo": "00767F",
+    "nombres": "CRUZ CAPISO RENEE JOSUE",
+    "puntaje": 102.15
+  },
+  {
+    "codigo": "00768G",
+    "nombres": "MIRAVAL BARRANTES IKER ALESSANDRO ADMER",
+    "puntaje": 33
+  },
+  {
+    "codigo": "00769H",
+    "nombres": "PARIACHI ARMUTO EDWIN YHUNIOR",
+    "puntaje": 102.55
+  },
+  {
+    "codigo": "00770A",
+    "nombres": "RICAPA ALVARADO DIEGO ALEJANDRO",
+    "puntaje": 37.8
+  },
+  {
+    "codigo": "00771B",
+    "nombres": "TUCTO TUME KEIRA ALINE",
+    "puntaje": 48.05
+  },
+  {
+    "codigo": "00772C",
+    "nombres": "GOMEZ HONORIO IRENE YAMILET",
+    "puntaje": 50.05
+  },
+  {
+    "codigo": "00773D",
+    "nombres": "PONCE DE LEÓN CÁCERES SANTIAGO GABRIEL",
+    "puntaje": 40.65
+  },
+  {
+    "codigo": "00774E",
+    "nombres": "RAZA SOLORZANO RUTH JUANA",
+    "puntaje": 65.6
+  },
+  {
+    "codigo": "00775F",
+    "nombres": "TICONA AVALOS JAMES JHOSETH",
+    "puntaje": 79.45
+  },
+  {
+    "codigo": "00776G",
+    "nombres": "SINCHE SANTOS LEONARDO STEFANO",
+    "puntaje": 99.45
+  },
+  {
+    "codigo": "00777H",
+    "nombres": "SALAZAR MEJÍA RENZO GIOVANNI",
+    "puntaje": 32.7
+  },
+  {
+    "codigo": "00778A",
+    "nombres": "EVANAN RAMIREZ GINO DIONEL",
+    "puntaje": 85.8
+  },
+  {
+    "codigo": "00779B",
+    "nombres": "CASTILLO ZARZOSA MATTHIAS ALESSANDRO",
+    "puntaje": 98.8
+  },
+  {
+    "codigo": "00780C",
+    "nombres": "SOLIS HUAMANI ADRIAN FRANCISCO",
+    "puntaje": 54.3
+  },
+  {
+    "codigo": "00781D",
+    "nombres": "PEÑA CRISPIN LUIS FERNANDO RAÚL",
+    "puntaje": 44.75
+  },
+  {
+    "codigo": "00782E",
+    "nombres": "BERNARDO QUISPE ANDREA ROSA",
+    "puntaje": 75.3
+  },
+  {
+    "codigo": "00783F",
+    "nombres": "SALSAVILCA ASENCIO MOISÉS DAVID",
+    "puntaje": 93.8
+  },
+  {
+    "codigo": "00784G",
+    "nombres": "ANTONIO MATOS YUMY MIRELLA",
+    "puntaje": 48.3
+  },
+  {
+    "codigo": "00785H",
+    "nombres": "VACA CATUNTA DANNA AYLEN",
+    "puntaje": 41.15
+  },
+  {
+    "codigo": "00786A",
+    "nombres": "MENDOZA ZAPATA RODRIGO BRUNO MATIAS",
+    "puntaje": 48.55
+  },
+  {
+    "codigo": "00787B",
+    "nombres": "NAZARIO ALVARADO JUAN MIGUEL",
+    "puntaje": 67.15
+  },
+  {
+    "codigo": "00788C",
+    "nombres": "RAMOS ÁVILA MIGUL ALEXANDER",
+    "puntaje": 39.7
+  },
+  {
+    "codigo": "00789D",
+    "nombres": "MURGA LOYOLA JOSE ALEJANDRO",
+    "puntaje": 51.2
+  },
+  {
+    "codigo": "00790E",
+    "nombres": "GALLEGOS NAVARRO LUANA CAYETANA",
+    "puntaje": 38.1
+  },
+  {
+    "codigo": "00791F",
+    "nombres": "VILLACREZ SALINAS HAZIEL ALEXANDER",
+    "puntaje": 42.7
+  },
+  {
+    "codigo": "00792G",
+    "nombres": "HERRERA CHULLO STHIF RODRIGO",
+    "puntaje": 73.6
+  },
+  {
+    "codigo": "00793H",
+    "nombres": "GALARZA GAMARRA CARLOS YHADIEL",
+    "puntaje": 48.85
+  },
+  {
+    "codigo": "00794A",
+    "nombres": "CENTTI EVANGELISTA SAÚL SAMUEL",
+    "puntaje": 76.05
+  },
+  {
+    "codigo": "00795B",
+    "nombres": "TURPO OLANO LUCERO ANAMILE",
+    "puntaje": 61.35
+  },
+  {
+    "codigo": "00796C",
+    "nombres": "CUBA RAMOS TIAGO ABIEL",
+    "puntaje": 33.6
+  },
+  {
+    "codigo": "00797D",
+    "nombres": "PEREDA VALDERRAMA ADRYAN ALEXANDER",
+    "puntaje": 40.8
+  },
+  {
+    "codigo": "00798E",
+    "nombres": "GUTIERREZ LLACCTA STEFANY NOYURY",
+    "puntaje": 56.9
+  },
+  {
+    "codigo": "00799F",
+    "nombres": "DIAZ SILVA KIARA NAYELI",
+    "puntaje": 45.85
+  },
+  {
+    "codigo": "00800G",
+    "nombres": "QUISPE JAIME MARCELO ANTONIO",
+    "puntaje": 104.9
+  },
+  {
+    "codigo": "00801H",
+    "nombres": "GALLO JARAMILLO FLAVIO",
+    "puntaje": 37.8
+  },
+  {
+    "codigo": "00802A",
+    "nombres": "LEON GUEVARA SERGIO MAXI EMILIANO",
+    "puntaje": 51.55
+  },
+  {
+    "codigo": "00803B",
+    "nombres": "BALDEON MENDOZA ANTHONY NICOLAS",
+    "puntaje": 76.65
+  },
+  {
+    "codigo": "00804C",
+    "nombres": "MORALES CHUQUIRUNA MARIA FERNANDA",
+    "puntaje": 46.1
+  },
+  {
+    "codigo": "00805D",
+    "nombres": "CHAMBI ORE MARTIN MARCELO",
+    "puntaje": 47.85
+  },
+  {
+    "codigo": "00806E",
+    "nombres": "BAUTISTA MOSQUERA CÉSAR SEBASTIAN",
+    "puntaje": 83.8
+  },
+  {
+    "codigo": "00807F",
+    "nombres": "ZEVALLOS RIVERA ALESSA YERELI",
+    "puntaje": 86
+  },
+  {
+    "codigo": "00808G",
+    "nombres": "MARTINEZ NUÑEZ ESTEFANO JOSHUA",
+    "puntaje": 101.4
+  },
+  {
+    "codigo": "00809H",
+    "nombres": "AGUILAR REQUE GABRIEL MATIAS",
+    "puntaje": 56.7
+  },
+  {
+    "codigo": "00810A",
+    "nombres": "ROQUE CARDENAS MATHIAS",
+    "puntaje": 57.4
+  },
+  {
+    "codigo": "00811B",
+    "nombres": "SOLIS HUERTA JHON TERRY",
+    "puntaje": 82.4
+  },
+  {
+    "codigo": "00812C",
+    "nombres": "TEODOSIO VEGA JOSEP ITALO",
+    "puntaje": 70.5
+  },
+  {
+    "codigo": "00813D",
+    "nombres": "PUMARICA ANACLETO YAJAYRA NICOL",
+    "puntaje": 34.3
+  },
+  {
+    "codigo": "00814E",
+    "nombres": "HUAYTA PEREZ LEONEL JAIME",
+    "puntaje": 56.2
+  },
+  {
+    "codigo": "00815F",
+    "nombres": "CABRERA ZEVALLOS GABRIEL ALEXANDER",
+    "puntaje": 46.9
+  },
+  {
+    "codigo": "00816G",
+    "nombres": "BENDEZU CONDEZO GIAN PIERS",
+    "puntaje": 86.2
+  },
+  {
+    "codigo": "00817H",
+    "nombres": "ZARATE MORETO LUANA LUCILA",
+    "puntaje": 57.4
+  },
+  {
+    "codigo": "00818A",
+    "nombres": "CARRIÓN MAZA CRISTIAN DAVID",
+    "puntaje": 48.15
+  },
+  {
+    "codigo": "00819B",
+    "nombres": "COLLANTES SALIRROSAS ANGEL RODRIGO",
+    "puntaje": 77.9
+  },
+  {
+    "codigo": "00820C",
+    "nombres": "CHICLE VALVERDE MATHEO GABRIEL",
+    "puntaje": 121.8
+  },
+  {
+    "codigo": "00821D",
+    "nombres": "ESPINOZA ROMERO VICTOR NAWELL",
+    "puntaje": 58.85
+  },
+  {
+    "codigo": "00822E",
+    "nombres": "LOPEZ ROCA ANGELA ISAÍAS",
+    "puntaje": 53.65
+  },
+  {
+    "codigo": "00823F",
+    "nombres": "PALOMINO VALENCIA DEYANIRA ALISSON JASMIN",
+    "puntaje": 36.55
+  },
+  {
+    "codigo": "00824G",
+    "nombres": "OSCCO CANO JOSUE LEONARDO",
+    "puntaje": 59.6
+  },
+  {
+    "codigo": "00825H",
+    "nombres": "CHAMBI ROJAS MARC ANTHONY",
+    "puntaje": 45.5
+  },
+  {
+    "codigo": "00826A",
+    "nombres": "GUERRA FUENTES RIVERA XAVI ALONSO",
+    "puntaje": 54.4
+  },
+  {
+    "codigo": "00827B",
+    "nombres": "PAREDES DOMÍNGUEZ VALERIA SOLEDAD",
+    "puntaje": 52.1
+  },
+  {
+    "codigo": "00828C",
+    "nombres": "ACUÑA FLORES SANTIAGO ALONSO",
+    "puntaje": 48.95
+  },
+  {
+    "codigo": "00829D",
+    "nombres": "ARANDA MIRANDA ESMERALDA MAITEÉ",
+    "puntaje": 50.8
+  },
+  {
+    "codigo": "00830E",
+    "nombres": "GARCIA FERNANDEZ IKER ANDRES",
+    "puntaje": 85.2
+  },
+  {
+    "codigo": "00831F",
+    "nombres": "MEDRANO CANCHÁN JONATHAN SAMUEL",
+    "puntaje": 43.4
+  },
+  {
+    "codigo": "00832G",
+    "nombres": "GARCIA CUNO DAYRON IVAN",
+    "puntaje": 27.65
+  },
+  {
+    "codigo": "00833H",
+    "nombres": "QUISPE RAMOS GILMAR ANGEL",
+    "puntaje": 71.45
+  },
+  {
+    "codigo": "00834A",
+    "nombres": "CENTENO BERROCAL GIANPAOLO ZAHIR",
+    "puntaje": 47.05
+  },
+  {
+    "codigo": "00835B",
+    "nombres": "ALVAREZ GARCÍA DAVID ALEJANDRO",
+    "puntaje": 55.4
+  },
+  {
+    "codigo": "00836C",
+    "nombres": "LUCERO VASQUEZ AIRTON HATUEY",
+    "puntaje": 15.4
+  },
+  {
+    "codigo": "00837D",
+    "nombres": "YAHUARCANI ROJAS ROGER STEFANO",
+    "puntaje": 37
+  },
+  {
+    "codigo": "00838E",
+    "nombres": "LA SERNA BARRIENTOS ANDREÉ DAVID",
+    "puntaje": 61.95
+  },
+  {
+    "codigo": "00839F",
+    "nombres": "HUAMANI VARGAS SRDJAN JESÚS",
+    "puntaje": 72.8
+  },
+  {
+    "codigo": "00840G",
+    "nombres": "GUZMAN PAREDES JESUS",
+    "puntaje": 91.4
+  },
+  {
+    "codigo": "00841H",
+    "nombres": "LLATA GASPAR DIEGO ADRIANO",
+    "puntaje": 79.15
+  },
+  {
+    "codigo": "00842A",
+    "nombres": "JULON YUCRA STEVEN GERRARD",
+    "puntaje": 35.05
+  },
+  {
+    "codigo": "00843B",
+    "nombres": "CROVETTO CARBALLO PIERO STEFANO",
+    "puntaje": 54.3
+  },
+  {
+    "codigo": "00844C",
+    "nombres": "AGÜERO PALACIN CARLOS DANIEL",
+    "puntaje": 56.1
+  },
+  {
+    "codigo": "00845D",
+    "nombres": "GAGO VILLA FRANK VALENTINO CHRIS",
+    "puntaje": 58.8
+  },
+  {
+    "codigo": "00846E",
+    "nombres": "GARCIA CAHUANA GENESIS LISSET",
+    "puntaje": 72.65
+  },
+  {
+    "codigo": "00847F",
+    "nombres": "LLAHUILLA CCALLME BERNY ANGHELA CHASKA",
+    "puntaje": 85.8
+  },
+  {
+    "codigo": "00848G",
+    "nombres": "HUAMAN AYSANA FERNANDO MIGUEL",
+    "puntaje": 49.6
+  },
+  {
+    "codigo": "00849H",
+    "nombres": "ESPIRITU ROJAS MARIA CARIDAD",
+    "puntaje": 48.2
+  },
+  {
+    "codigo": "00850A",
+    "nombres": "PEREZ HUAMAN CRISTHIAN",
+    "puntaje": 88.8
+  },
+  {
+    "codigo": "00851B",
+    "nombres": "YUPANQUI NICOLAS LUIS LUIGGI DANIEL",
+    "puntaje": 100.15
+  },
+  {
+    "codigo": "00852C",
+    "nombres": "GONZALES GOZZER ADRIANO VALENTINO",
+    "puntaje": 47.7
+  },
+  {
+    "codigo": "00853D",
+    "nombres": "AYALA CELCASCA NICOLE CAMILA",
+    "puntaje": 46.2
+  },
+  {
+    "codigo": "00854E",
+    "nombres": "POMACARHUA NAUPA STEFANO FABIAN",
+    "puntaje": 85.5
+  },
+  {
+    "codigo": "00855F",
+    "nombres": "BERMEO ZAVALETA MATHIAS ALONSO",
+    "puntaje": 32.1
+  },
+  {
+    "codigo": "00856G",
+    "nombres": "TOVAR YUPANQUI ANDRES ANTHONNY",
+    "puntaje": 63.75
+  },
+  {
+    "codigo": "00857H",
+    "nombres": "AYALA ZELADA LUIS ADRIEL JOSABETH",
+    "puntaje": 60.9
+  },
+  {
+    "codigo": "00858A",
+    "nombres": "PAUCAR ARANGO JUAN FERNANDO",
+    "puntaje": 78.65
+  },
+  {
+    "codigo": "00859B",
+    "nombres": "BORDA RODRIGUEZ SALVADOR LUIS",
+    "puntaje": 64.85
+  },
+  {
+    "codigo": "00860C",
+    "nombres": "GUEVARA POZO JAMES ANDREW",
+    "puntaje": 46.2
+  },
+  {
+    "codigo": "00861D",
+    "nombres": "CORONEL DÍAZ ANDRIU MITCHELL",
+    "puntaje": 53.9
+  },
+  {
+    "codigo": "00862E",
+    "nombres": "LLAMO GARCIA DANIEL ALEXANDER",
+    "puntaje": 57.05
+  },
+  {
+    "codigo": "00863F",
+    "nombres": "FERNANDEZ AUCCA EDILSON LEONARDO JEEFRE",
+    "puntaje": 49.4
+  },
+  {
+    "codigo": "00864G",
+    "nombres": "LINO QUECAÑO JEAN FRANCO JESUS",
+    "puntaje": null
+  },
+  {
+    "codigo": "00865H",
+    "nombres": "ESCATE RIVERA RAYMOND BRIAN KIANO",
+    "puntaje": 38.75
+  },
+  {
+    "codigo": "00866A",
+    "nombres": "GUEVARA HUAMÁN JEFFERSON ALONSO",
+    "puntaje": 61.8
+  },
+  {
+    "codigo": "00867B",
+    "nombres": "YANQUI QUISPE YANINA LICETH",
+    "puntaje": 68
+  },
+  {
+    "codigo": "00868C",
+    "nombres": "GUERRERO CHAMBI MATEO JOSUE",
+    "puntaje": 63.35
+  },
+  {
+    "codigo": "00869D",
+    "nombres": "VILLAGARAY NIZA FAVIO VALENTINO",
+    "puntaje": 108.65
+  },
+  {
+    "codigo": "00870E",
+    "nombres": "DE LA TORRE HUAMAN GABRIELA BELEN",
+    "puntaje": 60.45
+  },
+  {
+    "codigo": "00871F",
+    "nombres": "COLLAS MUNAYCO NEHEMIAS OTONIEL",
+    "puntaje": 70
+  },
+  {
+    "codigo": "00872G",
+    "nombres": "QUISPE POMA JEREMY ALEXANDER",
+    "puntaje": 62.6
+  },
+  {
+    "codigo": "00873H",
+    "nombres": "BARRERA BARRANZUELA FABIAN ESTEBAN",
+    "puntaje": 94
+  },
+  {
+    "codigo": "00874A",
+    "nombres": "PARIONA OBREGON KOTSKA VALENTINO",
+    "puntaje": 54
+  },
+  {
+    "codigo": "00875B",
+    "nombres": "PARIONA ACUÑA ALDO ADRIANO",
+    "puntaje": 43.05
+  },
+  {
+    "codigo": "00876C",
+    "nombres": "VASQUEZ GUTIERREZ NATHAN JARED ALEXANDER",
+    "puntaje": 82.2
+  },
+  {
+    "codigo": "00877D",
+    "nombres": "VILCA LAZARO CARLOS RAFAEL",
+    "puntaje": 82.8
+  },
+  {
+    "codigo": "00878E",
+    "nombres": "OSORIO PARIHUAMAN HECTOR ISIDRO RICARDO",
+    "puntaje": 92.45
+  },
+  {
+    "codigo": "00879F",
+    "nombres": "MAYHUA GALLEGOS GRAIZY ANAHY",
+    "puntaje": 98.6
+  },
+  {
+    "codigo": "00880G",
+    "nombres": "CASTRO LAZO MARÍA SOLEDAD YELA",
+    "puntaje": 74.6
+  },
+  {
+    "codigo": "00881H",
+    "nombres": "FERNANDEZ PEREZ SAMIR ESAU",
+    "puntaje": 50.5
+  },
+  {
+    "codigo": "00882A",
+    "nombres": "IPANAQUE DIAZ JOSSIMAR",
+    "puntaje": 51.05
+  },
+  {
+    "codigo": "00883B",
+    "nombres": "HAU CORONADO SANTIAGO ALONSO ELMERT",
+    "puntaje": 56.4
+  },
+  {
+    "codigo": "00884C",
+    "nombres": "RAMIREZ ROSAS ALEXANDER IAN",
+    "puntaje": 82.25
+  },
+  {
+    "codigo": "00885D",
+    "nombres": "PEREZ VALDEZ AXEL VALJEAN ILIADES",
+    "puntaje": 75.2
+  },
+  {
+    "codigo": "00886E",
+    "nombres": "ORTIZ VELASCO JUAN FELIX",
+    "puntaje": 46.85
+  },
+  {
+    "codigo": "00887F",
+    "nombres": "VALDEZ MAMANI ADRIÁN SEBASTIÁN",
+    "puntaje": 82.8
+  },
+  {
+    "codigo": "00888G",
+    "nombres": "VASQUEZ ANDRADE ANGEL LIONEL",
+    "puntaje": 56.05
+  },
+  {
+    "codigo": "00889H",
+    "nombres": "MALPARTIDA SÁNCHEZ MATIAS ABRAHAM",
+    "puntaje": 77.8
+  },
+  {
+    "codigo": "00890A",
+    "nombres": "OLIVOS ALIAGA DYRON PATRICK",
+    "puntaje": 63.45
+  },
+  {
+    "codigo": "00891B",
+    "nombres": "QUISPE PALACIOS LIEDSON KHAEL",
+    "puntaje": 43.8
+  },
+  {
+    "codigo": "00892C",
+    "nombres": "MAMANI GUZMAN JOSÉ ANTONIO",
+    "puntaje": 29.45
+  },
+  {
+    "codigo": "00893D",
+    "nombres": "GUTIERREZ CORTEZ EDUARDO ANDRE",
+    "puntaje": 74.25
+  },
+  {
+    "codigo": "00894E",
+    "nombres": "MORALES CHAMPA EDDY JOSIMAR ALEXANDER",
+    "puntaje": 81.8
+  },
+  {
+    "codigo": "00895F",
+    "nombres": "SULCA OSNAYO VALERIA SULCA",
+    "puntaje": 87.45
+  },
+  {
+    "codigo": "00896G",
+    "nombres": "CARRASCO GAMBOA LUIS JUNIOR",
+    "puntaje": 66.65
+  },
+  {
+    "codigo": "00897H",
+    "nombres": "MUNAYCO OJEDA MATÍAS",
+    "puntaje": 45.45
+  },
+  {
+    "codigo": "00898A",
+    "nombres": "PAUCARASTO PILLACA SAMIR DANIEL",
+    "puntaje": 40.4
+  },
+  {
+    "codigo": "00899B",
+    "nombres": "HUAMANI PERALTA JAFET RENZO",
+    "puntaje": 91.4
+  },
+  {
+    "codigo": "00900C",
+    "nombres": "DIAZ VILCHEZ VICTORIA LEONELA",
+    "puntaje": 64.7
+  },
+  {
+    "codigo": "00901D",
+    "nombres": "PEREZ QUISPE YESICA CONSUELO SOLEDAD",
+    "puntaje": 66.4
+  },
+  {
+    "codigo": "00902E",
+    "nombres": "MONRROY QUIJAHUAMAN DALIANA ANGYE",
+    "puntaje": 70.95
+  },
+  {
+    "codigo": "00903F",
+    "nombres": "CORDOVA ESTRADA JOSHUA OSWALDO",
+    "puntaje": 56.75
+  },
+  {
+    "codigo": "00904G",
+    "nombres": "CARRASCO ASTIGUETTA IAN ADOLFO",
+    "puntaje": 54.35
+  },
+  {
+    "codigo": "00905H",
+    "nombres": "POMA DE LA CRUZ EDOM MANUEL",
+    "puntaje": 40.9
+  },
+  {
+    "codigo": "00906A",
+    "nombres": "MEJIA VILCA DANIELA",
+    "puntaje": 77.9
+  },
+  {
+    "codigo": "00907B",
+    "nombres": "QUISPE VALENCIA DARIEL ALONSO",
+    "puntaje": 35.25
+  },
+  {
+    "codigo": "00908C",
+    "nombres": "SALAS CADILLO JAVIER VALENTINO",
+    "puntaje": 47.6
+  },
+  {
+    "codigo": "00909D",
+    "nombres": "MATEO PINTO JARED JOSUE DAVID",
+    "puntaje": 62.2
+  },
+  {
+    "codigo": "00910E",
+    "nombres": "SÁNCHEZ GARCIA ALEX FABIAN",
+    "puntaje": 71
+  },
+  {
+    "codigo": "00911F",
+    "nombres": "RUMAY BARRANTES JUAN DIEGO ALONSO",
+    "puntaje": 70.8
+  },
+  {
+    "codigo": "00912G",
+    "nombres": "RUIZ MATEO ALEXANDER",
+    "puntaje": 60.5
+  },
+  {
+    "codigo": "00913H",
+    "nombres": "COSTA CARRERA LEONARDO MATHIAS",
+    "puntaje": 85.65
+  },
+  {
+    "codigo": "00914A",
+    "nombres": "PALOMINO TIPISMANA JUAN JOSÉ",
+    "puntaje": 75.05
+  },
+  {
+    "codigo": "00915B",
+    "nombres": "NAVARRO PRINCIPE KYLIE NELLY TAIS",
+    "puntaje": 75.6
+  },
+  {
+    "codigo": "00916C",
+    "nombres": "CHARALLA MISAJEL IKER SEBASTIAN",
+    "puntaje": 34.6
+  },
+  {
+    "codigo": "00917D",
+    "nombres": "CORONADO TORRES ADRYAN EDUARDO",
+    "puntaje": 40.35
+  },
+  {
+    "codigo": "00918E",
+    "nombres": "MAQUERA CASTELLARES MATT ROLAND",
+    "puntaje": 27.45
+  },
+  {
+    "codigo": "00919F",
+    "nombres": "GUILLEN ASTO ZAMIRA",
+    "puntaje": 47.15
+  },
+  {
+    "codigo": "00920G",
+    "nombres": "PRINCIPE GUTIERREZ FLAVIO DANIEL",
+    "puntaje": 73.55
+  },
+  {
+    "codigo": "00921H",
+    "nombres": "GUILLEN ASTO JOSE ANTONIO",
+    "puntaje": 29.4
+  },
+  {
+    "codigo": "00922A",
+    "nombres": "SEGURA RAMOS DAYRA EVELYN",
+    "puntaje": 87.9
+  },
+  {
+    "codigo": "00923B",
+    "nombres": "TTITO CORDOVA GIMMY ALEXANDER",
+    "puntaje": 59.8
+  },
+  {
+    "codigo": "00924C",
+    "nombres": "ZORRILLA CHUQUIHUANGA ARIANA ISABELA",
+    "puntaje": 72.4
+  },
+  {
+    "codigo": "00925D",
+    "nombres": "MANRIQUE LIZANA FERNANDO GONZALO",
+    "puntaje": 43.95
+  },
+  {
+    "codigo": "00926E",
+    "nombres": "SALINAS PAREDES BRAYAN",
+    "puntaje": 69.4
+  },
+  {
+    "codigo": "00927F",
+    "nombres": "CASTRO LIÑAN HORACIO RAFAEL",
+    "puntaje": 51.9
+  },
+  {
+    "codigo": "00928G",
+    "nombres": "PANDURO TORRES WILLIAM JOAQUIN",
+    "puntaje": 59.85
+  },
+  {
+    "codigo": "00929H",
+    "nombres": "NUÑEZ VARILLAS KIARA DATIANA",
+    "puntaje": 57.2
+  },
+  {
+    "codigo": "00930A",
+    "nombres": "CANDELARIO LAPA ABDEL EMANUEL",
+    "puntaje": 58
+  },
+  {
+    "codigo": "00931B",
+    "nombres": "GOMEZ VILLARREAL VAREK MANUEL",
+    "puntaje": 82.2
+  },
+  {
+    "codigo": "00932C",
+    "nombres": "DÍAZ ZELAYA BRIHANNA PRISCILA",
+    "puntaje": 65.2
+  },
+  {
+    "codigo": "00933D",
+    "nombres": "SAUCEDO ESTRADA BENJAMIN LEE",
+    "puntaje": 87.75
+  },
+  {
+    "codigo": "00934E",
+    "nombres": "BALBOA YUPANQUI FERNANDO",
+    "puntaje": 115.7
+  },
+  {
+    "codigo": "00935F",
+    "nombres": "SANCHEZ PILLCO DHAYIRO JHAIR",
+    "puntaje": 75.2
+  },
+  {
+    "codigo": "00936G",
+    "nombres": "TRUCIOS MEZA ANDRYU",
+    "puntaje": 64.9
+  },
+  {
+    "codigo": "00937H",
+    "nombres": "GUEVARA MEDINA FRANK VICENTE",
+    "puntaje": 65.6
+  },
+  {
+    "codigo": "00938A",
+    "nombres": "CAYO LEÓN LUCIANA CAMILA",
+    "puntaje": 59.25
+  },
+  {
+    "codigo": "00939B",
+    "nombres": "CONTRERAS AGUIRRE RALPH MICHELL",
+    "puntaje": 65.95
+  },
+  {
+    "codigo": "00940C",
+    "nombres": "GABRIEL BERMEJO JHONATAN LEONEL FELIPE",
+    "puntaje": 70.95
+  },
+  {
+    "codigo": "00941D",
+    "nombres": "ESPIRITU MICHUE JOAQUIN JORGE",
+    "puntaje": 89.05
+  },
+  {
+    "codigo": "00942E",
+    "nombres": "VALDEZ TAFUR FABRIZIO ALESSANDRO",
+    "puntaje": 75.95
+  },
+  {
+    "codigo": "00943F",
+    "nombres": "ROQUE YANA JIMMY ALVARO ALEXANDER",
+    "puntaje": 69.4
+  },
+  {
+    "codigo": "00944G",
+    "nombres": "CABEZAS CARDENAS RENZO DANIEL",
+    "puntaje": 44.4
+  },
+  {
+    "codigo": "00945H",
+    "nombres": "ISIDRO HUAMANI KYLIE ROMINA",
+    "puntaje": 76.05
+  },
+  {
+    "codigo": "00946A",
+    "nombres": "RIOS VELASQUEZ FRANCO MATHEO",
+    "puntaje": 84.7
+  },
+  {
+    "codigo": "00947B",
+    "nombres": "GONZALES JAYO LEONARDO LUCHYAN",
+    "puntaje": 71.6
+  },
+  {
+    "codigo": "00948C",
+    "nombres": "PAREDES NESTARES PAOLO",
+    "puntaje": 38.85
+  },
+  {
+    "codigo": "00949D",
+    "nombres": "URBANO CUYUBAMBA CARLOS ALEJANDRO",
+    "puntaje": 55.6
+  },
+  {
+    "codigo": "00950E",
+    "nombres": "VARGAS ROMERO LUCIA MILAGROS",
+    "puntaje": 80.9
+  },
+  {
+    "codigo": "00951F",
+    "nombres": "CORTEZ HUAYHUARIMA JEREMY JOSUE",
+    "puntaje": 59.15
+  },
+  {
+    "codigo": "00952G",
+    "nombres": "MORENO MUÑOZ ANGEL ADRIANO",
+    "puntaje": 60.65
+  },
+  {
+    "codigo": "00953H",
+    "nombres": "GOÑE NEGRETE JEAN CARLOS",
+    "puntaje": 83.6
+  },
+  {
+    "codigo": "00954A",
+    "nombres": "HUAMANI ROMERO NEYMAR NICACIO",
+    "puntaje": 33.45
+  },
+  {
+    "codigo": "00955B",
+    "nombres": "CHUQUINO CARRASCO NATALY XIOMARA",
+    "puntaje": 57.4
+  },
+  {
+    "codigo": "00956C",
+    "nombres": "BAYLON CORDOVA JAYHANA NATZUMY",
+    "puntaje": 73.2
+  },
+  {
+    "codigo": "00957D",
+    "nombres": "NAVARRO LIZANA FRANCO PATRICK",
+    "puntaje": 62.2
+  },
+  {
+    "codigo": "00958E",
+    "nombres": "ROJAS LÓPEZ PYA VALENTINA",
+    "puntaje": 62.45
+  },
+  {
+    "codigo": "00959F",
+    "nombres": "OTTINIANO FLORES VALERIA FRANCESCA",
+    "puntaje": 78.45
+  },
+  {
+    "codigo": "00960G",
+    "nombres": "HUAYTALLA QUISPE RUSCH DAYRON",
+    "puntaje": 128.8
+  },
+  {
+    "codigo": "00961H",
+    "nombres": "CORDOVA PALACIOS JOHAN ALEXANDER",
+    "puntaje": 70.6
+  },
+  {
+    "codigo": "00962A",
+    "nombres": "CACHIQUE TANTA SEBASTIAN MATHIAS",
+    "puntaje": 39
+  },
+  {
+    "codigo": "00963B",
+    "nombres": "HUAMAN COSQUILLO ETHAN WILMER",
+    "puntaje": 63
+  },
+  {
+    "codigo": "00964C",
+    "nombres": "GUTIERREZ CHAGUA MATIAS LEONARDO FIDEL",
+    "puntaje": 42.7
+  },
+  {
+    "codigo": "00965D",
+    "nombres": "YATACO ESTRADA GIANFRANCO",
+    "puntaje": 51.85
+  },
+  {
+    "codigo": "00966E",
+    "nombres": "ROMERO LLACUA JOSEPH",
+    "puntaje": 55.45
+  },
+  {
+    "codigo": "00967F",
+    "nombres": "HUAMANI ROMERO ROLY FERDINAND MARCELO",
+    "puntaje": 34.65
+  },
+  {
+    "codigo": "00968G",
+    "nombres": "SORIA HUAMÁN RODRIGO",
+    "puntaje": 81.2
+  },
+  {
+    "codigo": "00969H",
+    "nombres": "VARA NUÑEZ BENJAMIN JOSEPH",
+    "puntaje": 82.2
+  },
+  {
+    "codigo": "00970A",
+    "nombres": "PAQUIYAURI HUAMANI ANGEL DAVID",
+    "puntaje": 59.05
+  },
+  {
+    "codigo": "00971B",
+    "nombres": "CASAS QUISPE FABIO GERARDO",
+    "puntaje": 66.25
+  },
+  {
+    "codigo": "00972C",
+    "nombres": "VILCHEZ VIDAURRE JHANCARLO ALDAHIR",
+    "puntaje": 54.6
+  },
+  {
+    "codigo": "00973D",
+    "nombres": "RAMÍREZ REQUEJO MATIAS ALBERTO",
+    "puntaje": 64.3
+  },
+  {
+    "codigo": "00974E",
+    "nombres": "QUISPE GONZALES SERGIO FABIAN",
+    "puntaje": 70.1
+  },
+  {
+    "codigo": "00975F",
+    "nombres": "BURGA FLORES VALENTINO JHONELL",
+    "puntaje": 81.4
+  },
+  {
+    "codigo": "00976G",
+    "nombres": "ALARCON QUISPE JOSUE SEBASTIAN",
+    "puntaje": 58.7
+  },
+  {
+    "codigo": "00977H",
+    "nombres": "ROMANÍ CANDIA MATÍAS ADEMIR",
+    "puntaje": 78.4
+  },
+  {
+    "codigo": "00978A",
+    "nombres": "RAMIREZ VALLADARES HELEN ROSSE",
+    "puntaje": 96.25
+  },
+  {
+    "codigo": "00979B",
+    "nombres": "ROMERO FERNANDEZ MARIANO IGNACIO",
+    "puntaje": 68.2
+  },
+  {
+    "codigo": "00980C",
+    "nombres": "PUMA HILARIO SEBASTIAN WILLIAM",
+    "puntaje": 84.25
+  },
+  {
+    "codigo": "00981D",
+    "nombres": "NUÑEZ ROJAS ANDY CRISTOPHER",
+    "puntaje": 81.75
+  },
+  {
+    "codigo": "00982E",
+    "nombres": "CARIHUASAIRO MAGUIÑA MIGUEL LEONARDO",
+    "puntaje": 72.8
+  },
+  {
+    "codigo": "00983F",
+    "nombres": "RANGEL PEREZ ADRIAN ALEXANDER",
+    "puntaje": 46.05
+  },
+  {
+    "codigo": "00984G",
+    "nombres": "PAREDES RUIZ GABRIEL ALONSO",
+    "puntaje": 53.65
+  },
+  {
+    "codigo": "00985H",
+    "nombres": "CHACCHA QUISPE THIAGO MATEO",
+    "puntaje": 117.4
+  },
+  {
+    "codigo": "00986A",
+    "nombres": "DIAZ PAREDES FRANK YOSHIRO",
+    "puntaje": 65.95
+  },
+  {
+    "codigo": "00987B",
+    "nombres": "VENEGAS PACAYA CARLOS SEBASTIÁN",
+    "puntaje": 61.05
+  },
+  {
+    "codigo": "00988C",
+    "nombres": "GOMEZ FERNANDEZ REIMOND JOSHUA VLADYMIR",
+    "puntaje": 56.75
+  },
+  {
+    "codigo": "00989D",
+    "nombres": "CHANGRA FLORES GABRIEL ANTONIO",
+    "puntaje": 108.6
+  },
+  {
+    "codigo": "00990E",
+    "nombres": "TAMARA BERNAOLA JENSINE GABRIELA",
+    "puntaje": 75.45
+  },
+  {
+    "codigo": "00991F",
+    "nombres": "JULCAMORO PALOMINO ÁLVARO DAVID",
+    "puntaje": 90.4
+  },
+  {
+    "codigo": "00992G",
+    "nombres": "RIVERA SUAREZ SHANTAL ARLETTE",
+    "puntaje": 85.65
+  },
+  {
+    "codigo": "00993H",
+    "nombres": "BRAVO ARENAS ARACELI DAYANA",
+    "puntaje": 65.65
+  },
+  {
+    "codigo": "00994A",
+    "nombres": "ATACHAO PAREDES MANUEL ALEXANDER",
+    "puntaje": 55.55
+  },
+  {
+    "codigo": "00995B",
+    "nombres": "PEREZ PRADO DASHA ZAREEN ARIADNE",
+    "puntaje": 68.4
+  },
+  {
+    "codigo": "00996C",
+    "nombres": "ALCÁNTARA RUIZ ANDERSON BRAYAN",
+    "puntaje": 51.95
+  },
+  {
+    "codigo": "00997D",
+    "nombres": "LEGUA GARCIA NICOLAS MATIAS",
+    "puntaje": 64.95
+  },
+  {
+    "codigo": "00998E",
+    "nombres": "HUERTAS NAVARRO JHOSUE MANUEL",
+    "puntaje": 60.9
+  },
+  {
+    "codigo": "00999F",
+    "nombres": "QUISPE PONCE NAISA LUANA",
+    "puntaje": 75
+  },
+  {
+    "codigo": "01000G",
+    "nombres": "RODRIGUEZ SILVA KENNETH ENRIQUE",
+    "puntaje": 33.9
+  },
+  {
+    "codigo": "01001H",
+    "nombres": "YAURI ALIAGA EDUARDO JOSE",
+    "puntaje": 37.65
+  },
+  {
+    "codigo": "01002A",
+    "nombres": "PASACHE GIRON MARÍA FERNANDA",
+    "puntaje": 64.85
+  },
+  {
+    "codigo": "01003B",
+    "nombres": "JUAREZ RISCO OMAR ANDRES",
+    "puntaje": 58.45
+  },
+  {
+    "codigo": "01004C",
+    "nombres": "CHAVEZ SALAS JOSE FERNANDO",
+    "puntaje": 61
+  },
+  {
+    "codigo": "01005D",
+    "nombres": "ARCHE QUISPE SEBASTIAN EDUARDO",
+    "puntaje": 97.65
+  },
+  {
+    "codigo": "01006E",
+    "nombres": "SULLCA TASILLA RAÚL JOEL",
+    "puntaje": 55.55
+  },
+  {
+    "codigo": "01007F",
+    "nombres": "CCORIMANYA HUAMAN JOSE MANUEL",
+    "puntaje": 54.7
+  },
+  {
+    "codigo": "01008G",
+    "nombres": "GOMEZ VALDEZ LUIS ADRIANO FELIX",
+    "puntaje": 66.75
+  },
+  {
+    "codigo": "01009H",
+    "nombres": "ALEJOS SOTOMAYOR ALVARO ENRIQUE",
+    "puntaje": 92.35
+  },
+  {
+    "codigo": "01010A",
+    "nombres": "GUERRA ZARATE MARICIELO ALEXANDRA",
+    "puntaje": 73.2
+  },
+  {
+    "codigo": "01011B",
+    "nombres": "PACO QUISPE CARLOS",
+    "puntaje": 66.55
+  },
+  {
+    "codigo": "01012C",
+    "nombres": "VILLAR ALATRISTA PAULO FABIAN",
+    "puntaje": 53.5
+  },
+  {
+    "codigo": "01013D",
+    "nombres": "LUIS FUERTES MANUEL JUNIOR",
+    "puntaje": 64.3
+  },
+  {
+    "codigo": "01014E",
+    "nombres": "ROSALES GONZALES JUSTIN RAFAEL",
+    "puntaje": 123.7
+  },
+  {
+    "codigo": "01015F",
+    "nombres": "PACHECO JANJE MARCOS ADRIAN",
+    "puntaje": 74
+  },
+  {
+    "codigo": "01016G",
+    "nombres": "ZUÑIGA PUMA RICARDO LUIS",
+    "puntaje": 81.5
+  },
+  {
+    "codigo": "01017H",
+    "nombres": "REMIGIO JARA ADRIÁN EDUARDO",
+    "puntaje": 71.95
+  },
+  {
+    "codigo": "01018A",
+    "nombres": "PÉREZ INGA GIANELLA ZARITH",
+    "puntaje": 67.8
+  },
+  {
+    "codigo": "01019B",
+    "nombres": "LLIMPE ROJAS JOSEPH",
+    "puntaje": 48.2
+  },
+  {
+    "codigo": "01020C",
+    "nombres": "LLIMPE ROJAS MELANNIE",
+    "puntaje": 71.45
+  },
+  {
+    "codigo": "01021D",
+    "nombres": "DÁVILA REYES JEISEN NADIA",
+    "puntaje": 70.3
+  },
+  {
+    "codigo": "01022E",
+    "nombres": "FRIAS CAMARA OSCAR PAUL",
+    "puntaje": 42.85
+  },
+  {
+    "codigo": "01023F",
+    "nombres": "LUCAS BARRETO ADRIANO RICARDO",
+    "puntaje": 70.2
+  },
+  {
+    "codigo": "01024G",
+    "nombres": "CONTRERAS RAMOS BRAYDON ALYSON",
+    "puntaje": 63.3
+  },
+  {
+    "codigo": "01025H",
+    "nombres": "PAREDES ACUÑA ALDFRITH FABIAN",
+    "puntaje": 38.25
+  },
+  {
+    "codigo": "01026A",
+    "nombres": "HUAYANAY GARCÍA ALEXIS",
+    "puntaje": 68.75
+  },
+  {
+    "codigo": "01027B",
+    "nombres": "QUISPE DIAZ JUNER SANTIAGO PATRIK",
+    "puntaje": 20.2
+  },
+  {
+    "codigo": "01028C",
+    "nombres": "BARRIENTOS NUÑEZ MARIANA",
+    "puntaje": 49.2
+  },
+  {
+    "codigo": "01029D",
+    "nombres": "ALVAREZ CHAMBI JOHN ANDERSON",
+    "puntaje": 71.8
+  },
+  {
+    "codigo": "01030E",
+    "nombres": "HUAYTALLA QUISPE JACK BRAYHAN",
+    "puntaje": 75.8
+  },
+  {
+    "codigo": "01031F",
+    "nombres": "CARBAJAL SULLCA SEBASTIAN DANILO JOEL",
+    "puntaje": 66.6
+  },
+  {
+    "codigo": "01032G",
+    "nombres": "VASQUEZ VALLADOLID FACUNDO JOAQUIN",
+    "puntaje": 100.05
+  },
+  {
+    "codigo": "01033H",
+    "nombres": "MEZA SUCA MATÍAS FERNANDO",
+    "puntaje": 63.6
+  },
+  {
+    "codigo": "01034A",
+    "nombres": "PARIONA ZEVALLOS NICOLE VALENTINA",
+    "puntaje": 61.4
+  },
+  {
+    "codigo": "01035B",
+    "nombres": "GUERRA RAMOS ALEJANDRO MANUEL",
+    "puntaje": 66
+  },
+  {
+    "codigo": "01036C",
+    "nombres": "JANAMPA GUTIERREZ YULISA",
+    "puntaje": 62.45
+  },
+  {
+    "codigo": "01037D",
+    "nombres": "LEÓN OCHOA BRADLEY JARED",
+    "puntaje": 64.65
+  },
+  {
+    "codigo": "01038E",
+    "nombres": "JUAREZ VILCA ARABELY",
+    "puntaje": 72
+  },
+  {
+    "codigo": "01039F",
+    "nombres": "MENESES FERNÁNDEZ JESUS MIGUEL",
+    "puntaje": 126.45
+  },
+  {
+    "codigo": "01040G",
+    "nombres": "DE LA CRUZ MALDONADO ALEX PIERO",
+    "puntaje": 69
+  },
+  {
+    "codigo": "01041H",
+    "nombres": "LLECLLISH CHOCCE GIAN FRANCO",
+    "puntaje": 48.35
+  },
+  {
+    "codigo": "01042A",
+    "nombres": "SANTAMARIA TORRES DARWIN JHAIR",
+    "puntaje": 62.35
+  },
+  {
+    "codigo": "01043B",
+    "nombres": "PAUCAR YTUSACA JUAN DIEGO",
+    "puntaje": 83.6
+  },
+  {
+    "codigo": "01044C",
+    "nombres": "RAMOS ESPINOZA EMMANUEL",
+    "puntaje": 107.2
+  },
+  {
+    "codigo": "01045D",
+    "nombres": "ALIAGA LEON HECTOR ISMAEL",
+    "puntaje": 38.25
+  },
+  {
+    "codigo": "01046E",
+    "nombres": "HUAMANI MELGAR LUIS",
+    "puntaje": 74.2
+  },
+  {
+    "codigo": "01047F",
+    "nombres": "DAVALOS RIVAS ANDREW PIERO",
+    "puntaje": 89.2
+  },
+  {
+    "codigo": "01048G",
+    "nombres": "BAYONA GONZALES OSCAR ANTONIO",
+    "puntaje": 73.6
+  },
+  {
+    "codigo": "01049H",
+    "nombres": "CASTILLO POLO GABRIELLA",
+    "puntaje": 95.15
+  },
+  {
+    "codigo": "01050A",
+    "nombres": "OSORIO ESTEBAN YOSHIMAR",
+    "puntaje": 40.35
+  },
+  {
+    "codigo": "01051B",
+    "nombres": "RODRIGUEZ RODRIGUEZ RODRIGO MATEO",
+    "puntaje": 64.6
+  },
+  {
+    "codigo": "01052C",
+    "nombres": "PONTE CECILIO ADRIAN",
+    "puntaje": 49.15
+  },
+  {
+    "codigo": "01053D",
+    "nombres": "CRUZ ENCINAS YOVANA",
+    "puntaje": 88.75
+  },
+  {
+    "codigo": "01054E",
+    "nombres": "ROJAS QUISPE BRYAN RODRIGO",
+    "puntaje": 59.05
+  },
+  {
+    "codigo": "01055F",
+    "nombres": "CHOQUE ENCINAS LUANA",
+    "puntaje": 64.2
+  },
+  {
+    "codigo": "01056G",
+    "nombres": "RICCI MALDONADO LEONEL",
+    "puntaje": 69.45
+  },
+  {
+    "codigo": "01057H",
+    "nombres": "CHAVEZ BARZOLA CIELO",
+    "puntaje": 51.15
+  },
+  {
+    "codigo": "01058A",
+    "nombres": "ESTEBAN AQUINO MARISOL",
+    "puntaje": 45.75
+  },
+  {
+    "codigo": "01059B",
+    "nombres": "NOLAZCO ESTEBAN MATIAS",
+    "puntaje": 55.3
+  },
+  {
+    "codigo": "01060C",
+    "nombres": "ROJAS MENDOZA ADRIANO SEBASTIAN",
+    "puntaje": 84
+  },
+  {
+    "codigo": "01061D",
+    "nombres": "RAMIREZ MEZA ADRIAN JOAQUIN",
+    "puntaje": 45.4
+  },
+  {
+    "codigo": "01062E",
+    "nombres": "FLORES NIETO SANTIAGO ALTAIR",
+    "puntaje": 35.35
+  },
+  {
+    "codigo": "01063F",
+    "nombres": "HUAMAN PIZANGO JUNIOR RODOLFO",
+    "puntaje": 38.65
+  },
+  {
+    "codigo": "01064G",
+    "nombres": "TORRES NACIMENTO LUANA ANDREA",
+    "puntaje": 52.45
+  },
+  {
+    "codigo": "01065H",
+    "nombres": "APARICIO CABALLERO OSCAR SEBASTHIAN ANTONIO",
+    "puntaje": 86.25
+  },
+  {
+    "codigo": "01066A",
+    "nombres": "PICOY POCOHUANCA PIERO JEANFRANCO",
+    "puntaje": 30.9
+  },
+  {
+    "codigo": "01067B",
+    "nombres": "TORRES PACHAS JOSÉ FERNANDO",
+    "puntaje": 67
+  },
+  {
+    "codigo": "01068C",
+    "nombres": "ECHEGARAY DE LA CRUZ FABRICIO JARED",
+    "puntaje": 64.8
+  },
+  {
+    "codigo": "01069D",
+    "nombres": "DIAZ LOSTAUNAU ADRIÁN NICOLÁS",
+    "puntaje": 66
+  },
+  {
+    "codigo": "01070E",
+    "nombres": "ALVAREZ FERNANDEZ CLAUDIO SEBASTIAN",
+    "puntaje": 85.15
+  },
+  {
+    "codigo": "01071F",
+    "nombres": "ALCARRAZ DELGADO EDUARDO GIANLUCA",
+    "puntaje": 69
+  },
+  {
+    "codigo": "01072G",
+    "nombres": "HERMOSILLA TALENAS MATHIUS ANGEL",
+    "puntaje": 64.3
+  },
+  {
+    "codigo": "01073H",
+    "nombres": "MARTINEZ LLUNGO MATHIAS ESTEBAN",
+    "puntaje": 110.6
+  },
+  {
+    "codigo": "01074A",
+    "nombres": "GUEVARA CAPCHA ARIANA JAZMIN",
+    "puntaje": 67
+  },
+  {
+    "codigo": "01075B",
+    "nombres": "PAMPA BONAFON VICTOR",
+    "puntaje": 58.2
+  },
+  {
+    "codigo": "01076C",
+    "nombres": "MAMANI ROJAS LEANDRO",
+    "puntaje": 82.4
+  },
+  {
+    "codigo": "01077D",
+    "nombres": "CHAVEZ CHAMOLI ARABELLA YAMILETH",
+    "puntaje": 76.05
+  },
+  {
+    "codigo": "01078E",
+    "nombres": "INGA MARTINEZ JONATHAN SMIT",
+    "puntaje": 58.65
+  },
+  {
+    "codigo": "01079F",
+    "nombres": "ESLAVA CARREÑO FRANKLIN GUILLE JOSE",
+    "puntaje": 57.3
+  },
+  {
+    "codigo": "01080G",
+    "nombres": "QUISPE JAIMES RENZO",
+    "puntaje": 89.5
+  },
+  {
+    "codigo": "01081H",
+    "nombres": "GOYCOCHEA GASPAR GERALDO",
+    "puntaje": 49.3
+  },
+  {
+    "codigo": "01082A",
+    "nombres": "VALVERDE AGUILAR EDUARDO ANTONIO",
+    "puntaje": 87
+  },
+  {
+    "codigo": "01083B",
+    "nombres": "MANRIQUE JESUS JORGE LUIS",
+    "puntaje": 61.85
+  },
+  {
+    "codigo": "01084C",
+    "nombres": "ORÉ MORÁN IBRAHIM ALEXEI GUADALUPE",
+    "puntaje": 57.75
+  },
+  {
+    "codigo": "01085D",
+    "nombres": "CORAQUILLO MENDOZA NURIEL",
+    "puntaje": 76.1
+  },
+  {
+    "codigo": "01086E",
+    "nombres": "HUAMAN DAVILA JOSE CALED",
+    "puntaje": 58.55
+  },
+  {
+    "codigo": "01087F",
+    "nombres": "LLANOS MOYA ROMINA BRECIA",
+    "puntaje": 92.8
+  },
+  {
+    "codigo": "01088G",
+    "nombres": "HUISA ULLOA JHOSEP YOGRETH",
+    "puntaje": 41.65
+  },
+  {
+    "codigo": "01089H",
+    "nombres": "RUIZ CHAMORRO ASHTON DAVID",
+    "puntaje": 71.85
+  },
+  {
+    "codigo": "01090A",
+    "nombres": "TREBEJO NINA RODRIGO EDWIN",
+    "puntaje": 84.35
+  },
+  {
+    "codigo": "01091B",
+    "nombres": "ROSALES BANCES GABRIELA BELEN",
+    "puntaje": 53.95
+  },
+  {
+    "codigo": "01092C",
+    "nombres": "GONZALES ENRIQUEZ DAVID SAMUEL",
+    "puntaje": 59.8
+  },
+  {
+    "codigo": "01093D",
+    "nombres": "LEON QUISPE MICHAEL JORDAN",
+    "puntaje": 64.6
+  },
+  {
+    "codigo": "01094E",
+    "nombres": "PALOMINO SANCHEZ JEMINA SHANEL",
+    "puntaje": 79.25
+  },
+  {
+    "codigo": "01095F",
+    "nombres": "ALCA RIOS CARLOS ANTONIO",
+    "puntaje": 88.45
+  },
+  {
+    "codigo": "01096G",
+    "nombres": "PIO PRINCIPE RIHANNA TABATA",
+    "puntaje": 47.7
+  },
+  {
+    "codigo": "01097H",
+    "nombres": "MAMANI PANIURA JETZIVA JIMENA",
+    "puntaje": 68.1
+  },
+  {
+    "codigo": "01098A",
+    "nombres": "HUERTA LOCONI RODOLFO JUNIOR",
+    "puntaje": 53.3
+  },
+  {
+    "codigo": "01099B",
+    "nombres": "DEXTRE ROMERO CARLOS SEBASTIAN",
+    "puntaje": 61.65
+  },
+  {
+    "codigo": "01100C",
+    "nombres": "ATAUCUSI VASQUEZ AARON YAMIR",
+    "puntaje": 76.6
+  },
+  {
+    "codigo": "01101D",
+    "nombres": "WINCHO CARRILLO CARLOS ALBERTO",
+    "puntaje": 66.2
+  },
+  {
+    "codigo": "01102E",
+    "nombres": "ALFARO JARA JOCELYN GABRIELA",
+    "puntaje": 73
+  },
+  {
+    "codigo": "01103F",
+    "nombres": "GONZÁLEZ PIHUE KLEIN FÉLIX",
+    "puntaje": 51.95
+  },
+  {
+    "codigo": "01104G",
+    "nombres": "MONROY UPIACHIHUA TIAGO RENATO",
+    "puntaje": 53.9
+  },
+  {
+    "codigo": "01105H",
+    "nombres": "TRELLES RAMNIREZ JOAQUIN MATHIAS",
+    "puntaje": 59.65
+  },
+  {
+    "codigo": "01106A",
+    "nombres": "DE LA CRUZ VARONA THYAGO DIDIER",
+    "puntaje": 63.6
+  },
+  {
+    "codigo": "01107B",
+    "nombres": "JUSTINIANO ESPINOZA SAAID YAMIL",
+    "puntaje": 62.6
+  },
+  {
+    "codigo": "01108C",
+    "nombres": "LAURENTE SANCHEZ ANSLY",
+    "puntaje": 31.95
+  },
+  {
+    "codigo": "01109D",
+    "nombres": "LETONA NOALCCA MELANI FRANCESCA",
+    "puntaje": 53.7
+  },
+  {
+    "codigo": "01110E",
+    "nombres": "PALACIOS SILVA RODRIGO ALEJANDRO",
+    "puntaje": 25.3
+  },
+  {
+    "codigo": "01111F",
+    "nombres": "QUISPE PALOMINO LEANDRO GAEL",
+    "puntaje": 81.8
+  },
+  {
+    "codigo": "01112G",
+    "nombres": "MORAN QUEZADA RONLI IMANOL",
+    "puntaje": 50.05
+  },
+  {
+    "codigo": "01113H",
+    "nombres": "ZAMBRANO LAZARO VALENTINO DANIEL",
+    "puntaje": 55.2
+  },
+  {
+    "codigo": "01114A",
+    "nombres": "YAUN ESPADA SHARON EMILY",
+    "puntaje": 52.35
+  },
+  {
+    "codigo": "01115B",
+    "nombres": "MUGUERZA MACHUCA JOSÉ LUIS",
+    "puntaje": 72.2
+  },
+  {
+    "codigo": "01116C",
+    "nombres": "CARDENAS CORTEZ SUMEILY ARIANA",
+    "puntaje": 55.6
+  },
+  {
+    "codigo": "01117D",
+    "nombres": "CHICLLA PAUCCAR JOSE JONAS",
+    "puntaje": 40.45
+  },
+  {
+    "codigo": "01118E",
+    "nombres": "CIERTO OYOLA SEBASTIAN LENIN",
+    "puntaje": 55.55
+  },
+  {
+    "codigo": "01119F",
+    "nombres": "PERALES TIRADO MARIA FERNANDA",
+    "puntaje": 47.9
+  },
+  {
+    "codigo": "01120G",
+    "nombres": "DE LA CRUZ AGUIRRE ANDREA EMELY",
+    "puntaje": 45
+  },
+  {
+    "codigo": "01121H",
+    "nombres": "LICAPA DE LA CRUZ ALLISSON",
+    "puntaje": 37.55
+  },
+  {
+    "codigo": "01122A",
+    "nombres": "RAMIREZ VALERO JEAN CARLOS",
+    "puntaje": 63.6
+  },
+  {
+    "codigo": "01123B",
+    "nombres": "VALVERDE BALBIN SERGIO CAMILO",
+    "puntaje": 104.8
+  },
+  {
+    "codigo": "01124C",
+    "nombres": "CAMAC ALIAGA ADRIAN ALEJANDRO",
+    "puntaje": 41.35
+  },
+  {
+    "codigo": "01125D",
+    "nombres": "TURPO TICSE NICOLÁS ALEXANDER",
+    "puntaje": 73.5
+  },
+  {
+    "codigo": "01126E",
+    "nombres": "CHANGANA HURTADO MELHANY GERALDINE",
+    "puntaje": 45.8
+  },
+  {
+    "codigo": "01127F",
+    "nombres": "CRUZ RAMIREZ WILFREDO ALEJANDRO",
+    "puntaje": 97.2
+  },
+  {
+    "codigo": "01128G",
+    "nombres": "LAZO POLO GRECO SEBASTIÁN",
+    "puntaje": 58.4
+  },
+  {
+    "codigo": "01129H",
+    "nombres": "GASTULO TORRES HAN PAUL",
+    "puntaje": 86.6
+  },
+  {
+    "codigo": "01130A",
+    "nombres": "TORRES MAICELO LUIS ALEJANDRO",
+    "puntaje": 67.3
+  },
+  {
+    "codigo": "01131B",
+    "nombres": "CHILET FARROMEQUE FABRIZIO ALEJANDRO",
+    "puntaje": 120.65
+  },
+  {
+    "codigo": "01132C",
+    "nombres": "QUIROZ TOCTO FRANK ALEX",
+    "puntaje": 66.4
+  },
+  {
+    "codigo": "01133D",
+    "nombres": "ARROYO AEDO RUBEN ZAID",
+    "puntaje": 74.6
+  },
+  {
+    "codigo": "01134E",
+    "nombres": "PEÑA FABIAN PIERO ANGHELO",
+    "puntaje": 47.95
+  },
+  {
+    "codigo": "01135F",
+    "nombres": "CACHAY VELIZ FERNANDO JOSE",
+    "puntaje": 52.75
+  },
+  {
+    "codigo": "01136G",
+    "nombres": "QUISPE QUIRO MEDALIT XIMENA",
+    "puntaje": 93.05
+  },
+  {
+    "codigo": "01137H",
+    "nombres": "CORDOVA LANDEO SANTIAGO",
+    "puntaje": 87.65
+  },
+  {
+    "codigo": "01138A",
+    "nombres": "PAREDES VALLEJO MATIAS VALENTIN",
+    "puntaje": 39.35
+  },
+  {
+    "codigo": "01139B",
+    "nombres": "MAYTA RAMIREZ GERALD ANDRÉ",
+    "puntaje": 60.45
+  },
+  {
+    "codigo": "01140C",
+    "nombres": "FONSECA CHOTON NICOLAS GEANLUCA",
+    "puntaje": 56
+  },
+  {
+    "codigo": "01141D",
+    "nombres": "POMAHUACRE MALCA JULIO JESÚS",
+    "puntaje": 82.6
+  },
+  {
+    "codigo": "01142E",
+    "nombres": "ENRICO AVALOS BIANCA SAMANTHA",
+    "puntaje": 65.7
+  },
+  {
+    "codigo": "01143F",
+    "nombres": "CUMBAY HERNANDEZ HILLARY GRISSELLE",
+    "puntaje": 78.7
+  },
+  {
+    "codigo": "01144G",
+    "nombres": "CRISTÓBAL GÓMEZ PAOLO RODRIGO",
+    "puntaje": 59
+  },
+  {
+    "codigo": "01145H",
+    "nombres": "MENDOZA NEYRA CAMILA",
+    "puntaje": 38.85
+  },
+  {
+    "codigo": "01146A",
+    "nombres": "VALVERDE CANALES ANDRU ALEXANDER",
+    "puntaje": 62.05
+  },
+  {
+    "codigo": "01147B",
+    "nombres": "MACAZANA PEREZ BRIAN",
+    "puntaje": 57.65
+  },
+  {
+    "codigo": "01148C",
+    "nombres": "VALLE ROSALES SEBASTIAN ALONSO",
+    "puntaje": 32.15
+  },
+  {
+    "codigo": "01149D",
+    "nombres": "SALDIVAR SILVA ANGEL RENATO",
+    "puntaje": 26.95
+  },
+  {
+    "codigo": "01150E",
+    "nombres": "CHOQUETICO GARCÍA BALEK RONALDO",
+    "puntaje": 39.75
+  },
+  {
+    "codigo": "01151F",
+    "nombres": "PADILLA ALVAREZ JEANPIERRE",
+    "puntaje": 59.8
+  },
+  {
+    "codigo": "01152G",
+    "nombres": "ZACARIAS GUEVARA DIEGO DAVID",
+    "puntaje": 101
+  },
+  {
+    "codigo": "01153H",
+    "nombres": "HUAPAYA DE LA CRUZ FERNANDO ARMANDO",
+    "puntaje": 34.4
+  },
+  {
+    "codigo": "01154A",
+    "nombres": "GERÓNIMO ESCOBAR LUIS REIMOND",
+    "puntaje": 113.55
+  },
+  {
+    "codigo": "01155B",
+    "nombres": "CÁRDENAS PALOMINO ANDERSON MANUEL",
+    "puntaje": 70.25
+  },
+  {
+    "codigo": "01156C",
+    "nombres": "URBANO TORRES SAMIR CARLOS",
+    "puntaje": 37.7
+  },
+  {
+    "codigo": "01157D",
+    "nombres": "BUENDIA SURQUISLLLA SEBASTIAN ALI",
+    "puntaje": 63.1
+  },
+  {
+    "codigo": "01158E",
+    "nombres": "TOLENTINO QUINTO YAELA XIOMARA",
+    "puntaje": 66.9
+  },
+  {
+    "codigo": "01159F",
+    "nombres": "MACURI CORONEL RYAHNRY OMAR",
+    "puntaje": 59.2
+  },
+  {
+    "codigo": "01160G",
+    "nombres": "BEINGOLEA GUZMAN JOSE ANGEL",
+    "puntaje": 58.05
+  },
+  {
+    "codigo": "01161H",
+    "nombres": "TISNADO YARLEQUÉ CALED ALEXANDER",
+    "puntaje": 47.85
+  },
+  {
+    "codigo": "01162A",
+    "nombres": "TOMAS ORTEGA AARÓN ALEXANDER",
+    "puntaje": 87.2
+  },
+  {
+    "codigo": "01163B",
+    "nombres": "CACHIQUE HUAMANI MATHIAS JOSÉ",
+    "puntaje": 56.9
+  },
+  {
+    "codigo": "01164C",
+    "nombres": "BERRU MORALES ASHLEY YUNET",
+    "puntaje": 53.2
+  },
+  {
+    "codigo": "01165D",
+    "nombres": "PALOMINO CARDENAS CIELO BRYANNA",
+    "puntaje": 90.05
+  },
+  {
+    "codigo": "01166E",
+    "nombres": "MANDUJANO GUTIERREZ FACUNDO MARCEL",
+    "puntaje": 58.25
+  },
+  {
+    "codigo": "01167F",
+    "nombres": "MAYTA MACEDO THIAGO SEBASTIAN",
+    "puntaje": 72.6
+  },
+  {
+    "codigo": "01168G",
+    "nombres": "CONTRERAS SANTOS JOSHUAR",
+    "puntaje": 64
+  },
+  {
+    "codigo": "01169H",
+    "nombres": "LÓPEZ POMAZÓN ESTEBAN ALONSO",
+    "puntaje": 73.8
+  },
+  {
+    "codigo": "01170A",
+    "nombres": "REYES POMA JOSEMIR JAIR",
+    "puntaje": 77
+  },
+  {
+    "codigo": "01171B",
+    "nombres": "BLAS DOROTEO GONZALO",
+    "puntaje": 61.85
+  },
+  {
+    "codigo": "01172C",
+    "nombres": "ANAMPA VASQUEZ MIJAIL ERWIN",
+    "puntaje": 57.45
+  },
+  {
+    "codigo": "01173D",
+    "nombres": "OCHOA HUARZAYA ANGIE YAMILETH",
+    "puntaje": 79.4
+  },
+  {
+    "codigo": "01174E",
+    "nombres": "CARBAJAL CARHUAZ RENZO",
+    "puntaje": 72.2
+  },
+  {
+    "codigo": "01175F",
+    "nombres": "RUIZ PLÁCIDO DIEGO ALEXANDER",
+    "puntaje": 46.5
+  },
+  {
+    "codigo": "01176G",
+    "nombres": "QUISPE ARMAS CARLOS ALBERTO",
+    "puntaje": 94.25
+  },
+  {
+    "codigo": "01177H",
+    "nombres": "TORRES HUILLCA JHORDY ABIEL",
+    "puntaje": 50.75
+  },
+  {
+    "codigo": "01178A",
+    "nombres": "SAAVEDRA GÜERE NICK ANDREW",
+    "puntaje": null
+  },
+  {
+    "codigo": "01179B",
+    "nombres": "BERRROCAL YAPIAS TAKESHI HIROMI",
+    "puntaje": 40.8
+  },
+  {
+    "codigo": "01180C",
+    "nombres": "MERINO PECHO EMANUEL JOSUA",
+    "puntaje": 78
+  },
+  {
+    "codigo": "01181D",
+    "nombres": "CHAMORRO LUQUE CHRISTOFER EMANUEL",
+    "puntaje": 79.4
+  },
+  {
+    "codigo": "01182E",
+    "nombres": "ARAUJO YUCRA DANIEL AGAPITO",
+    "puntaje": 70.65
+  },
+  {
+    "codigo": "01183F",
+    "nombres": "LA ROSA TRINIDAD MILTON",
+    "puntaje": 78.2
+  },
+  {
+    "codigo": "01184G",
+    "nombres": "CHUYMA VICTORIA ALESSANDRO ALEXIS",
+    "puntaje": 55.3
+  },
+  {
+    "codigo": "01185H",
+    "nombres": "RODRIGUEZ TOLENTINO ALEX RICARDO",
+    "puntaje": 86.4
+  },
+  {
+    "codigo": "01186A",
+    "nombres": "CALDERON MALLQUI YASHURY YAMILETH",
+    "puntaje": 80.8
+  },
+  {
+    "codigo": "01187B",
+    "nombres": "MATIAS RODRIGUEZ ARACELY XIOMARA",
+    "puntaje": null
+  },
+  {
+    "codigo": "01188C",
+    "nombres": "COLLANTES HUASHUAYO CARLOS JAVIER",
+    "puntaje": 45.95
+  },
+  {
+    "codigo": "01189D",
+    "nombres": "AYALA ZUÑIGA ANGELES TIZIANA DEL MILAGRO",
+    "puntaje": 53.95
+  },
+  {
+    "codigo": "01190E",
+    "nombres": "SALINAS OLIVARES ALISSON",
+    "puntaje": 81.2
+  },
+  {
+    "codigo": "01191F",
+    "nombres": "QUEVEDO SANDOVAL FABRIZIO JOEL",
+    "puntaje": 73.9
+  },
+  {
+    "codigo": "01192G",
+    "nombres": "PEREZ TOVAR MATIAS OMAR",
+    "puntaje": 77.4
+  },
+  {
+    "codigo": "01193H",
+    "nombres": "TOLENTINO HERRERA MAICOL ALEXANDER",
+    "puntaje": 62.6
+  },
+  {
+    "codigo": "01194A",
+    "nombres": "PANTOJA MENDOZA MATEO SEBASTIAN",
+    "puntaje": 103.4
+  },
+  {
+    "codigo": "01195B",
+    "nombres": "GONZÁLEZ QUISPE GAUSS EULER",
+    "puntaje": 53.85
+  },
+  {
+    "codigo": "01196C",
+    "nombres": "GONZALEZ QUISPE NIELS TAYLOR",
+    "puntaje": 34.8
+  },
+  {
+    "codigo": "01197D",
+    "nombres": "YANCÁN ESPLANA PIERO GUSTAVO",
+    "puntaje": 50.45
+  },
+  {
+    "codigo": "01198E",
+    "nombres": "ALVAREZ BARBOZA PAOLO DAVID",
+    "puntaje": 50.75
+  },
+  {
+    "codigo": "01199F",
+    "nombres": "DELGADO PINTO NAYELI",
+    "puntaje": 56.9
+  },
+  {
+    "codigo": "01200G",
+    "nombres": "SANTOS CACHAY LEONARDO",
+    "puntaje": 109.85
+  },
+  {
+    "codigo": "01201H",
+    "nombres": "ECHEVARRIA HUATAY FABRICIO ALADINO",
+    "puntaje": 65.2
+  },
+  {
+    "codigo": "01202A",
+    "nombres": "CONDORI PARI DAVID LIONEL",
+    "puntaje": 37.75
+  },
+  {
+    "codigo": "01203B",
+    "nombres": "LÁZARO CASTILLO JOHN BRANDER",
+    "puntaje": 74.4
+  },
+  {
+    "codigo": "01204C",
+    "nombres": "CRUZ VERA ALEJANDRO MARTIN",
+    "puntaje": 50.15
+  },
+  {
+    "codigo": "01205D",
+    "nombres": "MENDOZA ORTIZ OSCAR JOSUE",
+    "puntaje": 43.95
+  },
+  {
+    "codigo": "01206E",
+    "nombres": "LUCERO RAMOS FABIO NICOLAS",
+    "puntaje": 90.85
+  },
+  {
+    "codigo": "01207F",
+    "nombres": "BECERRA RONDOY OSCAR LENNY",
+    "puntaje": 61.75
+  },
+  {
+    "codigo": "01208G",
+    "nombres": "VILLANUEVA SIMÓN CARLOS MATHIAS",
+    "puntaje": 58.35
+  },
+  {
+    "codigo": "01209H",
+    "nombres": "ESPINOZA ORTIZ ENZO JEAN PIERRE",
+    "puntaje": 89.1
+  },
+  {
+    "codigo": "01210A",
+    "nombres": "ESPINOZA BRAVO JHONNY CHRISTIAN RODRIGO",
+    "puntaje": 83.8
+  },
+  {
+    "codigo": "01211B",
+    "nombres": "CAJUSOL TARAZONA ANTHONY ROBERTO FABIAN",
+    "puntaje": 77.15
+  },
+  {
+    "codigo": "01212C",
+    "nombres": "GONZALES QUISPE JAFET ISAAC",
+    "puntaje": 99.6
+  },
+  {
+    "codigo": "01213D",
+    "nombres": "CASTILLO MARTINEZ REYNICH JOAQUIN",
+    "puntaje": 59.75
+  },
+  {
+    "codigo": "01214E",
+    "nombres": "GONZALES QUISPE JULIO CESAR",
+    "puntaje": 25.15
+  },
+  {
+    "codigo": "01215F",
+    "nombres": "ROCCA HUAMAN KERTIN ISABEL",
+    "puntaje": 63.7
+  },
+  {
+    "codigo": "01216G",
+    "nombres": "CRUZ AGUILAR ANGEL GABRIEL",
+    "puntaje": 83.8
+  },
+  {
+    "codigo": "01217H",
+    "nombres": "VLACHOS HOYOS PETER NICOLAS",
+    "puntaje": 56.6
+  },
+  {
+    "codigo": "01218A",
+    "nombres": "LUQUE MERCADO FABRIZZIO SEBASTIAN",
+    "puntaje": null
+  },
+  {
+    "codigo": "01219B",
+    "nombres": "RIVERA GAMARRA VIVIAN",
+    "puntaje": 85.75
+  },
+  {
+    "codigo": "01220C",
+    "nombres": "CANALES VALENCIA MAURICIO",
+    "puntaje": 56.2
+  },
+  {
+    "codigo": "01221D",
+    "nombres": "VILLAFUERTE MAMANI RAID KAMIL",
+    "puntaje": 78.8
+  },
+  {
+    "codigo": "01222E",
+    "nombres": "MARREROS PAUCAR RODRIGO YAGO",
+    "puntaje": 53.8
+  },
+  {
+    "codigo": "01223F",
+    "nombres": "PUCHOC TAIPE LEONARDO DANTON",
+    "puntaje": 75.6
+  },
+  {
+    "codigo": "01224G",
+    "nombres": "OROPEZA LLACZA LUISA FRANCY",
+    "puntaje": 62.1
+  },
+  {
+    "codigo": "01225H",
+    "nombres": "CALDERON MORI EDUARDO D'ALESSANDRO",
+    "puntaje": 49.9
+  },
+  {
+    "codigo": "01226A",
+    "nombres": "GUERRERO ESCOBAR PIERO BENJAMÍN",
+    "puntaje": 53.2
+  },
+  {
+    "codigo": "01227B",
+    "nombres": "ROSALES OSORIO ANGELINE DAIANA",
+    "puntaje": 47
+  },
+  {
+    "codigo": "01228C",
+    "nombres": "MARCHENA CORDOVA MATIAS FRANCO",
+    "puntaje": 61.4
+  },
+  {
+    "codigo": "01229D",
+    "nombres": "ROSALES GONZALEZ LUCIANA ALEXANDRA",
+    "puntaje": 61.15
+  },
+  {
+    "codigo": "01230E",
+    "nombres": "CHUCO POMA MERLY MARLIT",
+    "puntaje": 52.05
+  },
+  {
+    "codigo": "01231F",
+    "nombres": "CABANILLAS URRACA HECTOR RODRIGO",
+    "puntaje": 69.05
+  },
+  {
+    "codigo": "01232G",
+    "nombres": "YGUIA MACEDO LUIS ALEXANDER",
+    "puntaje": 39.55
+  },
+  {
+    "codigo": "01233H",
+    "nombres": "VILLA GONZALES VÍCTOR MANUEL",
+    "puntaje": 123.7
+  },
+  {
+    "codigo": "01234A",
+    "nombres": "FALCON SUSANIVAR YASMIN NATHANIEL",
+    "puntaje": 80.6
+  },
+  {
+    "codigo": "01235B",
+    "nombres": "REYES FERNANDEZ ANGELO ALONSO",
+    "puntaje": 68.35
+  },
+  {
+    "codigo": "01236C",
+    "nombres": "CELI AGUIRRE RENZO DAVID",
+    "puntaje": 46.65
+  },
+  {
+    "codigo": "01237D",
+    "nombres": "RENJIFO DELGADO VALENTINA NATALIA",
+    "puntaje": 67.55
+  },
+  {
+    "codigo": "01238E",
+    "nombres": "CORNEJO CHAFLOQUE HAROLD JAEL",
+    "puntaje": 89
+  },
+  {
+    "codigo": "01239F",
+    "nombres": "MAMANI POMA JHORDY ANDERSON",
+    "puntaje": 43.85
+  },
+  {
+    "codigo": "01240G",
+    "nombres": "SANTOS ALVAREZ JUAN DIEGO IAN",
+    "puntaje": 68.6
+  },
+  {
+    "codigo": "01241H",
+    "nombres": "MANDUJANO GUTIERREZ RODRIGO JUAQUIN",
+    "puntaje": 82.45
+  },
+  {
+    "codigo": "01242A",
+    "nombres": "LAURA APONTE BRYAN",
+    "puntaje": 78.1
+  },
+  {
+    "codigo": "01243B",
+    "nombres": "ALVIS TINTAYA HECTOR GABRIEL",
+    "puntaje": 74
+  },
+  {
+    "codigo": "01244C",
+    "nombres": "VERONA TEPE CARLOS DAVID",
+    "puntaje": 49.6
+  },
+  {
+    "codigo": "01245D",
+    "nombres": "TORRES VARGAS DIEGO ALONSO",
+    "puntaje": 45.45
+  },
+  {
+    "codigo": "01246E",
+    "nombres": "BENDEZU DE LA CRUZ PABLO ALBERTO",
+    "puntaje": 85.05
+  },
+  {
+    "codigo": "01247F",
+    "nombres": "PUCHOC SALAZAR GIANELLA ROOSE",
+    "puntaje": 65.2
+  },
+  {
+    "codigo": "01248G",
+    "nombres": "SALAZAR HUAYTALLA LEONEL",
+    "puntaje": 21.05
+  },
+  {
+    "codigo": "01249H",
+    "nombres": "DIAZ CONDORI ENRIQUE",
+    "puntaje": 69.4
+  },
+  {
+    "codigo": "01250A",
+    "nombres": "MALLQUI CRUZ FERNANDA PAOLA",
+    "puntaje": 50.1
+  },
+  {
+    "codigo": "01251B",
+    "nombres": "OSORIO HUAMANI MIRELA NAOMI",
+    "puntaje": 75.05
+  },
+  {
+    "codigo": "01252C",
+    "nombres": "BERRU CHAVARRIA BENJAMIN FRANK",
+    "puntaje": 94.8
+  },
+  {
+    "codigo": "01253D",
+    "nombres": "HUANCAUQUI CANCHANYA DAYANA LYNETT",
+    "puntaje": 80.8
+  },
+  {
+    "codigo": "01254E",
+    "nombres": "BAÑON MONRROY CARLOS ALBEIRO",
+    "puntaje": 54.25
+  },
+  {
+    "codigo": "01255F",
+    "nombres": "ROMERO CRUZ IVAN BRITALDO",
+    "puntaje": 52.8
+  },
+  {
+    "codigo": "01256G",
+    "nombres": "SALDAÑA VIGO ALEJANDRA CRISTINA",
+    "puntaje": 66.95
+  },
+  {
+    "codigo": "01257H",
+    "nombres": "TRILLO CEREZO LEANDRO ALDAIR",
+    "puntaje": 46.35
+  },
+  {
+    "codigo": "01258A",
+    "nombres": "CORONEL FLORES PIERO RENATO",
+    "puntaje": 38.85
+  },
+  {
+    "codigo": "01259B",
+    "nombres": "BLAS RAMÓN GABRIELA ALEJANDRA",
+    "puntaje": 75.55
+  },
+  {
+    "codigo": "01260C",
+    "nombres": "VICTORIO RENGIFO JORGE ALEJANDRO",
+    "puntaje": 53.8
+  },
+  {
+    "codigo": "01261D",
+    "nombres": "ESPINOZA CABALLERO RENZO JOEL",
+    "puntaje": 59.8
+  },
+  {
+    "codigo": "01262E",
+    "nombres": "TELLO LUCIANO MIKEL LLOY",
+    "puntaje": 55.25
+  },
+  {
+    "codigo": "01263F",
+    "nombres": "ZAPATA MAYANGA CINTHYA VANESSA",
+    "puntaje": 47.2
+  },
+  {
+    "codigo": "01264G",
+    "nombres": "RAYME CANCHARI CARLOS DANIEL",
+    "puntaje": 51.05
+  },
+  {
+    "codigo": "01265H",
+    "nombres": "GARCIA MEZA DENNIS MANUEL",
+    "puntaje": 20.35
+  },
+  {
+    "codigo": "01266A",
+    "nombres": "SANTISTEBAN CAMLLA LUCAS NOE",
+    "puntaje": 55.5
+  },
+  {
+    "codigo": "01267B",
+    "nombres": "ALVARO MONTES JOSE ARMANDO",
+    "puntaje": 75.35
+  },
+  {
+    "codigo": "01268C",
+    "nombres": "HUAMAN ANCHIRAICO DAYRON RONALDO",
+    "puntaje": 63.2
+  },
+  {
+    "codigo": "01269D",
+    "nombres": "MELGAREJO GUTIERREZ SOFÍA MILAGROS",
+    "puntaje": 70.85
+  },
+  {
+    "codigo": "01270E",
+    "nombres": "ARELLANO RAMOS JAMIR JOSHUA JONATHAN",
+    "puntaje": 129.85
+  },
+  {
+    "codigo": "01271F",
+    "nombres": "GONZALES CORDOVA LEONARDO ESTTEBAN",
+    "puntaje": 79
+  },
+  {
+    "codigo": "01272G",
+    "nombres": "MENDOZA ESPINOZA YENNY LUCERO",
+    "puntaje": 48.25
+  },
+  {
+    "codigo": "01273H",
+    "nombres": "LINARES FLORES YANINA",
+    "puntaje": 76.6
+  },
+  {
+    "codigo": "01274A",
+    "nombres": "ROMERO MELO GUILLERMO JULIAN",
+    "puntaje": null
+  },
+  {
+    "codigo": "01275B",
+    "nombres": "ABURTO CAMPOS DIEGO ALEXANDER",
+    "puntaje": 99.4
+  },
+  {
+    "codigo": "01276C",
+    "nombres": "ALEJOS LAPA MAIKEL FABRIZIO",
+    "puntaje": 139.6
+  },
+  {
+    "codigo": "01277D",
+    "nombres": "FARFAN CHAU ANGELINA CHULAIN",
+    "puntaje": 41.15
+  },
+  {
+    "codigo": "01278E",
+    "nombres": "HUAMANI VALENTIN EMILY GENESIS",
+    "puntaje": 61.4
+  },
+  {
+    "codigo": "01279F",
+    "nombres": "GOMEZ ROSALES LIONEL ANDRE",
+    "puntaje": 104.8
+  },
+  {
+    "codigo": "01280G",
+    "nombres": "CALDERON VASQUEZ WILLAKUMUK GERBER",
+    "puntaje": 39.35
+  },
+  {
+    "codigo": "01281H",
+    "nombres": "CAMPOS SILVERA DANIEL MATHIAS",
+    "puntaje": 59.9
+  },
+  {
+    "codigo": "01282A",
+    "nombres": "OTINIANO JULIAN JOB VALENTINO",
+    "puntaje": 45.7
+  },
+  {
+    "codigo": "01283B",
+    "nombres": "DIAZ TELLO DAMARIZ MELISSA",
+    "puntaje": 67.8
+  },
+  {
+    "codigo": "01284C",
+    "nombres": "GUILLEN SAMANIEGO EDWARD STEFHAN",
+    "puntaje": 90.05
+  },
+  {
+    "codigo": "01285D",
+    "nombres": "PACHECO CCAHUANA JHORDANY",
+    "puntaje": 81.9
+  },
+  {
+    "codigo": "01286E",
+    "nombres": "ZARZOSA BRONCANO LUIS FABIANO",
+    "puntaje": 82.45
+  },
+  {
+    "codigo": "01287F",
+    "nombres": "CORDOVA FASABI ENZO ENRIQUE",
+    "puntaje": 68.6
+  },
+  {
+    "codigo": "01288G",
+    "nombres": "SANTO ESCALANTE JUAQUIN ANTONIO",
+    "puntaje": 57.25
+  },
+  {
+    "codigo": "01289H",
+    "nombres": "DOMINGUEZ CHUCHON MEYLY JASMIN",
+    "puntaje": 63.2
+  },
+  {
+    "codigo": "01290A",
+    "nombres": "SOTELO SANTIAGO DAYANNA DORCA",
+    "puntaje": 59.45
+  },
+  {
+    "codigo": "01291B",
+    "nombres": "NARVAEZ CAMACHO ABRAHAM ERNESTO",
+    "puntaje": 75.05
+  },
+  {
+    "codigo": "01292C",
+    "nombres": "CARRION PEREIRA SEBASTIAN PAOLO",
+    "puntaje": 83.2
+  },
+  {
+    "codigo": "01293D",
+    "nombres": "ESPINAL SUPO LUANA PATRICIA",
+    "puntaje": 67.8
+  },
+  {
+    "codigo": "01294E",
+    "nombres": "GALINDO HERNANDEZ ANTHONY LEONARDO",
+    "puntaje": 81
+  },
+  {
+    "codigo": "01295F",
+    "nombres": "TTACCA ANAYA YASUMI YAMILE",
+    "puntaje": 56
+  },
+  {
+    "codigo": "01296G",
+    "nombres": "NOLE CHOCHOCCA CAMILA YOVANA",
+    "puntaje": 45.25
+  },
+  {
+    "codigo": "01297H",
+    "nombres": "SALAS BARBOZA EDY LEONEL",
+    "puntaje": 97.5
+  },
+  {
+    "codigo": "01298A",
+    "nombres": "CHACON VALLEJOS ALEX EDUARDO",
+    "puntaje": 69.4
+  },
+  {
+    "codigo": "01299B",
+    "nombres": "GONZALES HUAMAN NICOLAS ANDRE",
+    "puntaje": 28.9
+  },
+  {
+    "codigo": "01300C",
+    "nombres": "FABIAN OSCANOA SAMIR DILAN",
+    "puntaje": 27.95
+  },
+  {
+    "codigo": "01301D",
+    "nombres": "BARZOLA LEON CARLOS EDUARDO MATHIAS",
+    "puntaje": 70.6
+  },
+  {
+    "codigo": "01302E",
+    "nombres": "JIMÉNEZ NÚÑEZ LUHANA SHARON",
+    "puntaje": 60.35
+  },
+  {
+    "codigo": "01303F",
+    "nombres": "GONZALES VILLANUEVA SNEHIDER NOÉ",
+    "puntaje": 25.75
+  },
+  {
+    "codigo": "01304G",
+    "nombres": "PALACIOS ESCALANTE DANIEL LYONEL",
+    "puntaje": 58.05
+  },
+  {
+    "codigo": "01305H",
+    "nombres": "DELGADO QUILLAS ARIAN MIGUEL",
+    "puntaje": 69.6
+  },
+  {
+    "codigo": "01306A",
+    "nombres": "NUÑEZ AYMA VALERIA ELENA",
+    "puntaje": 32.3
+  },
+  {
+    "codigo": "01307B",
+    "nombres": "CASTILLO DANCOURT ERIK BADIELI",
+    "puntaje": 71.8
+  },
+  {
+    "codigo": "01308C",
+    "nombres": "TELLO CHINGUEL DANIEL ALONSO",
+    "puntaje": 51.15
+  },
+  {
+    "codigo": "01309D",
+    "nombres": "HUAMAN MALLQUI KORY DAYANNA",
+    "puntaje": 74.2
+  },
+  {
+    "codigo": "01310E",
+    "nombres": "COLLADO TELLO FRANZ SAID",
+    "puntaje": 83.4
+  },
+  {
+    "codigo": "01311F",
+    "nombres": "LEON QUISPE NAYRA AYUMI",
+    "puntaje": 72.75
+  },
+  {
+    "codigo": "01312G",
+    "nombres": "MAURICIO LAURENTE MARIANA MILAGROS",
+    "puntaje": 36.7
+  },
+  {
+    "codigo": "01313H",
+    "nombres": "TORRES PEREZ JOSE ANTONIO",
+    "puntaje": 52.15
+  },
+  {
+    "codigo": "01314A",
+    "nombres": "NARCISO OLARTE LEYDI NICOLL",
+    "puntaje": 65.6
+  },
+  {
+    "codigo": "01315B",
+    "nombres": "VARGAS AGUILAR BRYAN GENARO",
+    "puntaje": 34.85
+  },
+  {
+    "codigo": "01316C",
+    "nombres": "COLANA HUAMAN GRAISHLY PAMELA",
+    "puntaje": 96.15
+  },
+  {
+    "codigo": "01317D",
+    "nombres": "TAMARES RODAS JOSE FELIX",
+    "puntaje": 48.5
+  },
+  {
+    "codigo": "01318E",
+    "nombres": "FERNANDEZ ABURTO ANGELLO FABRIZZIO",
+    "puntaje": 106.65
+  },
+  {
+    "codigo": "01319F",
+    "nombres": "PAREJA MUÑOZ JHON VALENTINO",
+    "puntaje": 36.8
+  },
+  {
+    "codigo": "01320G",
+    "nombres": "HUAMANÍ MONTALVÁN JOSMEL RICARDO",
+    "puntaje": 49.6
+  },
+  {
+    "codigo": "01321H",
+    "nombres": "RAMOS RIVERA LEISY VALERIA",
+    "puntaje": null
+  },
+  {
+    "codigo": "01322A",
+    "nombres": "CARBAJAL MENDOZA ANGEL LUIS",
+    "puntaje": 122
+  },
+  {
+    "codigo": "01323B",
+    "nombres": "MENDOZA DURAN ANGEL MIGUEL",
+    "puntaje": 63.7
+  },
+  {
+    "codigo": "01324C",
+    "nombres": "REYES ZEVALLOS JAVIER",
+    "puntaje": 123.5
+  },
+  {
+    "codigo": "01325D",
+    "nombres": "CUBA AGURTO VLADIMIR EDWARDS",
+    "puntaje": 78.7
+  },
+  {
+    "codigo": "01326E",
+    "nombres": "RODAS CHIPANA CRISTOPHER GABRIEL",
+    "puntaje": 63.7
+  },
+  {
+    "codigo": "01327F",
+    "nombres": "ROJAS MUCHA YOSWAN SONYOU",
+    "puntaje": 81.35
+  },
+  {
+    "codigo": "01328G",
+    "nombres": "CONDOR ATAO ALESSANDRO CÓNDOR",
+    "puntaje": 94.5
+  },
+  {
+    "codigo": "01329H",
+    "nombres": "LOVERA UTRERA GIANNI ALEJANDRO",
+    "puntaje": 49.6
+  },
+  {
+    "codigo": "01330A",
+    "nombres": "PINEDO ZEVALLOS ANDRE RAUL ALESSANDRO",
+    "puntaje": 39.3
+  },
+  {
+    "codigo": "01331B",
+    "nombres": "CHUQUIARQUI MORENO LEONARDO FAVIO",
+    "puntaje": 84.8
+  },
+  {
+    "codigo": "01332C",
+    "nombres": "MEZA PONTE ENZO FRANCHESCO",
+    "puntaje": 43.55
+  },
+  {
+    "codigo": "01333D",
+    "nombres": "GARCIA TINCO MIGUEL ÁNGEL IGNACIO",
+    "puntaje": 47.1
+  },
+  {
+    "codigo": "01334E",
+    "nombres": "HUERTA NINA LEONEL DOMINIC",
+    "puntaje": 46.55
+  },
+  {
+    "codigo": "01335F",
+    "nombres": "PACAHUALA HINOSTROZA MATÍAS CHANDÉ",
+    "puntaje": 53.1
+  },
+  {
+    "codigo": "01336G",
+    "nombres": "ALFARO REYES GIAN FRANCO",
+    "puntaje": 67.6
+  },
+  {
+    "codigo": "01337H",
+    "nombres": "YALTA VALLEJOS JAILEN JHOSELYN",
+    "puntaje": 37.45
+  },
+  {
+    "codigo": "01338A",
+    "nombres": "GÓMEZ ASPARRIN GABRIEL ELY",
+    "puntaje": 25.5
+  },
+  {
+    "codigo": "01339B",
+    "nombres": "MAMANI CHURATA ALAN RODRIGO",
+    "puntaje": 76
+  },
+  {
+    "codigo": "01340C",
+    "nombres": "GUTIERREZ CHUMPITAZ CARLES GERARD ITALO",
+    "puntaje": 46.9
+  },
+  {
+    "codigo": "01341D",
+    "nombres": "CONCHA ESPINOZA REMIGIA ALEXSANDRA",
+    "puntaje": 68.9
+  },
+  {
+    "codigo": "01342E",
+    "nombres": "LUZA VILCA CARLOS EDDIE JAIR",
+    "puntaje": 89.3
+  },
+  {
+    "codigo": "01343F",
+    "nombres": "CUTIPA ACHIC PAULO SERGIO FABIANO",
+    "puntaje": 100.8
+  },
+  {
+    "codigo": "01344G",
+    "nombres": "SALCEDO CUENTAS LEANDRO ENRIQUE",
+    "puntaje": 64.1
+  },
+  {
+    "codigo": "01345H",
+    "nombres": "SILVA CORDOVA CLAUDIO MATHIAS",
+    "puntaje": 77
+  },
+  {
+    "codigo": "01346A",
+    "nombres": "GUTIERREZ VEGA ALESSANDRO VALENTINO",
+    "puntaje": 42.35
+  },
+  {
+    "codigo": "01347B",
+    "nombres": "DUEÑAS MUCHA LEONARDO JESUS",
+    "puntaje": 44
+  },
+  {
+    "codigo": "01348C",
+    "nombres": "GUILLERMO ANTONIO MICHAEL ALEXANDER",
+    "puntaje": 54.85
+  },
+  {
+    "codigo": "01349D",
+    "nombres": "ESPINOZA TUCTO JEAN FRANCO",
+    "puntaje": 51
+  },
+  {
+    "codigo": "01350E",
+    "nombres": "VALLEJOS LOAYZA PIERO MATIAS",
+    "puntaje": 54.1
+  },
+  {
+    "codigo": "01351F",
+    "nombres": "GOMEZ ROJAS JHEREMY JHONEY",
+    "puntaje": 72.6
+  },
+  {
+    "codigo": "01352G",
+    "nombres": "DURAND VASQUEZ ANTONIO ISAC",
+    "puntaje": 46.75
+  },
+  {
+    "codigo": "01353H",
+    "nombres": "NOREÑA MANUELO KALEL JAMES LIONEL",
+    "puntaje": 63.1
+  },
+  {
+    "codigo": "01354A",
+    "nombres": "BENITO RIVERA BENJAMIN",
+    "puntaje": 119.6
+  },
+  {
+    "codigo": "01355B",
+    "nombres": "ROSAS BADARACCO DYLAM NICOLAS",
+    "puntaje": 22.35
+  },
+  {
+    "codigo": "01356C",
+    "nombres": "MERMA AGURTO ANGEL ADRIAN",
+    "puntaje": 69.15
+  },
+  {
+    "codigo": "01357D",
+    "nombres": "DE LA VEGA RUBIO DANITZA RAQUEL",
+    "puntaje": 46.7
+  },
+  {
+    "codigo": "01358E",
+    "nombres": "SOLANO OLIVARES RAYHAN SEBASTIAN",
+    "puntaje": 56.95
+  },
+  {
+    "codigo": "01359F",
+    "nombres": "CARDENAS JULIAN JULIO NIKOLAS",
+    "puntaje": 86.15
+  },
+  {
+    "codigo": "01360G",
+    "nombres": "CHUNGA SEGURA ANDRE NICOLAS",
+    "puntaje": 32.15
+  },
+  {
+    "codigo": "01361H",
+    "nombres": "CONDOR RAMOS CHRIS ANGELO",
+    "puntaje": 68.25
+  },
+  {
+    "codigo": "01362A",
+    "nombres": "GOMEZ MILLA ADAN",
+    "puntaje": 73.85
+  },
+  {
+    "codigo": "01363B",
+    "nombres": "CHAVEZ PEÑA XAVIER ANTONIO",
+    "puntaje": 55
+  },
+  {
+    "codigo": "01364C",
+    "nombres": "PACHECO HUAMAN LUCIANA ADALI",
+    "puntaje": 68.1
+  },
+  {
+    "codigo": "01365D",
+    "nombres": "PAJUELO CAMPOS ANGELA RUTH",
+    "puntaje": 34.05
+  },
+  {
+    "codigo": "01366E",
+    "nombres": "CHUNG ALVARADO ENMANUEL JESUS LEONCIO",
+    "puntaje": 101.9
+  },
+  {
+    "codigo": "01367F",
+    "nombres": "HUERTA ESCRIBA ALBERT MÁXIMO",
+    "puntaje": 67.6
+  },
+  {
+    "codigo": "01368G",
+    "nombres": "RENGIFO MURRIETA LUCIANA JAZMINE",
+    "puntaje": 99.45
+  },
+  {
+    "codigo": "01369H",
+    "nombres": "MARISCAL TORRES LUCIANA VALENTINA",
+    "puntaje": 42.65
+  },
+  {
+    "codigo": "01370A",
+    "nombres": "RAMIREZ MORILLOS JEANPIERRE EDINZON",
+    "puntaje": 65.3
+  },
+  {
+    "codigo": "01371B",
+    "nombres": "CHAMBI OCHOCHOQUE TREISY MIRELLA",
+    "puntaje": 67
+  },
+  {
+    "codigo": "01372C",
+    "nombres": "VILNER TERAN JOAN MATIAS",
+    "puntaje": 45.15
+  },
+  {
+    "codigo": "01373D",
+    "nombres": "SCAVINO MARIN BARBARA ANTONELLA",
+    "puntaje": 22.85
+  },
+  {
+    "codigo": "01374E",
+    "nombres": "MONTENEGRO CHINCHAY SAMIN WILSON",
+    "puntaje": 24.9
+  },
+  {
+    "codigo": "01375F",
+    "nombres": "CORREA BURGOS DANIRA ALEJANDRINA",
+    "puntaje": 30.35
+  },
+  {
+    "codigo": "01376G",
+    "nombres": "IÑIGO PICHARDO CLARIBEL",
+    "puntaje": 58.15
+  },
+  {
+    "codigo": "01377H",
+    "nombres": "FERNANDEZ JIMENEZ NATHALY CAMILA",
+    "puntaje": 52.5
+  },
+  {
+    "codigo": "01378A",
+    "nombres": "LAZARO FERNANDEZ DEIVID JAEL",
+    "puntaje": 51.1
+  },
+  {
+    "codigo": "01379B",
+    "nombres": "AGUIRRE PAREDES JEFFREY JOSE",
+    "puntaje": 52.55
+  },
+  {
+    "codigo": "01380C",
+    "nombres": "LUNA RODRIGUEZ ISABELLA ARACELY",
+    "puntaje": 53.95
+  },
+  {
+    "codigo": "01381D",
+    "nombres": "BARTOLOME AUJAPIÑA ANGEL",
+    "puntaje": 69.7
+  },
+  {
+    "codigo": "01382E",
+    "nombres": "SANTA CRUZ CAHUANA SINAHI GENESIS",
+    "puntaje": 48.1
+  },
+  {
+    "codigo": "01383F",
+    "nombres": "CALZADA PAREDES ZAHORY AELEEN",
+    "puntaje": 66.6
+  },
+  {
+    "codigo": "01384G",
+    "nombres": "DURAN CHAVEZ GADIEL BRANS",
+    "puntaje": 37.55
+  },
+  {
+    "codigo": "01385H",
+    "nombres": "POMA VEGA CRISTHIAN GAEL",
+    "puntaje": 68.8
+  },
+  {
+    "codigo": "01386A",
+    "nombres": "ORTEGA MARTÍNEZ KENNY ANGEL",
+    "puntaje": 80.3
+  },
+  {
+    "codigo": "01387B",
+    "nombres": "CORNEJO CACHO PATRICK RENATO DUBAL",
+    "puntaje": 96.05
+  },
+  {
+    "codigo": "01388C",
+    "nombres": "SALAZAR DELGADO LUCIANA ALIZEE",
+    "puntaje": 74.45
+  },
+  {
+    "codigo": "01389D",
+    "nombres": "DIAZ CASAPERALTA SAMIRA LESLIE",
+    "puntaje": 65.6
+  },
+  {
+    "codigo": "01390E",
+    "nombres": "PIMENTEL AYALA ALEXANDER FRANCO",
+    "puntaje": 61.35
+  },
+  {
+    "codigo": "01391F",
+    "nombres": "ECHEGARAY CAHUINA RODOLFO RODRIGO",
+    "puntaje": 77.2
+  },
+  {
+    "codigo": "01392G",
+    "nombres": "SEOPA VELASQUEZ JEREMY XANDER",
+    "puntaje": 72.2
+  },
+  {
+    "codigo": "01393H",
+    "nombres": "CASO COLMENARES JOSE DANIEL",
+    "puntaje": 78
+  },
+  {
+    "codigo": "01394A",
+    "nombres": "CULLANCO PANEZ ANGELO FARID",
+    "puntaje": 79.25
+  },
+  {
+    "codigo": "01395B",
+    "nombres": "SOTO LLAMACURI ALESSANDRO SEBASTIAN",
+    "puntaje": 74
+  },
+  {
+    "codigo": "01396C",
+    "nombres": "DEL PINO PALOMINO FABIANA",
+    "puntaje": 71.4
+  },
+  {
+    "codigo": "01397D",
+    "nombres": "ECHEVARRÍA FLORES MICHAEL OSCAR",
+    "puntaje": 64.55
+  },
+  {
+    "codigo": "01398E",
+    "nombres": "QUISPE HUILLCA SHAOMEY LUCIA",
+    "puntaje": 43.45
+  },
+  {
+    "codigo": "01399F",
+    "nombres": "OSCCO ARENAS STEFANO",
+    "puntaje": 101.65
+  },
+  {
+    "codigo": "01400G",
+    "nombres": "CORTEZ SALVATIERRA FERNANDO JOSÉ",
+    "puntaje": 81.4
+  },
+  {
+    "codigo": "01401H",
+    "nombres": "SALAZAR QUINO IKER FERNANDO",
+    "puntaje": 65
+  },
+  {
+    "codigo": "01402A",
+    "nombres": "OSORIO CELIS RENZO ANDREE",
+    "puntaje": 55.55
+  },
+  {
+    "codigo": "01403B",
+    "nombres": "CANCHARI VASQUEZ DANIEL AQUILES",
+    "puntaje": 69.45
+  },
+  {
+    "codigo": "01404C",
+    "nombres": "BRICEÑO MOSQUERA HEYSEN ANDY",
+    "puntaje": 39.7
+  },
+  {
+    "codigo": "01405D",
+    "nombres": "CONDORI ARANGO RUSSBELT MICHAEL",
+    "puntaje": 60
+  },
+  {
+    "codigo": "01406E",
+    "nombres": "HUAMAN QUINTANILLA VERÓNICA REGINA",
+    "puntaje": 53.25
+  },
+  {
+    "codigo": "01407F",
+    "nombres": "SALSAVILCA VILLA ELER DIEGO",
+    "puntaje": 73.8
+  },
+  {
+    "codigo": "01408G",
+    "nombres": "GUERRA CELESTINO JUNIOR CESAR",
+    "puntaje": 90.45
+  },
+  {
+    "codigo": "01409H",
+    "nombres": "CRUZ CARMEN YERSSON DAVID",
+    "puntaje": 68.7
+  },
+  {
+    "codigo": "01410A",
+    "nombres": "MELGAREJO CASTAÑEDA JOAQUÍN DAVID",
+    "puntaje": 55.4
+  },
+  {
+    "codigo": "01411B",
+    "nombres": "POLO LOZANO DANIEL FABIÁN ANTONIO",
+    "puntaje": 58.6
+  },
+  {
+    "codigo": "01412C",
+    "nombres": "CASTRO CRUZADO JORGE LUIS",
+    "puntaje": 73.2
+  },
+  {
+    "codigo": "01413D",
+    "nombres": "PUMAN MEJIA JAZMIN BEATRIZ",
+    "puntaje": 57
+  },
+  {
+    "codigo": "01414E",
+    "nombres": "SALCEDO CONDORI YADIRA ABIGAIL",
+    "puntaje": 61.8
+  },
+  {
+    "codigo": "01415F",
+    "nombres": "TAPIA VALDIVIA FRANK KESSI",
+    "puntaje": 64.85
+  },
+  {
+    "codigo": "01416G",
+    "nombres": "OSORIO SOTELO NICOLÁS FABRIZIO",
+    "puntaje": 74.5
+  },
+  {
+    "codigo": "01417H",
+    "nombres": "PEBE DIAZ SERGIO ALONZO",
+    "puntaje": 101.2
+  },
+  {
+    "codigo": "01418A",
+    "nombres": "ROMERO ROJAS JUAN ANTONIO",
+    "puntaje": 65.25
+  },
+  {
+    "codigo": "01419B",
+    "nombres": "VASQUEZ SILVA ANALU",
+    "puntaje": 64.6
+  },
+  {
+    "codigo": "01420C",
+    "nombres": "PERALTA MARALLANO PEDRO ALONSO",
+    "puntaje": 86.8
+  },
+  {
+    "codigo": "01421D",
+    "nombres": "CONTRERAS TELLO AXEL FABRICIO",
+    "puntaje": 80.2
+  },
+  {
+    "codigo": "01422E",
+    "nombres": "ARIAS CORAS NICOL LUZ",
+    "puntaje": 69.8
+  },
+  {
+    "codigo": "01423F",
+    "nombres": "SOLANO ZARPAN AARON MOISES",
+    "puntaje": 52.1
+  },
+  {
+    "codigo": "01424G",
+    "nombres": "LARA PAUCAR BRAYAN SMITH",
+    "puntaje": 93.8
+  },
+  {
+    "codigo": "01425H",
+    "nombres": "GARCIA MAIHUIRE FELIPE MATEO",
+    "puntaje": 82.2
+  },
+  {
+    "codigo": "01426A",
+    "nombres": "MEDINA RICRA OLGA XIOMARA",
+    "puntaje": 59.3
+  },
+  {
+    "codigo": "01427B",
+    "nombres": "ITA CRISTOBAL LUIS ANDRES",
+    "puntaje": 72.5
+  },
+  {
+    "codigo": "01428C",
+    "nombres": "QUISPE CHALCO JHON ARNOLD",
+    "puntaje": 91.05
+  },
+  {
+    "codigo": "01429D",
+    "nombres": "ORTIZ SULCA ANAHI ISABELLA",
+    "puntaje": 75.6
+  },
+  {
+    "codigo": "01430E",
+    "nombres": "PEREZ NALVARTE GABRIEL",
+    "puntaje": 58.8
+  },
+  {
+    "codigo": "01431F",
+    "nombres": "CABELLOS JARA RUBEN ALEJANDRO",
+    "puntaje": 85.8
+  },
+  {
+    "codigo": "01432G",
+    "nombres": "DAVIRAN BUSTAMANTE ANDREA",
+    "puntaje": 75.05
+  },
+  {
+    "codigo": "01433H",
+    "nombres": "PANUERA RIVAS YEISSON MATIAS",
+    "puntaje": 71.8
+  },
+  {
+    "codigo": "01434A",
+    "nombres": "CAMPOS SERPA GIANCARLO FABRICIO",
+    "puntaje": 55.1
+  },
+  {
+    "codigo": "01435B",
+    "nombres": "ESPINOZA VILLANUEVA JUAN CARLOS",
+    "puntaje": 28.9
+  },
+  {
+    "codigo": "01436C",
+    "nombres": "TACURI MERCADO MIGUEL ANGEL",
+    "puntaje": 48.4
+  },
+  {
+    "codigo": "01437D",
+    "nombres": "MORALES SOLORZANO LUIS FERNANDO",
+    "puntaje": 92.3
+  },
+  {
+    "codigo": "01438E",
+    "nombres": "SANTAMARIA ALEJOS ROSAS RAFAEL",
+    "puntaje": 28.35
+  },
+  {
+    "codigo": "01439F",
+    "nombres": "CAMPOS MUNIVE JHOSTIN ISACK",
+    "puntaje": 82.2
+  },
+  {
+    "codigo": "01440G",
+    "nombres": "CARRILLO VILLANUEVA GRACE CIELO",
+    "puntaje": 36.5
+  },
+  {
+    "codigo": "01441H",
+    "nombres": "HUAYANAY MARAVÍ YOSIMAR",
+    "puntaje": 71
+  },
+  {
+    "codigo": "01442A",
+    "nombres": "BAUTISTA RIVERA CARLOS DIEGO",
+    "puntaje": 86.2
+  },
+  {
+    "codigo": "01443B",
+    "nombres": "PALOMINO VIVAR EDUARDO SEBASTIAN",
+    "puntaje": 59.1
+  },
+  {
+    "codigo": "01444C",
+    "nombres": "ARZAMENDIA ESPEJO VALENTINO",
+    "puntaje": 74.6
+  },
+  {
+    "codigo": "01445D",
+    "nombres": "BALTAZAR CARRION BRAYAN ALEXIS",
+    "puntaje": 53.85
+  },
+  {
+    "codigo": "01446E",
+    "nombres": "CODARLUPO GUZMAN JOHAN EMANUEL",
+    "puntaje": 32.05
+  },
+  {
+    "codigo": "01447F",
+    "nombres": "COLQUE CUSI FRANZ LEWIS",
+    "puntaje": 34.5
+  },
+  {
+    "codigo": "01448G",
+    "nombres": "VELA MENDOZA PEDRO MAXIMILIANO",
+    "puntaje": 45.85
+  },
+  {
+    "codigo": "01449H",
+    "nombres": "RODRIGUEZ JULCA JOSUE DANIEL",
+    "puntaje": 44.8
+  },
+  {
+    "codigo": "01450A",
+    "nombres": "RAMIREZ CELESTINO SEBASTIAN MATHIAS",
+    "puntaje": 53.45
+  },
+  {
+    "codigo": "01451B",
+    "nombres": "PAREDES FERNÁNDEZ ALFREDO",
+    "puntaje": 93.3
+  },
+  {
+    "codigo": "01452C",
+    "nombres": "BAUTISTA EGUIA ADRIANO JOAQUÍN",
+    "puntaje": 39.05
+  },
+  {
+    "codigo": "01453D",
+    "nombres": "LAIZA CONDE RODRIGO KEVIN",
+    "puntaje": 67
+  },
+  {
+    "codigo": "01454E",
+    "nombres": "CAMAQUE ZEVALLOS MATIAS RODRIGO",
+    "puntaje": 64.7
+  },
+  {
+    "codigo": "01455F",
+    "nombres": "MANRIQUE ALCARRAZ BAYRON GABRIEL",
+    "puntaje": 61.25
+  },
+  {
+    "codigo": "01456G",
+    "nombres": "VILCA LOVON ELIAS JOSE",
+    "puntaje": 67
+  },
+  {
+    "codigo": "01457H",
+    "nombres": "GUERRERO ULLOA JEFFREN ALEXANDER",
+    "puntaje": 34.6
+  },
+  {
+    "codigo": "01458A",
+    "nombres": "CALDERON CARDENAS DAVID RAYEN",
+    "puntaje": 61.55
+  },
+  {
+    "codigo": "01459B",
+    "nombres": "LIZA UCANCIAL JORGE LUIS",
+    "puntaje": 53
+  },
+  {
+    "codigo": "01460C",
+    "nombres": "BALCON MAMANI ERICK DAVID",
+    "puntaje": 60.15
+  },
+  {
+    "codigo": "01461D",
+    "nombres": "LUJAN RAMOS RODRIGO SEBASTIAN",
+    "puntaje": 64.3
+  },
+  {
+    "codigo": "01462E",
+    "nombres": "ALCARRAZ ROJAS MATHIAS LEONEL",
+    "puntaje": 112
+  },
+  {
+    "codigo": "01463F",
+    "nombres": "CORDOVA MUÑOZ JOHONGER",
+    "puntaje": 75.8
+  },
+  {
+    "codigo": "01464G",
+    "nombres": "HUAMAN CCOPA ESTHEFANY LUCIANA",
+    "puntaje": 36.65
+  },
+  {
+    "codigo": "01465H",
+    "nombres": "VEGA VALLADARES LUCAS BENJAMIN",
+    "puntaje": 69.45
+  },
+  {
+    "codigo": "01466A",
+    "nombres": "LOPE SINCHE JEAN PAUL",
+    "puntaje": 61
+  },
+  {
+    "codigo": "01467B",
+    "nombres": "FLORES TACZA IZUMY ZAKURA",
+    "puntaje": 57.45
+  },
+  {
+    "codigo": "01468C",
+    "nombres": "TAFUR CALDAS HOOMEL YANNICK",
+    "puntaje": 49.7
+  },
+  {
+    "codigo": "01469D",
+    "nombres": "ORTEGA DE LA CRUZ JHOSEP MARLON",
+    "puntaje": 29.55
+  },
+  {
+    "codigo": "01470E",
+    "nombres": "HUERTAS ROJAS SEBASTIAN ANGEL.",
+    "puntaje": 41.05
+  },
+  {
+    "codigo": "01471F",
+    "nombres": "HERNANDEZ RODRIGUEZ GABRIEL",
+    "puntaje": 67.3
+  },
+  {
+    "codigo": "01472G",
+    "nombres": "CERNA MONTESINOS VALERIA KARENINE",
+    "puntaje": 65.9
+  },
+  {
+    "codigo": "01473H",
+    "nombres": "CARRILLO CULQUICONDOR GÉNESIS MARÍA",
+    "puntaje": 46.65
+  },
+  {
+    "codigo": "01474A",
+    "nombres": "TORRE DE LA CRUZ BRUNO MARCO AURELIO",
+    "puntaje": 37.05
+  },
+  {
+    "codigo": "01475B",
+    "nombres": "ESPINOZA GARBOZA JEREMY ADRIAN",
+    "puntaje": 50.5
+  },
+  {
+    "codigo": "01476C",
+    "nombres": "REYES SOMOZA MICHAEL LINZ ELIAS",
+    "puntaje": 86.95
+  },
+  {
+    "codigo": "01477D",
+    "nombres": "SOLORZANO MASGO VALERIE AVRIL",
+    "puntaje": 64.1
+  },
+  {
+    "codigo": "01478E",
+    "nombres": "CARDENAS REYMUNDO JOSE CARLOS",
+    "puntaje": 77.6
+  },
+  {
+    "codigo": "01479F",
+    "nombres": "CONTRERAS VASQUEZ JORDAN RONILDO",
+    "puntaje": 75.5
+  },
+  {
+    "codigo": "01480G",
+    "nombres": "REYMUNDO TRUJILLO YASMIN INES",
+    "puntaje": 96.2
+  },
+  {
+    "codigo": "01481H",
+    "nombres": "TITO SÁNCHEZ JOAQUÍN",
+    "puntaje": 114.25
+  },
+  {
+    "codigo": "01482A",
+    "nombres": "RODRÍGUEZ CERRÓN ANGEL RAÚL",
+    "puntaje": 45.85
+  },
+  {
+    "codigo": "01483B",
+    "nombres": "RAMIREZ HUALI ABIGAIL ROCIO",
+    "puntaje": 103.5
+  },
+  {
+    "codigo": "01484C",
+    "nombres": "TORRES OSORIO VIKTOR NICOLAS",
+    "puntaje": 37.05
+  },
+  {
+    "codigo": "01485D",
+    "nombres": "SÁNCHEZ FORONDA SILVANA FIORELLA",
+    "puntaje": 77.9
+  },
+  {
+    "codigo": "01486E",
+    "nombres": "TORRES ARISTA MATEO SALVADOR",
+    "puntaje": 79.8
+  },
+  {
+    "codigo": "01487F",
+    "nombres": "QUISPE CHUCHÓN LIZ NAYELY",
+    "puntaje": 43.2
+  },
+  {
+    "codigo": "01488G",
+    "nombres": "ZEVALLOS MOREYRA JOSHUA ADRIEL",
+    "puntaje": 73.8
+  },
+  {
+    "codigo": "01489H",
+    "nombres": "MEZA MARCELO HANNAH VALENTINA",
+    "puntaje": 98.4
+  },
+  {
+    "codigo": "01490A",
+    "nombres": "BALDERA VALDERA ADRIANO",
+    "puntaje": 57.7
+  },
+  {
+    "codigo": "01491B",
+    "nombres": "JANAMPA GUIZADO JOAQUÍN JUVENAL",
+    "puntaje": 46.5
+  },
+  {
+    "codigo": "01492C",
+    "nombres": "HUAMÁN TUPAHUACCAYLLO IKER ALDAIR",
+    "puntaje": 52.5
+  },
+  {
+    "codigo": "01493D",
+    "nombres": "CAMPOS ROSAS CHRISTOFER JUNNIOR",
+    "puntaje": 59.2
+  },
+  {
+    "codigo": "01494E",
+    "nombres": "MARIN MAYTA ZULY",
+    "puntaje": 63.25
+  },
+  {
+    "codigo": "01495F",
+    "nombres": "ALFARO FARFAN DAVID EMANUEL",
+    "puntaje": 62.45
+  },
+  {
+    "codigo": "01496G",
+    "nombres": "OLIVOS GALLARDO FABRIZIO YAIR",
+    "puntaje": 62.9
+  },
+  {
+    "codigo": "01497H",
+    "nombres": "ESPINOZA SANTOS KAROLYN SMITH",
+    "puntaje": 48
+  },
+  {
+    "codigo": "01498A",
+    "nombres": "VENTURA BERROCAL PABLO JOAQUIN",
+    "puntaje": 102.1
+  },
+  {
+    "codigo": "01499B",
+    "nombres": "CAMASCA RODRIGUEZ GABRIEL ANTONIO",
+    "puntaje": 25.85
+  },
+  {
+    "codigo": "01500C",
+    "nombres": "MONTES TARQUI JAIRO JEAN PAUL",
+    "puntaje": 102.8
+  },
+  {
+    "codigo": "01501D",
+    "nombres": "AMARO DE LA CRUZ GONZALO OSWALDO",
+    "puntaje": 84.75
+  },
+  {
+    "codigo": "01502E",
+    "nombres": "GOMEZ ROLDÁN BILLY ABRAHAM RICARDO",
+    "puntaje": 61.4
+  },
+  {
+    "codigo": "01503F",
+    "nombres": "AREVALO AIQUIPA SEBASTIÁN DANIEL",
+    "puntaje": 88.3
+  },
+  {
+    "codigo": "01504G",
+    "nombres": "GARCIA TINCO LEONARDO GABRIEL",
+    "puntaje": 29.05
+  },
+  {
+    "codigo": "01505H",
+    "nombres": "GUIZADO BAUTISTA CAMILA AYELEN",
+    "puntaje": 52.6
+  },
+  {
+    "codigo": "01506A",
+    "nombres": "HUARCAYA JORGE VICTOR JESUS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01507B",
+    "nombres": "JURADO YAURI ANGIELO JHAIR",
+    "puntaje": 49.25
+  },
+  {
+    "codigo": "01508C",
+    "nombres": "COLLAZOS TUESTA MAX ALEXANDER",
+    "puntaje": 32.5
+  },
+  {
+    "codigo": "01509D",
+    "nombres": "MEDRANO TORRES ASHLY ELIZABETH",
+    "puntaje": 57.8
+  },
+  {
+    "codigo": "01510E",
+    "nombres": "AYALA ZARATE ALONSO MIULER",
+    "puntaje": 44.85
+  },
+  {
+    "codigo": "01511F",
+    "nombres": "JARAMILLO QUISPE ANALY ANITA",
+    "puntaje": 65.75
+  },
+  {
+    "codigo": "01512G",
+    "nombres": "CHAMORRO PEÑA JHANPIER JHOSUA",
+    "puntaje": 51.55
+  },
+  {
+    "codigo": "01513H",
+    "nombres": "SAAVEDRA JUAREZ CHRISTIAN JESUS",
+    "puntaje": 99.4
+  },
+  {
+    "codigo": "01514A",
+    "nombres": "LUJAN HUAMAN CESAR ALI",
+    "puntaje": 63.85
+  },
+  {
+    "codigo": "01515B",
+    "nombres": "PRETELL GARCÍA DENZEL DANIEL",
+    "puntaje": 84.2
+  },
+  {
+    "codigo": "01516C",
+    "nombres": "JARA CONDORCALLO YHAEL ALEXANDER",
+    "puntaje": 42.95
+  },
+  {
+    "codigo": "01517D",
+    "nombres": "HUAROMO OBREGON JESÚS FERNANDO",
+    "puntaje": 81.05
+  },
+  {
+    "codigo": "01518E",
+    "nombres": "ZÚÑIGA RAMIREZ JHEMS RODICK SAMIR",
+    "puntaje": 59.65
+  },
+  {
+    "codigo": "01519F",
+    "nombres": "NEYRA QUISPE LUANA MAYTHE",
+    "puntaje": 64.05
+  },
+  {
+    "codigo": "01520G",
+    "nombres": "GONZALES RAMOS PABLO FELIPE MATIAS",
+    "puntaje": 34.65
+  },
+  {
+    "codigo": "01521H",
+    "nombres": "NUÑEZ CASTILLO ALEXIA FERNANDA",
+    "puntaje": 63.25
+  },
+  {
+    "codigo": "01522A",
+    "nombres": "ROJAS VIDAURRE VALERY MARYNES",
+    "puntaje": 75.6
+  },
+  {
+    "codigo": "01523B",
+    "nombres": "CORONEL MUÑOZ SOFIA FERNANDA",
+    "puntaje": 34.45
+  },
+  {
+    "codigo": "01524C",
+    "nombres": "CAPARACHÍN HERRERA ANDREA BELÉN",
+    "puntaje": 68.65
+  },
+  {
+    "codigo": "01525D",
+    "nombres": "BORDA CHOQUE ESTEFANO DAVID",
+    "puntaje": 93.2
+  },
+  {
+    "codigo": "01526E",
+    "nombres": "MINAYA POMAYAY DANIRA NOEMI",
+    "puntaje": 56.65
+  },
+  {
+    "codigo": "01527F",
+    "nombres": "JUMPA GONZÁLEZ SAMIR FILBER",
+    "puntaje": 36.35
+  },
+  {
+    "codigo": "01528G",
+    "nombres": "MOLINA CALDERON JUAN DIEGO",
+    "puntaje": 50.8
+  },
+  {
+    "codigo": "01529H",
+    "nombres": "MANRIQUE PATRICIO FULMER ANGEL",
+    "puntaje": 37.65
+  },
+  {
+    "codigo": "01530A",
+    "nombres": "VARA QUISPE JUAN DANIEL",
+    "puntaje": 25.95
+  },
+  {
+    "codigo": "01531B",
+    "nombres": "APUMAYTA QUESQUEN DAMARIS",
+    "puntaje": 95.1
+  },
+  {
+    "codigo": "01532C",
+    "nombres": "CASTILLEJO VILLARREAL ESTEBAN FARID",
+    "puntaje": 56.7
+  },
+  {
+    "codigo": "01533D",
+    "nombres": "ROJAS SANCHEZ JENELL ISABEL",
+    "puntaje": 27.2
+  },
+  {
+    "codigo": "01534E",
+    "nombres": "MORALES FLORES MATHIAS RODRIGO",
+    "puntaje": 71.7
+  },
+  {
+    "codigo": "01535F",
+    "nombres": "TORRES RUPAY BENJAMÍN JHAIR",
+    "puntaje": 75.75
+  },
+  {
+    "codigo": "01536G",
+    "nombres": "RODRIGUEZ RONDAN ALEJANDRO",
+    "puntaje": 105.4
+  },
+  {
+    "codigo": "01537H",
+    "nombres": "LAZO MOROCO WALTER ADRIANO",
+    "puntaje": 64.65
+  },
+  {
+    "codigo": "01538A",
+    "nombres": "ARAPA CCOSI JUAN ANDRÉ",
+    "puntaje": 55.7
+  },
+  {
+    "codigo": "01539B",
+    "nombres": "MADRID MARMOLEJO SERGIO FRANCO",
+    "puntaje": 51.95
+  },
+  {
+    "codigo": "01540C",
+    "nombres": "ZULETA GUERRERO JAZMIN ALEJANDRA GLORIA",
+    "puntaje": 61.9
+  },
+  {
+    "codigo": "01541D",
+    "nombres": "GUADALUPE MARCELO MANUEL JOEL",
+    "puntaje": 67.2
+  },
+  {
+    "codigo": "01542E",
+    "nombres": "IPARRAGUIRRE CONDOR DIEGO BENITO",
+    "puntaje": 28.1
+  },
+  {
+    "codigo": "01543F",
+    "nombres": "ESCAJADILLO GIRAL MIGUEL FABRICIO",
+    "puntaje": 94.6
+  },
+  {
+    "codigo": "01544G",
+    "nombres": "MALLQUI CORONEL FABRICIO RAUL",
+    "puntaje": 62.5
+  },
+  {
+    "codigo": "01545H",
+    "nombres": "CALVA CAMONES DANIEL ALBERTO",
+    "puntaje": 46.55
+  },
+  {
+    "codigo": "01546A",
+    "nombres": "ALONSO GARCÍA GENRY JOSUE",
+    "puntaje": 41.6
+  },
+  {
+    "codigo": "01547B",
+    "nombres": "ROBLES URBANO ALBERT FERNANDO",
+    "puntaje": 74.7
+  },
+  {
+    "codigo": "01548C",
+    "nombres": "VERASTEGUI FLORES NAGELY",
+    "puntaje": 50.6
+  },
+  {
+    "codigo": "01549D",
+    "nombres": "ROJAS ESLAVA THAIS NICOLEE",
+    "puntaje": 41.45
+  },
+  {
+    "codigo": "01550E",
+    "nombres": "LASTRA CRUZ ALEJANDRO YASUO",
+    "puntaje": 91.6
+  },
+  {
+    "codigo": "01551F",
+    "nombres": "CONTRERAS CAMPOS SEBASTIAN",
+    "puntaje": 75.25
+  },
+  {
+    "codigo": "01552G",
+    "nombres": "OCHOA CORTEZ ADRIEL SEBASTIAN",
+    "puntaje": 53.2
+  },
+  {
+    "codigo": "01553H",
+    "nombres": "NUÑEZ DEL ARCO ALTAMIRANO LUCAS MARIANO",
+    "puntaje": 106.15
+  },
+  {
+    "codigo": "01554A",
+    "nombres": "CHÁVEZ YUJRA MÁXIMO ALEJANDRO LUIS",
+    "puntaje": 75.8
+  },
+  {
+    "codigo": "01555B",
+    "nombres": "REUSCHE CARDENAS DIEGO",
+    "puntaje": 90.6
+  },
+  {
+    "codigo": "01556C",
+    "nombres": "HUALLPA FIESTAS ILLARY YARETZI",
+    "puntaje": 72.6
+  },
+  {
+    "codigo": "01557D",
+    "nombres": "DE LA CRUZ GRADOS ANGEL ENRIQUE",
+    "puntaje": 79
+  },
+  {
+    "codigo": "01558E",
+    "nombres": "MANRIQUE RODRIGUEZ FABIAN DAVID",
+    "puntaje": 59.5
+  },
+  {
+    "codigo": "01559F",
+    "nombres": "CANALES BARBA CARLOS GABRIEL ALEXANDER",
+    "puntaje": 96.5
+  },
+  {
+    "codigo": "01560G",
+    "nombres": "CHAMBI LOPEZ ANTONI SAMIR",
+    "puntaje": 21.1
+  },
+  {
+    "codigo": "01561H",
+    "nombres": "ARTICA OBREGON JEFFERSON VALENTIN",
+    "puntaje": 60.4
+  },
+  {
+    "codigo": "01562A",
+    "nombres": "FERNANDEZ FLORES LEANDRO STEVEN",
+    "puntaje": 54
+  },
+  {
+    "codigo": "01563B",
+    "nombres": "VALDERA PELAEZ MARÍA ROSA DE LOS ANGELES",
+    "puntaje": 68.05
+  },
+  {
+    "codigo": "01564C",
+    "nombres": "TAPIA ROBLES PEDRO ANGEL",
+    "puntaje": 134.05
+  },
+  {
+    "codigo": "01565D",
+    "nombres": "SAN MARTÍN RODRIGUEZ WILLIAM JESÚS AARON",
+    "puntaje": 94.5
+  },
+  {
+    "codigo": "01566E",
+    "nombres": "JARA RAMIREZ THAMARA",
+    "puntaje": 85.2
+  },
+  {
+    "codigo": "01567F",
+    "nombres": "SALAS DELGADO GIACOMO VALENTINO",
+    "puntaje": 53.1
+  },
+  {
+    "codigo": "01568G",
+    "nombres": "AMBROSIO ALTAMIRANO STEFANO JUAN",
+    "puntaje": 75
+  },
+  {
+    "codigo": "01569H",
+    "nombres": "ROMERO CARDENAS NICOLAS ANDREE",
+    "puntaje": 66.7
+  },
+  {
+    "codigo": "01570A",
+    "nombres": "ROMERO CARDENAS MATIAS ANDREE",
+    "puntaje": 49.2
+  },
+  {
+    "codigo": "01571B",
+    "nombres": "CANSAYA CAIRAMPOMA JADDE DANIELA",
+    "puntaje": 79.5
+  },
+  {
+    "codigo": "01572C",
+    "nombres": "SEMINARIO LÓPEZ LUIS ANGEL NOE",
+    "puntaje": 96.45
+  },
+  {
+    "codigo": "01573D",
+    "nombres": "FERNÁNDEZ GABRIEL ADRIANO",
+    "puntaje": 66.8
+  },
+  {
+    "codigo": "01574E",
+    "nombres": "BERROCAL CONDORI MICAELA YASURI",
+    "puntaje": 60.5
+  },
+  {
+    "codigo": "01575F",
+    "nombres": "LOPEZ CASTRO GUSTAVO RAFAEL",
+    "puntaje": 42.85
+  },
+  {
+    "codigo": "01576G",
+    "nombres": "MENDOZA BLAS HARI ROLANDO",
+    "puntaje": 71.1
+  },
+  {
+    "codigo": "01577H",
+    "nombres": "BOCANGELINO BARBARAN JEANPIERE IVÁN",
+    "puntaje": 93.8
+  },
+  {
+    "codigo": "01578A",
+    "nombres": "AMENERO ZÁRATE MATHIAS GABRIEL",
+    "puntaje": 80.8
+  },
+  {
+    "codigo": "01579B",
+    "nombres": "ROJAS CANTARO SEBASTIAN YAIR",
+    "puntaje": 89.2
+  },
+  {
+    "codigo": "01580C",
+    "nombres": "CORDOVA SILVA JAVIER JOSUE",
+    "puntaje": 36.15
+  },
+  {
+    "codigo": "01581D",
+    "nombres": "GUTIERREZ SANCHEZ LIZETH ELISA",
+    "puntaje": 50.9
+  },
+  {
+    "codigo": "01582E",
+    "nombres": "LIBERATO LA ROSA HILMER",
+    "puntaje": 60.9
+  },
+  {
+    "codigo": "01583F",
+    "nombres": "ALBA SOLORZANO SEVASTIAN ARON",
+    "puntaje": 103.65
+  },
+  {
+    "codigo": "01584G",
+    "nombres": "CUYA ENRIQUEZ VICENTE",
+    "puntaje": 58.05
+  },
+  {
+    "codigo": "01585H",
+    "nombres": "GAMEZ HERRERA FELIX ULISES",
+    "puntaje": 113.2
+  },
+  {
+    "codigo": "01586A",
+    "nombres": "RETAMOZO ESTRADA GERALY FRANSHESCA",
+    "puntaje": 59.4
+  },
+  {
+    "codigo": "01587B",
+    "nombres": "PELAYO RAMOS JEISSYBETH DE LOS ANGELES",
+    "puntaje": 72.45
+  },
+  {
+    "codigo": "01588C",
+    "nombres": "CISNEROS PUELLES FRANCO LUIS",
+    "puntaje": 72.2
+  },
+  {
+    "codigo": "01589D",
+    "nombres": "BLAS PAREDES FAVIANO ALONZO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01590E",
+    "nombres": "CORDERO SALVADOR JOSEPH ANTONIO",
+    "puntaje": 33.25
+  },
+  {
+    "codigo": "01591F",
+    "nombres": "TENORIO MEDINA ENZO NICOLAS",
+    "puntaje": 91.8
+  },
+  {
+    "codigo": "01592G",
+    "nombres": "RUDAS CÁRDENAS ROBERT NEYMAR",
+    "puntaje": 39.45
+  },
+  {
+    "codigo": "01593H",
+    "nombres": "LEÓN SHUÑA JERRY",
+    "puntaje": 79.2
+  },
+  {
+    "codigo": "01594A",
+    "nombres": "PIZARRO PORTILLO DAYANNA NICOLE",
+    "puntaje": 59.45
+  },
+  {
+    "codigo": "01595B",
+    "nombres": "MOLINA TAYPE BRIANA MARICIELO CHARLOTT",
+    "puntaje": 51.45
+  },
+  {
+    "codigo": "01596C",
+    "nombres": "VILLA VISA JEREMY JEAN PIERRE",
+    "puntaje": 81
+  },
+  {
+    "codigo": "01597D",
+    "nombres": "FLORES QUISPE LUIS RAFAEL",
+    "puntaje": 50.2
+  },
+  {
+    "codigo": "01598E",
+    "nombres": "MEJIA ALFARO PATRICK HUMBERTO",
+    "puntaje": 75.2
+  },
+  {
+    "codigo": "01599F",
+    "nombres": "GAGO RAMOS CARLOS ALVEIRO",
+    "puntaje": 71.7
+  },
+  {
+    "codigo": "01600G",
+    "nombres": "ANGELES VALVERDE FERNAND",
+    "puntaje": 49.15
+  },
+  {
+    "codigo": "01601H",
+    "nombres": "BASILIO CHIPANA JUAN CARLOS MILENKO",
+    "puntaje": 56.95
+  },
+  {
+    "codigo": "01602A",
+    "nombres": "AROTINCO YUPANQUI MATIAS ULISES",
+    "puntaje": 30.05
+  },
+  {
+    "codigo": "01603B",
+    "nombres": "SOSA ALCARRAZ MARÍA FERNANDA NATALY",
+    "puntaje": 52.15
+  },
+  {
+    "codigo": "01604C",
+    "nombres": "ICANAQUE BALVIN MATTIA SEBASTIAN",
+    "puntaje": 38.8
+  },
+  {
+    "codigo": "01605D",
+    "nombres": "LEÓN PICÓN EDWIN JESUS",
+    "puntaje": 65.6
+  },
+  {
+    "codigo": "01606E",
+    "nombres": "CALSINA CANCHANYA DHILAN CHRISS",
+    "puntaje": 34.25
+  },
+  {
+    "codigo": "01607F",
+    "nombres": "GARCÍA ROSAS MASSIEL",
+    "puntaje": 56.35
+  },
+  {
+    "codigo": "01608G",
+    "nombres": "DE LA PEÑA CUYA GERARD DREE",
+    "puntaje": 48.85
+  },
+  {
+    "codigo": "01609H",
+    "nombres": "SANDOVAL RAQUI ANDRES SANTIAGO",
+    "puntaje": 68.35
+  },
+  {
+    "codigo": "01610A",
+    "nombres": "CASTILLO CUBA CÉSAR RODRIGO",
+    "puntaje": 91.5
+  },
+  {
+    "codigo": "01611B",
+    "nombres": "LEON MEDINA RICARDO NICOLAS",
+    "puntaje": 62.3
+  },
+  {
+    "codigo": "01612C",
+    "nombres": "GALVEZ LOPEZ AMIN ABDAYA",
+    "puntaje": 62.2
+  },
+  {
+    "codigo": "01613D",
+    "nombres": "CUYA BRAVO ALANIS GABRIELA",
+    "puntaje": 71.85
+  },
+  {
+    "codigo": "01614E",
+    "nombres": "QUISPE LARA MARY CIELO",
+    "puntaje": 53.5
+  },
+  {
+    "codigo": "01615F",
+    "nombres": "SANCHEZ ZUTA MATÍAS SEBASTIAN RICARDO",
+    "puntaje": 61.25
+  },
+  {
+    "codigo": "01616G",
+    "nombres": "ÑAUPA LEÓN JUAN ANTONY",
+    "puntaje": 81.65
+  },
+  {
+    "codigo": "01617H",
+    "nombres": "TORRES GARCÍA LUCIANA GISELLE",
+    "puntaje": 68.3
+  },
+  {
+    "codigo": "01618A",
+    "nombres": "FRANCO SAMAME MATHIAS ROMAN",
+    "puntaje": 105.75
+  },
+  {
+    "codigo": "01619B",
+    "nombres": "MARTEL PAREDES ANDRÉE VALENTINO",
+    "puntaje": 96.2
+  },
+  {
+    "codigo": "01620C",
+    "nombres": "CORONADO AGUILAR FABRIZZIO JESÚS",
+    "puntaje": 77.25
+  },
+  {
+    "codigo": "01621D",
+    "nombres": "RIVAS CHOQUECAHUANA VIRIATO SAMUEL",
+    "puntaje": null
+  },
+  {
+    "codigo": "01622E",
+    "nombres": "LANDA SIFUENTES RENZO RICHARD",
+    "puntaje": 93.6
+  },
+  {
+    "codigo": "01623F",
+    "nombres": "DEL ARCA CAMA MIGUEL ANGELO",
+    "puntaje": 97.2
+  },
+  {
+    "codigo": "01624G",
+    "nombres": "FERNÁNDEZ RUIZ BRYAN ARJUNA",
+    "puntaje": 93.25
+  },
+  {
+    "codigo": "01625H",
+    "nombres": "HENDENMANN BOZZO ADRIANA CAROLINA",
+    "puntaje": 76
+  },
+  {
+    "codigo": "01626A",
+    "nombres": "ACOSTA LINO RODRIGO MANUEL",
+    "puntaje": null
+  },
+  {
+    "codigo": "01627B",
+    "nombres": "AGUILAR CHERO TERRY ARTURO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01628C",
+    "nombres": "AGUILAR ZARATE ALONDRA ANAÍS",
+    "puntaje": 96.85
+  },
+  {
+    "codigo": "01629D",
+    "nombres": "AGUILERA MELO ARON NILTHON",
+    "puntaje": 77.1
+  },
+  {
+    "codigo": "01630E",
+    "nombres": "AGUINAGA CABALLA JUDE TAÍS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01631F",
+    "nombres": "AGUIRRE MORALES LEONARDO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01632G",
+    "nombres": "AGUIRRE RAMOS JOGAN ALYAIR",
+    "puntaje": null
+  },
+  {
+    "codigo": "01633H",
+    "nombres": "ALARCON TESEN GABRIEL ALEXANDER",
+    "puntaje": 62.05
+  },
+  {
+    "codigo": "01634A",
+    "nombres": "ALCÁNTARA FLORES AARÓN ALDAIR",
+    "puntaje": 86.9
+  },
+  {
+    "codigo": "01635B",
+    "nombres": "ALFARO RIVERA LEYDI FABIOLA",
+    "puntaje": 43.4
+  },
+  {
+    "codigo": "01636C",
+    "nombres": "ALIAGA ORE GUSTAVO ENRIQUE",
+    "puntaje": null
+  },
+  {
+    "codigo": "01637D",
+    "nombres": "ALTAMIRANO AMAO JOSÉ MANUEL RODRIGO",
+    "puntaje": 73.1
+  },
+  {
+    "codigo": "01638E",
+    "nombres": "ALVA LAZURTEGUI NICOLÁS SEBASTIÁN",
+    "puntaje": 98.15
+  },
+  {
+    "codigo": "01639F",
+    "nombres": "ALZAMORA IZQUIERDO ZIDANE",
+    "puntaje": null
+  },
+  {
+    "codigo": "01640G",
+    "nombres": "ANCCO AUCCA SEBASTIAN JAKI",
+    "puntaje": 87.25
+  },
+  {
+    "codigo": "01641H",
+    "nombres": "ANCHANTE CAILLAHUA SOFÍA NICOLLE",
+    "puntaje": 67.3
+  },
+  {
+    "codigo": "01642A",
+    "nombres": "ANDAMAYO SUNA ALVARO DANIEL",
+    "puntaje": 117.3
+  },
+  {
+    "codigo": "01643B",
+    "nombres": "ANDIA BARRANTES OSCAR ALEXIS",
+    "puntaje": 64.2
+  },
+  {
+    "codigo": "01644C",
+    "nombres": "ANGELES LOAYZA JUAN AUGUSTO",
+    "puntaje": 116.25
+  },
+  {
+    "codigo": "01645D",
+    "nombres": "ANTAURCO SAENZ ADRIAN IVAN",
+    "puntaje": 99.65
+  },
+  {
+    "codigo": "01646E",
+    "nombres": "ANTICONA VEGA SANTOS LEONARDO RENÉ",
+    "puntaje": 92.1
+  },
+  {
+    "codigo": "01647F",
+    "nombres": "AQUINO BURGA SAMUEL ELÍ",
+    "puntaje": 84.85
+  },
+  {
+    "codigo": "01648G",
+    "nombres": "AQUINO CAQUI JOAN AYRTON",
+    "puntaje": 99.85
+  },
+  {
+    "codigo": "01649H",
+    "nombres": "ARAUZO DEJO SHEYLA GIOVANNA",
+    "puntaje": null
+  },
+  {
+    "codigo": "01650A",
+    "nombres": "ARECHE VENTURA NICOLE CAROLINA",
+    "puntaje": 84.65
+  },
+  {
+    "codigo": "01651B",
+    "nombres": "ARIAS CORDOVA LIBERTAD",
+    "puntaje": 81.8
+  },
+  {
+    "codigo": "01652C",
+    "nombres": "ARIAS FLORES DANIELLE ARACELLI",
+    "puntaje": 78.75
+  },
+  {
+    "codigo": "01653D",
+    "nombres": "ARIAS FLORES DANIELLE AVRIL",
+    "puntaje": 60.95
+  },
+  {
+    "codigo": "01654E",
+    "nombres": "ARIZAGA ROSSI BAYRON ALEXANDER",
+    "puntaje": 93.55
+  },
+  {
+    "codigo": "01655F",
+    "nombres": "ARRASCUE LOYOLA MAURICIO DAVID",
+    "puntaje": 132.4
+  },
+  {
+    "codigo": "01656G",
+    "nombres": "ARROYO CUBA LEONARDO FABIAN",
+    "puntaje": 78.5
+  },
+  {
+    "codigo": "01657H",
+    "nombres": "ARZAPALO CURI MATÍAS DANIEL",
+    "puntaje": 56.35
+  },
+  {
+    "codigo": "01658A",
+    "nombres": "ASAYAG PECHO ALEJANDRA",
+    "puntaje": 32.45
+  },
+  {
+    "codigo": "01659B",
+    "nombres": "ATAUCUSI ELLISCA JESÚS ANDRÉ ELÍAS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01660C",
+    "nombres": "AVILES LIMA NOEMÍ MICHELLE",
+    "puntaje": 50.3
+  },
+  {
+    "codigo": "01661D",
+    "nombres": "BALLARTA HENRIQUEZ IVO YARLEY",
+    "puntaje": 53.75
+  },
+  {
+    "codigo": "01662E",
+    "nombres": "BARDALES COYLA STEVEN GERARD",
+    "puntaje": 55.85
+  },
+  {
+    "codigo": "01663F",
+    "nombres": "BAZÁN PAUCAR CARLOS FERNANDO",
+    "puntaje": 54.3
+  },
+  {
+    "codigo": "01664G",
+    "nombres": "BAZÁN RODRÍGUEZ DANIELA SOFÍA",
+    "puntaje": 91.15
+  },
+  {
+    "codigo": "01665H",
+    "nombres": "BECERRA ALTAMIRANO DIEGO ALEXANDER",
+    "puntaje": null
+  },
+  {
+    "codigo": "01666A",
+    "nombres": "BENITES GUARDIA DANIEL ELIAS",
+    "puntaje": 74.8
+  },
+  {
+    "codigo": "01667B",
+    "nombres": "BERRIO GALLEGOS FERNANDO LEONEL",
+    "puntaje": 75.6
+  },
+  {
+    "codigo": "01668C",
+    "nombres": "BLANCO CIPRA JUAN CARLOS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01669D",
+    "nombres": "BLAS HUAMÁN SERGIO MANUEL",
+    "puntaje": 59.65
+  },
+  {
+    "codigo": "01670E",
+    "nombres": "BOCANEGRA CRISÓSTOMO MARIA FERNANDA",
+    "puntaje": 46.65
+  },
+  {
+    "codigo": "01671F",
+    "nombres": "BOHÓRQUEZ TRUJILLO NAOMI ANAIS",
+    "puntaje": 70.2
+  },
+  {
+    "codigo": "01672G",
+    "nombres": "BONIFACIO RAMIREZ WILIANS ROBBINSON",
+    "puntaje": 72.8
+  },
+  {
+    "codigo": "01673H",
+    "nombres": "BRICEÑO CABELLO GEORGE JUNIOR",
+    "puntaje": 108.95
+  },
+  {
+    "codigo": "01674A",
+    "nombres": "BRUNO LUQUE ARIANA",
+    "puntaje": 33.8
+  },
+  {
+    "codigo": "01675B",
+    "nombres": "BRUNO MIZARE GABRIEL ALEXANDER",
+    "puntaje": 77.45
+  },
+  {
+    "codigo": "01676C",
+    "nombres": "CABELLO CAJAHUAMAN ELIANA SOFIA",
+    "puntaje": 57.25
+  },
+  {
+    "codigo": "01677D",
+    "nombres": "CABEZAS VALDIVIA JEREMY LEONEL",
+    "puntaje": 46.25
+  },
+  {
+    "codigo": "01678E",
+    "nombres": "CALDERON GONZALES ANDERSON KELVIN",
+    "puntaje": 75.4
+  },
+  {
+    "codigo": "01679F",
+    "nombres": "CALIZAYA ALVAREZ FABRIZIO RAÍ",
+    "puntaje": 90.55
+  },
+  {
+    "codigo": "01680G",
+    "nombres": "CALLE HUAMAN MARIA JOSEFINA",
+    "puntaje": 86
+  },
+  {
+    "codigo": "01681H",
+    "nombres": "CALLUPE CASAS KHEEYLING MILAGRITOS",
+    "puntaje": 64.2
+  },
+  {
+    "codigo": "01682A",
+    "nombres": "CAMARENA ÁLVAREZ JHON HUS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01683B",
+    "nombres": "CAMBILLO QUISPE TAIS ZULEMA",
+    "puntaje": 45.45
+  },
+  {
+    "codigo": "01684C",
+    "nombres": "CAMINO VILCARINO DYLAN ALEXANDER",
+    "puntaje": 82.1
+  },
+  {
+    "codigo": "01685D",
+    "nombres": "CAMPOMANES AUCCASI CHRISTOPHER ALPHONSE",
+    "puntaje": 73.6
+  },
+  {
+    "codigo": "01686E",
+    "nombres": "CANTO CCOICCA MARIA CAMILA",
+    "puntaje": 78.65
+  },
+  {
+    "codigo": "01687F",
+    "nombres": "CARACELA YANA JHONNIER EDUARD",
+    "puntaje": 55.1
+  },
+  {
+    "codigo": "01688G",
+    "nombres": "CARDENAS QUISPE JOSÉ ALEJANDRO",
+    "puntaje": 45.9
+  },
+  {
+    "codigo": "01689H",
+    "nombres": "CÁRDENAS SILVA ALESSANDRO AARON",
+    "puntaje": 114.2
+  },
+  {
+    "codigo": "01690A",
+    "nombres": "CARHUAVILCA EROLITO PEDRO HUGO",
+    "puntaje": 45.05
+  },
+  {
+    "codigo": "01691B",
+    "nombres": "CARRASCO FERNANDEZ CARLOS",
+    "puntaje": 111.7
+  },
+  {
+    "codigo": "01692C",
+    "nombres": "CASILLA MALDONADO JORGE IKER",
+    "puntaje": 82.05
+  },
+  {
+    "codigo": "01693D",
+    "nombres": "CASTAÑEDA WANG DYLAN SAIR",
+    "puntaje": 74.4
+  },
+  {
+    "codigo": "01694E",
+    "nombres": "CASTILLO ISLADO DIEGO ALONSO",
+    "puntaje": 55.1
+  },
+  {
+    "codigo": "01695F",
+    "nombres": "CASTILLO SILVA ALBERTH JEANPIER",
+    "puntaje": 116.8
+  },
+  {
+    "codigo": "01696G",
+    "nombres": "CASTILLO TUANAMA EMMANUEL GERRARD",
+    "puntaje": 53.05
+  },
+  {
+    "codigo": "01697H",
+    "nombres": "CASTRO BARRIOS MILDRED EMILIA",
+    "puntaje": 76.45
+  },
+  {
+    "codigo": "01698A",
+    "nombres": "CASTRO LOZANO MARCOS HUGO",
+    "puntaje": 83.15
+  },
+  {
+    "codigo": "01699B",
+    "nombres": "CASTRO MORI CHRISTOPHER LAMBERTO",
+    "puntaje": 73.35
+  },
+  {
+    "codigo": "01700C",
+    "nombres": "CAUNA ASPAJO AXEL JAIR",
+    "puntaje": 99.4
+  },
+  {
+    "codigo": "01701D",
+    "nombres": "CCAHUAY RAMOS OLIVER BENJAMIN",
+    "puntaje": 79.45
+  },
+  {
+    "codigo": "01702E",
+    "nombres": "CCANCCE TORALVA CLAUDIA GABRIELA",
+    "puntaje": 56.55
+  },
+  {
+    "codigo": "01703F",
+    "nombres": "CERNA MALLQUI CESAR ALEXIS",
+    "puntaje": 103.45
+  },
+  {
+    "codigo": "01704G",
+    "nombres": "CHACON SERNAQUE JESUS ANTONY",
+    "puntaje": 67.25
+  },
+  {
+    "codigo": "01705H",
+    "nombres": "CHAMBI HUILLCAHUA EDWARD",
+    "puntaje": 74
+  },
+  {
+    "codigo": "01706A",
+    "nombres": "CHANAME FERRE AAROM AKIRA",
+    "puntaje": null
+  },
+  {
+    "codigo": "01707B",
+    "nombres": "CHARCA MERMA JHEREMY MAURICIO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01708C",
+    "nombres": "CHAUCA ZUASNABAR ARIANA DAFNILE",
+    "puntaje": 75.85
+  },
+  {
+    "codigo": "01709D",
+    "nombres": "CHAVEZ FUENTES MIGUEL ALEJANDRO DANILO",
+    "puntaje": 115.1
+  },
+  {
+    "codigo": "01710E",
+    "nombres": "CHEGNI VEGA DAYANA AHOMI",
+    "puntaje": 56.35
+  },
+  {
+    "codigo": "01711F",
+    "nombres": "CHINCHAY VALVERDE JEFERSON AMIR",
+    "puntaje": 103.4
+  },
+  {
+    "codigo": "01712G",
+    "nombres": "CHINGUEL CUBAS LUIS FERNANDO",
+    "puntaje": 56.9
+  },
+  {
+    "codigo": "01713H",
+    "nombres": "CHIPANA HURTADO CARLOS ISMAEL",
+    "puntaje": 108.25
+  },
+  {
+    "codigo": "01714A",
+    "nombres": "CHOQUE QUISPE JAIRO JAVIER",
+    "puntaje": null
+  },
+  {
+    "codigo": "01715B",
+    "nombres": "CHOQUE ONCOY NICOLE VIVIANA",
+    "puntaje": null
+  },
+  {
+    "codigo": "01716C",
+    "nombres": "CHOQUIMAQUI CAMPOS ANGEL FERNANDO",
+    "puntaje": 111.4
+  },
+  {
+    "codigo": "01717D",
+    "nombres": "CHUMPITAZ RODRIGUEZ JOAO FABRIZZIO",
+    "puntaje": 75.95
+  },
+  {
+    "codigo": "01718E",
+    "nombres": "CHUNGA VARGAS PIERO ANGEL",
+    "puntaje": 116.95
+  },
+  {
+    "codigo": "01719F",
+    "nombres": "CLAROS SALVA JOSE ANIBAL",
+    "puntaje": null
+  },
+  {
+    "codigo": "01720G",
+    "nombres": "COASACA BRAVO GABRIELA",
+    "puntaje": 82.15
+  },
+  {
+    "codigo": "01721H",
+    "nombres": "COLONIA ZUMBA CRISTOPHER JUAN",
+    "puntaje": 38.8
+  },
+  {
+    "codigo": "01722A",
+    "nombres": "CONDOR ORDOÑEZ ANGEL RICARDO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01723B",
+    "nombres": "CONDORI MANSILLA MATÍAS JOSÉ",
+    "puntaje": 87.65
+  },
+  {
+    "codigo": "01724C",
+    "nombres": "CONDORI MEJÍA ROBIÑO",
+    "puntaje": 66.6
+  },
+  {
+    "codigo": "01725D",
+    "nombres": "CONDORI ACUÑA FABRIZIO JOSUE",
+    "puntaje": 76.35
+  },
+  {
+    "codigo": "01726E",
+    "nombres": "CONTRERAS CALIXTO OLIVER YADILSON",
+    "puntaje": 36.3
+  },
+  {
+    "codigo": "01727F",
+    "nombres": "CONTRERAS VALDIVIA ARON VICTOR",
+    "puntaje": 46.5
+  },
+  {
+    "codigo": "01728G",
+    "nombres": "CONTRERAS RAMOS KEVIN FERNANDO",
+    "puntaje": 67.55
+  },
+  {
+    "codigo": "01729H",
+    "nombres": "CORAL CALDERON DIEGO MARTIN",
+    "puntaje": 50.9
+  },
+  {
+    "codigo": "01730A",
+    "nombres": "CORDOVA CALDERON YEYMY XIOMARA",
+    "puntaje": 69.2
+  },
+  {
+    "codigo": "01731B",
+    "nombres": "CORDOVA CONDORI ANGELES ALDARA",
+    "puntaje": 40.65
+  },
+  {
+    "codigo": "01732C",
+    "nombres": "CORDOVA GARCIA ANTONIO ETSA",
+    "puntaje": 68.7
+  },
+  {
+    "codigo": "01733D",
+    "nombres": "CÓRDOVA ALVARADO JOSEF ALESSANDRO",
+    "puntaje": 22.3
+  },
+  {
+    "codigo": "01734E",
+    "nombres": "CORREA ARRIETA MAX RUBENS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01735F",
+    "nombres": "CORREA PEREZ FERNANDA SOFIA",
+    "puntaje": null
+  },
+  {
+    "codigo": "01736G",
+    "nombres": "CORTEZ ALVITRES DIEGO ALONSO",
+    "puntaje": 65.2
+  },
+  {
+    "codigo": "01737H",
+    "nombres": "COURT VASQUEZ EDUARDO DANIEL",
+    "puntaje": 95.95
+  },
+  {
+    "codigo": "01738A",
+    "nombres": "CUADROS MENDEZ MAIK HEIDAN",
+    "puntaje": 71.35
+  },
+  {
+    "codigo": "01739B",
+    "nombres": "CURI OLIVARES JESAEL CHRISTIAN",
+    "puntaje": 87.4
+  },
+  {
+    "codigo": "01740C",
+    "nombres": "DAMIAN RAMOS GENDHER",
+    "puntaje": 82.65
+  },
+  {
+    "codigo": "01741D",
+    "nombres": "DAVILA MUÑOZ SERGIO",
+    "puntaje": 118.25
+  },
+  {
+    "codigo": "01743F",
+    "nombres": "DAVILA PORTOCARRERO VICTOR MANUEL",
+    "puntaje": 68.35
+  },
+  {
+    "codigo": "01744G",
+    "nombres": "DAZA CHUNGA RAUL ELIAS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01745H",
+    "nombres": "DE SOUZA LEON CESAR ULISES",
+    "puntaje": 100.4
+  },
+  {
+    "codigo": "01746A",
+    "nombres": "DIAZ CALDERÓN CAMILA SHAYA",
+    "puntaje": null
+  },
+  {
+    "codigo": "01747B",
+    "nombres": "DIAZ HUARACA JOSÉ ROBERTO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01748C",
+    "nombres": "DÍAZ CALDERÓN ALEJANDRO CÉSAR",
+    "puntaje": 120.6
+  },
+  {
+    "codigo": "01749D",
+    "nombres": "DÍAZ FELIX DANIEL ALESSANDRO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01750E",
+    "nombres": "DÍAZ ROJAS MATÍAS MARTÍN",
+    "puntaje": 85.8
+  },
+  {
+    "codigo": "01751F",
+    "nombres": "DIEGO SALAS JULIO WALTER",
+    "puntaje": 60.85
+  },
+  {
+    "codigo": "01752G",
+    "nombres": "DOMINGUEZ CAYOTOPA MARCO JOAO",
+    "puntaje": 62.45
+  },
+  {
+    "codigo": "01753H",
+    "nombres": "DUEÑAS BECERRA JHORDAN",
+    "puntaje": 63.25
+  },
+  {
+    "codigo": "01754A",
+    "nombres": "DURAN ALVARADO NAOMI YAMILE",
+    "puntaje": 42.9
+  },
+  {
+    "codigo": "01755B",
+    "nombres": "ENCISO VIRTO JUAN FRANCISCO",
+    "puntaje": 74.6
+  },
+  {
+    "codigo": "01756C",
+    "nombres": "ENRIQUEZ TELLO HAROLD OSWALDO",
+    "puntaje": 78.65
+  },
+  {
+    "codigo": "01757D",
+    "nombres": "ESCOBAR MANRIQUE JEREMY JHAIR",
+    "puntaje": 42.1
+  },
+  {
+    "codigo": "01758E",
+    "nombres": "ESCOLÁSTICO BACA ADRIÁN AUGUSTO",
+    "puntaje": 85.55
+  },
+  {
+    "codigo": "01759F",
+    "nombres": "ESPINOZA AYALA CHARLES KENYO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01760G",
+    "nombres": "ESPINOZA CHINCHA PAOLO JOSUE",
+    "puntaje": 48.75
+  },
+  {
+    "codigo": "01761H",
+    "nombres": "ESPINOZA ESPINOZA ANDRES LEONARDO",
+    "puntaje": 84.45
+  },
+  {
+    "codigo": "01762A",
+    "nombres": "ESPINOZA GRANADOS RICARDO FELIPE",
+    "puntaje": 73.6
+  },
+  {
+    "codigo": "01763B",
+    "nombres": "ESPINOZA LEÓN HEIDY CLARISSA",
+    "puntaje": 121.65
+  },
+  {
+    "codigo": "01764C",
+    "nombres": "ESTRADA MARISCAL FABRIZIO EDGAR",
+    "puntaje": 65.5
+  },
+  {
+    "codigo": "01765D",
+    "nombres": "EYZAGUIRRE MURGA LEONEL ORLANDO",
+    "puntaje": 60.85
+  },
+  {
+    "codigo": "01766E",
+    "nombres": "FACTOR HUERTA PEDRO",
+    "puntaje": 109.95
+  },
+  {
+    "codigo": "01767F",
+    "nombres": "FARFÁN JUÁREZ ANDRÉ JEFERSON",
+    "puntaje": 58.1
+  },
+  {
+    "codigo": "01768G",
+    "nombres": "FERNANDEZ MELGAR VANIA VALENTINA",
+    "puntaje": 77.7
+  },
+  {
+    "codigo": "01769H",
+    "nombres": "FERNÁNDEZ HUAMANI JOAQUÍN IGNACIO",
+    "puntaje": 103.35
+  },
+  {
+    "codigo": "01770A",
+    "nombres": "FERNÁNDEZ LUYO ADRIÁN MATHIAS",
+    "puntaje": 114.45
+  },
+  {
+    "codigo": "01771B",
+    "nombres": "FERNÁNDEZ RODRÍGUEZ DIEGO ALBERTO",
+    "puntaje": 39.55
+  },
+  {
+    "codigo": "01772C",
+    "nombres": "FERRER CAYO CRISTHIAN JHOSMEL",
+    "puntaje": 108.35
+  },
+  {
+    "codigo": "01773D",
+    "nombres": "FLORES BARDALEZ IAN KIRBY",
+    "puntaje": 35.1
+  },
+  {
+    "codigo": "01774E",
+    "nombres": "FLORES ARANGO KALETH DANILO",
+    "puntaje": 87
+  },
+  {
+    "codigo": "01775F",
+    "nombres": "FLORES CARRIÓN ARNOLD NEY",
+    "puntaje": 111
+  },
+  {
+    "codigo": "01776G",
+    "nombres": "FLORES LINARES MIGUEL ALEJANDRO",
+    "puntaje": 91.35
+  },
+  {
+    "codigo": "01777H",
+    "nombres": "FLORES QUISPE DAGOBERT EDGAR ANGELO",
+    "puntaje": 112.5
+  },
+  {
+    "codigo": "01778A",
+    "nombres": "FLORES QUISPE IERING CESARE RODRIGO",
+    "puntaje": 93.25
+  },
+  {
+    "codigo": "01779B",
+    "nombres": "FLORES ROJAS LEONARDO MATEO",
+    "puntaje": 116.25
+  },
+  {
+    "codigo": "01780C",
+    "nombres": "FLORES VELARDE ARIANA ESTRELLA",
+    "puntaje": 57.1
+  },
+  {
+    "codigo": "01781D",
+    "nombres": "FLORES SILVA JEFFERSON OSWALDO",
+    "puntaje": 54.6
+  },
+  {
+    "codigo": "01782E",
+    "nombres": "FLORIANO DIAZ BIAGIO SEBASTIAN",
+    "puntaje": 65.7
+  },
+  {
+    "codigo": "01783F",
+    "nombres": "FONSECA HUARANCA GIUSEPE DEL PIERO",
+    "puntaje": 86
+  },
+  {
+    "codigo": "01784G",
+    "nombres": "GAMARRA MATIAS HANS HARITZ POOL",
+    "puntaje": null
+  },
+  {
+    "codigo": "01785H",
+    "nombres": "GAMBOA GUTIERREZ MARCELL ANGHELI",
+    "puntaje": 69.1
+  },
+  {
+    "codigo": "01786A",
+    "nombres": "GARCIA CARRION D'JORDIE AMARO",
+    "puntaje": 38
+  },
+  {
+    "codigo": "01787B",
+    "nombres": "GARCIA MARTINEZ LANDER LEE",
+    "puntaje": 54.6
+  },
+  {
+    "codigo": "01788C",
+    "nombres": "GARCIA MARQUEZ ANYELO RUBEN",
+    "puntaje": 66.1
+  },
+  {
+    "codigo": "01789D",
+    "nombres": "GARRO PEREZ NORMAND JOSEPH",
+    "puntaje": 84.8
+  },
+  {
+    "codigo": "01790E",
+    "nombres": "GASPAR LLUMPO DAYANNA ALEXANDRA",
+    "puntaje": 75.05
+  },
+  {
+    "codigo": "01791F",
+    "nombres": "GIRÓN ROMERO LEONEL JOAQUÍN",
+    "puntaje": null
+  },
+  {
+    "codigo": "01792G",
+    "nombres": "GOMEZ DEL AGUILA ARIANA NICOLE",
+    "puntaje": 96
+  },
+  {
+    "codigo": "01793H",
+    "nombres": "GONZALES BLANCAS DIEGO ALONSO",
+    "puntaje": 114.9
+  },
+  {
+    "codigo": "01794A",
+    "nombres": "GONZALES CAPCHA DERLIS ELIAS",
+    "puntaje": 44.6
+  },
+  {
+    "codigo": "01795B",
+    "nombres": "GONZALES ROMERO MORELIA ALANIS",
+    "puntaje": 80.9
+  },
+  {
+    "codigo": "01796C",
+    "nombres": "GUEVARA CORONADO FERNANDITO JEAN PIERRE",
+    "puntaje": 69.05
+  },
+  {
+    "codigo": "01797D",
+    "nombres": "GUEVARA RAMÍREZ DOMINIC DAIANA",
+    "puntaje": 84.6
+  },
+  {
+    "codigo": "01798E",
+    "nombres": "GUEVARA LEIVA HUGO MATIAS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01799F",
+    "nombres": "GUILLEN BALDEON STEPHANO SEBASTIAN MARWILL",
+    "puntaje": 75.85
+  },
+  {
+    "codigo": "01800G",
+    "nombres": "GUINO DURAN ERICK BRYAN",
+    "puntaje": null
+  },
+  {
+    "codigo": "01801H",
+    "nombres": "GUTIERREZ CHINCHAY FREDDY VALENTINO",
+    "puntaje": 64.2
+  },
+  {
+    "codigo": "01802A",
+    "nombres": "GUTIÉRREZ EGUÍA JUAN DAVID",
+    "puntaje": 51.45
+  },
+  {
+    "codigo": "01803B",
+    "nombres": "GUTIÉRREZ MORALES RAMSÉS BALTAZAR",
+    "puntaje": 75.95
+  },
+  {
+    "codigo": "01804C",
+    "nombres": "GUZMAN CUENTAS MIGUEL",
+    "puntaje": 100.3
+  },
+  {
+    "codigo": "01805D",
+    "nombres": "HERNANDEZ FERNANDEZ KEVIN WILLIAM",
+    "puntaje": 64.65
+  },
+  {
+    "codigo": "01806E",
+    "nombres": "HERNANDEZ JUAREZ DIEGO ALONSO MIGUEL",
+    "puntaje": 57.5
+  },
+  {
+    "codigo": "01807F",
+    "nombres": "HERRERA CARRIÓN DIEGO MARCELO",
+    "puntaje": 54
+  },
+  {
+    "codigo": "01808G",
+    "nombres": "HERRERA RIMACHI RODRIGO FERMIN",
+    "puntaje": 121.6
+  },
+  {
+    "codigo": "01809H",
+    "nombres": "HERRERA TARAZONA JAZMIN MARIA",
+    "puntaje": 81.6
+  },
+  {
+    "codigo": "01810A",
+    "nombres": "HIDALGO TRUJILLO FRANKY JACK",
+    "puntaje": 105.9
+  },
+  {
+    "codigo": "01811B",
+    "nombres": "HILARES PAUCAR ARIANA JASMIN",
+    "puntaje": 76.6
+  },
+  {
+    "codigo": "01812C",
+    "nombres": "HINOSTROZA QUISPE JOSEPH LIEL",
+    "puntaje": 91.05
+  },
+  {
+    "codigo": "01813D",
+    "nombres": "HOLGUIN GARCIA DANNA RAQUEL",
+    "puntaje": 38.1
+  },
+  {
+    "codigo": "01814E",
+    "nombres": "HUAMAN AGUIRRE JUDHIT MARISOL",
+    "puntaje": null
+  },
+  {
+    "codigo": "01815F",
+    "nombres": "HUAMAN DIAZ MARIELLY NICOLLE",
+    "puntaje": 67.25
+  },
+  {
+    "codigo": "01816G",
+    "nombres": "HUAMAN PONCE JHAIR ALEJANDRO",
+    "puntaje": 82.45
+  },
+  {
+    "codigo": "01817H",
+    "nombres": "HUAMAN VERA LEONARDO FRANCESCO",
+    "puntaje": 91.1
+  },
+  {
+    "codigo": "01818A",
+    "nombres": "HUAMANI DE LA CRUZ LEONARDO NESTOR",
+    "puntaje": 88.65
+  },
+  {
+    "codigo": "01819B",
+    "nombres": "HUANCA DELGADO ERVIN HERNAN",
+    "puntaje": 59.85
+  },
+  {
+    "codigo": "01820C",
+    "nombres": "HUAPAYA HERNANDEZ VICTOR DANIEL",
+    "puntaje": 74.4
+  },
+  {
+    "codigo": "01821D",
+    "nombres": "HUARINGA CASTRO PABLO JOSÉ",
+    "puntaje": 132.05
+  },
+  {
+    "codigo": "01822E",
+    "nombres": "HUAYTA MAYO RENZO JOSUE",
+    "puntaje": 74.35
+  },
+  {
+    "codigo": "01823F",
+    "nombres": "HUERTA RODRÍGUEZ LUIS ADRIANO",
+    "puntaje": 33.6
+  },
+  {
+    "codigo": "01824G",
+    "nombres": "HUILLCA AYMACHOQUE AXEL JEAN CARLOS",
+    "puntaje": 46.25
+  },
+  {
+    "codigo": "01825H",
+    "nombres": "ILLA ROMERO JORGE JEAN PIERE",
+    "puntaje": 28.3
+  },
+  {
+    "codigo": "01826A",
+    "nombres": "INFANTES TOMAYLLA FERNANDO MATIAS",
+    "puntaje": 56
+  },
+  {
+    "codigo": "01827B",
+    "nombres": "INGA DURAND YVÁN ALEXANDER",
+    "puntaje": 45.75
+  },
+  {
+    "codigo": "01828C",
+    "nombres": "INGA ROMERO CRISTHIAN DAVID",
+    "puntaje": 69.85
+  },
+  {
+    "codigo": "01829D",
+    "nombres": "IRAZÁBAL SULCA RENATO JOAQUÍN",
+    "puntaje": 64
+  },
+  {
+    "codigo": "01830E",
+    "nombres": "JARA PINTADO GIANFRANCO",
+    "puntaje": 64.5
+  },
+  {
+    "codigo": "01831F",
+    "nombres": "JESUSI GONZALES KENNY JAIR",
+    "puntaje": 85.6
+  },
+  {
+    "codigo": "01832G",
+    "nombres": "JUAREZ CRUZ SALVADOR ALEJANDRO",
+    "puntaje": 73.8
+  },
+  {
+    "codigo": "01833H",
+    "nombres": "JUAREZ IBAÑEZ STEVEN",
+    "puntaje": null
+  },
+  {
+    "codigo": "01834A",
+    "nombres": "JULCA TORRES RAPHAEL ZAHIR",
+    "puntaje": 73.65
+  },
+  {
+    "codigo": "01835B",
+    "nombres": "JUSTO PIO ALEX DEIVIS",
+    "puntaje": 101.4
+  },
+  {
+    "codigo": "01836C",
+    "nombres": "LAYME MAMANI JHORDAN",
+    "puntaje": 74.4
+  },
+  {
+    "codigo": "01837D",
+    "nombres": "LAZO CARDENAS LUIS MAXIMO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01838E",
+    "nombres": "LAZO VIVANCO LUIS VIKTOR LEVIDOVICH",
+    "puntaje": 75.45
+  },
+  {
+    "codigo": "01839F",
+    "nombres": "LEANDRO POMA ALDHAIR JESUS",
+    "puntaje": 76.1
+  },
+  {
+    "codigo": "01840G",
+    "nombres": "LEON NIETO CHRISTIAN ALEXANDER",
+    "puntaje": 111.9
+  },
+  {
+    "codigo": "01841H",
+    "nombres": "LIMAS CASTRO NAHILA SHEEN INGRID",
+    "puntaje": 50.45
+  },
+  {
+    "codigo": "01842A",
+    "nombres": "LIMAYLLA MALLMA DIEGO FRANCISCO",
+    "puntaje": 33.95
+  },
+  {
+    "codigo": "01843B",
+    "nombres": "LINARES BERNARDO YAMIL YAMILE",
+    "puntaje": 68.2
+  },
+  {
+    "codigo": "01844C",
+    "nombres": "LINO SAYÓN MARIANGEL ARIS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01845D",
+    "nombres": "LINO ARECHE YAMILE LUCIA",
+    "puntaje": null
+  },
+  {
+    "codigo": "01846E",
+    "nombres": "LIZARRAGA ANDRADE MARCO STEPHANO",
+    "puntaje": 42.6
+  },
+  {
+    "codigo": "01847F",
+    "nombres": "LLAGAS LOZANO THIAGO SEBASTIAN",
+    "puntaje": 83.6
+  },
+  {
+    "codigo": "01848G",
+    "nombres": "LLALLAVE CÁCERES ANDERSON JEAN PIERRE",
+    "puntaje": 64
+  },
+  {
+    "codigo": "01849H",
+    "nombres": "LLANCO NAVARRO BRED LOGAN",
+    "puntaje": 60.05
+  },
+  {
+    "codigo": "01850A",
+    "nombres": "LLANOS LLANOS ALEX EDUARDO",
+    "puntaje": 87.15
+  },
+  {
+    "codigo": "01851B",
+    "nombres": "LOLO CURISINCHE MIKEL ANGELO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01852C",
+    "nombres": "LOPEZ BLAS DANIEL ALEXANDER",
+    "puntaje": 58
+  },
+  {
+    "codigo": "01853D",
+    "nombres": "LOPEZ BUSTAMANTE ARTURO DAVID",
+    "puntaje": 106.05
+  },
+  {
+    "codigo": "01854E",
+    "nombres": "LOPEZ HUANCAS CHRISTIAN MICHELE",
+    "puntaje": 77.05
+  },
+  {
+    "codigo": "01855F",
+    "nombres": "LOPEZ QUICAÑO RENZO ANDRÉ",
+    "puntaje": 69.45
+  },
+  {
+    "codigo": "01856G",
+    "nombres": "LUDEÑA GÓMEZ RENZO YAIR",
+    "puntaje": 30.45
+  },
+  {
+    "codigo": "01857H",
+    "nombres": "LUJERIO PÉREZ THIAGO YAHNSEN",
+    "puntaje": 66.1
+  },
+  {
+    "codigo": "01858A",
+    "nombres": "MALCA CHAMORRO CARLOS MANUEL ELIAS",
+    "puntaje": 123.25
+  },
+  {
+    "codigo": "01859B",
+    "nombres": "MALDONADO GARCIA CIELO ANGELI",
+    "puntaje": 55.85
+  },
+  {
+    "codigo": "01860C",
+    "nombres": "MALLMA LAURA JHOAO MATHIAS DAVID",
+    "puntaje": null
+  },
+  {
+    "codigo": "01861D",
+    "nombres": "MALUQUISH MANTARI MICHELLE MILAGROS",
+    "puntaje": 80.4
+  },
+  {
+    "codigo": "01862E",
+    "nombres": "MAMANI CADAGAN CARLOS MAURICIO",
+    "puntaje": 71.15
+  },
+  {
+    "codigo": "01863F",
+    "nombres": "MAMANI CHURATA ALVARO FABIAN",
+    "puntaje": 97.35
+  },
+  {
+    "codigo": "01864G",
+    "nombres": "MAMANI HERRERA DUANER EFRAÍN",
+    "puntaje": 39.95
+  },
+  {
+    "codigo": "01865H",
+    "nombres": "MAMANI LARICO VICTOR FERNANDO",
+    "puntaje": 92.6
+  },
+  {
+    "codigo": "01866A",
+    "nombres": "MAMANI PAJE LUIS DANIEL",
+    "puntaje": 85.55
+  },
+  {
+    "codigo": "01867B",
+    "nombres": "MAMANI YAURI LINCOL RENZO",
+    "puntaje": 53.05
+  },
+  {
+    "codigo": "01868C",
+    "nombres": "MANCILLA SERRANO DAVID MICHAELL",
+    "puntaje": 106.65
+  },
+  {
+    "codigo": "01869D",
+    "nombres": "MARMOLEJO CERRUTTI ALEJANDRO TOMÁS",
+    "puntaje": 93.5
+  },
+  {
+    "codigo": "01870E",
+    "nombres": "MARQUINA SARMIENTO SEBASTIAN",
+    "puntaje": 49.95
+  },
+  {
+    "codigo": "01871F",
+    "nombres": "MARREROS MERINO MARIA FATIMA",
+    "puntaje": 68.7
+  },
+  {
+    "codigo": "01872G",
+    "nombres": "MASGO POLINAR YORHING ENAIM",
+    "puntaje": 82.4
+  },
+  {
+    "codigo": "01873H",
+    "nombres": "MATAMOROS LLANCO ERICK DANIEL",
+    "puntaje": 90.65
+  },
+  {
+    "codigo": "01874A",
+    "nombres": "MAYTA MANCHA GUSTAVO AXEL",
+    "puntaje": null
+  },
+  {
+    "codigo": "01875B",
+    "nombres": "MAZA VALER JIMMY",
+    "puntaje": null
+  },
+  {
+    "codigo": "01876C",
+    "nombres": "MEDINA LIVIAPOMA ALAN XAVIER",
+    "puntaje": 96.2
+  },
+  {
+    "codigo": "01877D",
+    "nombres": "MEDINA RODRIGUEZ ALESSANDRO DIONEL",
+    "puntaje": 47.75
+  },
+  {
+    "codigo": "01878E",
+    "nombres": "MEJIA YABAR EDGAR GABRIEL",
+    "puntaje": 60.45
+  },
+  {
+    "codigo": "01879F",
+    "nombres": "MEJIA GAVILAN MARJHIORY XIMENA",
+    "puntaje": 51.15
+  },
+  {
+    "codigo": "01880G",
+    "nombres": "MEJÍA BURGOS THIAGO LEONARDO",
+    "puntaje": 70.75
+  },
+  {
+    "codigo": "01881H",
+    "nombres": "MENACHO HUAMANI RODRIGO JOSUE",
+    "puntaje": 104.7
+  },
+  {
+    "codigo": "01882A",
+    "nombres": "MENDEZ LEVANO MEYDI DALILA",
+    "puntaje": 56.65
+  },
+  {
+    "codigo": "01883B",
+    "nombres": "MÉNDEZ CANCHO CLAUDIA ANDREA",
+    "puntaje": 78.65
+  },
+  {
+    "codigo": "01884C",
+    "nombres": "MÉNDEZ CUSI RÓMULO YARED",
+    "puntaje": 122
+  },
+  {
+    "codigo": "01885D",
+    "nombres": "MENDOZA MEZA ANGEL MATHIAS",
+    "puntaje": 96.4
+  },
+  {
+    "codigo": "01886E",
+    "nombres": "MENDOZA ROJAS GABRIEL VALENTIN",
+    "puntaje": 72.15
+  },
+  {
+    "codigo": "01887F",
+    "nombres": "MENDOZA URBANO DIEGO ALONSO",
+    "puntaje": 107.8
+  },
+  {
+    "codigo": "01888G",
+    "nombres": "MENDOZA VASQUEZ RUBY",
+    "puntaje": 62.85
+  },
+  {
+    "codigo": "01889H",
+    "nombres": "MIRANA ARENAS EDUARD",
+    "puntaje": 48
+  },
+  {
+    "codigo": "01890A",
+    "nombres": "MIREZ RAMIREZ JOUSETH ALEJANDRO",
+    "puntaje": 53.5
+  },
+  {
+    "codigo": "01891B",
+    "nombres": "MODESTO HUARANGA JIMMY PAUL",
+    "puntaje": 89
+  },
+  {
+    "codigo": "01892C",
+    "nombres": "MOLINA CAUCHOS MAURICIO JOSÉ",
+    "puntaje": 101.9
+  },
+  {
+    "codigo": "01893D",
+    "nombres": "MONTALVO CHOTA DANIEL STEPHANO",
+    "puntaje": 63.3
+  },
+  {
+    "codigo": "01894E",
+    "nombres": "MONTALVO PORTILLO LEONIDAS ABDIEL",
+    "puntaje": 83.2
+  },
+  {
+    "codigo": "01895F",
+    "nombres": "MONTEJO MENDOZA MARÍA ALEJANDRA",
+    "puntaje": 31.55
+  },
+  {
+    "codigo": "01896G",
+    "nombres": "MONTESINOS CARI ROLANDO MOISÉS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01897H",
+    "nombres": "MONTESINOS PARISACA SAMI COYANKA",
+    "puntaje": 78
+  },
+  {
+    "codigo": "01898A",
+    "nombres": "MONTOYA VARGAS MARJORIE ANGELICA",
+    "puntaje": 64
+  },
+  {
+    "codigo": "01899B",
+    "nombres": "MORALES GAMARRA ALVARO MATHIAS",
+    "puntaje": 40.15
+  },
+  {
+    "codigo": "01900C",
+    "nombres": "MORALES HERNÁNDEZ ADONI LEANDRO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01901D",
+    "nombres": "MORALES LINARES GIOVANNI ALEXANDER",
+    "puntaje": 94.95
+  },
+  {
+    "codigo": "01902E",
+    "nombres": "MORALES MEDINA FABRICIO ANDRÉS",
+    "puntaje": 92.5
+  },
+  {
+    "codigo": "01903F",
+    "nombres": "MORALES PANCORBO ANTONY DEIVIS",
+    "puntaje": null
+  },
+  {
+    "codigo": "01904G",
+    "nombres": "MORALES QUICAÑO NOEMI",
+    "puntaje": 27.65
+  },
+  {
+    "codigo": "01905H",
+    "nombres": "MORALES SOSA MIGUEL HERNÁN",
+    "puntaje": 90.35
+  },
+  {
+    "codigo": "01906A",
+    "nombres": "MORALES TORRES RODRIGO RANDOLPH JESUS",
+    "puntaje": 104.75
+  },
+  {
+    "codigo": "01907B",
+    "nombres": "MORÁN SIFUENTES VÍCTOR",
+    "puntaje": 75.15
+  },
+  {
+    "codigo": "01908C",
+    "nombres": "MORANTE VALDIVIA ADRIANA CECILIA",
+    "puntaje": 57.45
+  },
+  {
+    "codigo": "01909D",
+    "nombres": "MORANTE VALDIVIA CLAUDIA LUCIA",
+    "puntaje": 72.95
+  },
+  {
+    "codigo": "01910E",
+    "nombres": "MOREANO VADILLO GERAR ALEXANDER JESÚS",
+    "puntaje": 90.25
+  },
+  {
+    "codigo": "01911F",
+    "nombres": "MORILLO HUARAC YHEERA ALEXSANDRA",
+    "puntaje": 80.55
+  },
+  {
+    "codigo": "01912G",
+    "nombres": "MORMONTOY LINDO EDWARDS BENJAMIN",
+    "puntaje": null
+  },
+  {
+    "codigo": "01913H",
+    "nombres": "MORY REYES PERZY JESUS",
+    "puntaje": 99.8
+  },
+  {
+    "codigo": "01914A",
+    "nombres": "MUCHA CANCHANYA LENIN SEBASTIAN",
+    "puntaje": 71.05
+  },
+  {
+    "codigo": "01915B",
+    "nombres": "MUJICA HUAYANAY STEW RYAN",
+    "puntaje": 100.45
+  },
+  {
+    "codigo": "01916C",
+    "nombres": "MUÑIZ ZELA YOLANDA ALEJANDRA",
+    "puntaje": null
+  },
+  {
+    "codigo": "01917D",
+    "nombres": "MUÑOZ GODOY ANGEL ZAHID",
+    "puntaje": 76.3
+  },
+  {
+    "codigo": "01918E",
+    "nombres": "MURILLO NARRO JEAN PIERO",
+    "puntaje": 95.6
+  },
+  {
+    "codigo": "01919F",
+    "nombres": "NARVA LINARES RODRIGO JOAQUIN",
+    "puntaje": 97.55
+  },
+  {
+    "codigo": "01920G",
+    "nombres": "NINAQUISPE VIGO RENZO ADRIAN",
+    "puntaje": null
+  },
+  {
+    "codigo": "01921H",
+    "nombres": "NOLASCO CHAUCA SEBASTIAN ABEL",
+    "puntaje": 88.3
+  },
+  {
+    "codigo": "01922A",
+    "nombres": "ÑAUPARI SEDANO CLAUDIO FERNANDO",
+    "puntaje": 73.2
+  },
+  {
+    "codigo": "01923B",
+    "nombres": "OCHOA QUISPE ADRIANO ADOLFO",
+    "puntaje": 92.45
+  },
+  {
+    "codigo": "01924C",
+    "nombres": "OCHOA CUEVA RAFAEL ANGEL",
+    "puntaje": 50.5
+  },
+  {
+    "codigo": "01925D",
+    "nombres": "OLIVERA CALDERÓN INGRID SOLANGE",
+    "puntaje": 50.85
+  },
+  {
+    "codigo": "01926E",
+    "nombres": "OPE TABOADA JOSÉ ENRIQUE",
+    "puntaje": 50.85
+  },
+  {
+    "codigo": "01927F",
+    "nombres": "OPE TABOADA RICARDO JOSÉ",
+    "puntaje": 36.5
+  },
+  {
+    "codigo": "01928G",
+    "nombres": "ORDOÑEZ COLQUI ALVARO MARK",
+    "puntaje": null
+  },
+  {
+    "codigo": "01929H",
+    "nombres": "ORE MURAYARI ADRIAN",
+    "puntaje": 43.1
+  },
+  {
+    "codigo": "01930A",
+    "nombres": "ORE HURCO MIGUEL MATEO",
+    "puntaje": 74.6
+  },
+  {
+    "codigo": "01931B",
+    "nombres": "ORIHUELA APAZA MAX EFRAIN",
+    "puntaje": 93.75
+  },
+  {
+    "codigo": "01932C",
+    "nombres": "ORIHUELA CIPRIANO EDUARDO ANGEL",
+    "puntaje": null
+  },
+  {
+    "codigo": "01933D",
+    "nombres": "ORIHUELA ORE JORGE MIGUEL",
+    "puntaje": 106.35
+  },
+  {
+    "codigo": "01934E",
+    "nombres": "ORTIZ HUALLPA ARIEL LEONARDO",
+    "puntaje": 81.15
+  },
+  {
+    "codigo": "01935F",
+    "nombres": "ORTIZ PORRAS CRISTIAN OMAR",
+    "puntaje": 83.65
+  },
+  {
+    "codigo": "01936G",
+    "nombres": "OSORIO BALDEON FATIMA SOFIA",
+    "puntaje": null
+  },
+  {
+    "codigo": "01937H",
+    "nombres": "PACHECO CABRERA GENRI JOSUE",
+    "puntaje": 1
+  },
+  {
+    "codigo": "01938A",
+    "nombres": "PALACIOS CANTARO PIERO MIGUEL",
+    "puntaje": null
+  },
+  {
+    "codigo": "01939B",
+    "nombres": "PALOMINO ATAUCUSI ERICK ANDRE",
+    "puntaje": 67.05
+  },
+  {
+    "codigo": "01940C",
+    "nombres": "PALOMINO CORIMANYA ISAÍ AARÓN",
+    "puntaje": 94.5
+  },
+  {
+    "codigo": "01941D",
+    "nombres": "PALOMINO DELGADO JIMENA ALEXANDRA",
+    "puntaje": 50.05
+  },
+  {
+    "codigo": "01942E",
+    "nombres": "PALOMINO ROJAS DANNA KHRISTEL",
+    "puntaje": 55.05
+  },
+  {
+    "codigo": "01943F",
+    "nombres": "PALOMINO CALLE JOSEPH BENJAMIN",
+    "puntaje": 57.3
+  },
+  {
+    "codigo": "01944G",
+    "nombres": "PALOMINO HUAPAYA GUSTAVO ALEJANDRO",
+    "puntaje": 136.8
+  },
+  {
+    "codigo": "01945H",
+    "nombres": "PANDO ALVARADO ALEXANDRA NATIVIDAD",
+    "puntaje": null
+  },
+  {
+    "codigo": "01946A",
+    "nombres": "PANDO ESPEJO LIZETH CINTHIA",
+    "puntaje": 55.8
+  },
+  {
+    "codigo": "01947B",
+    "nombres": "PANDURO RODRIGUEZ ESMERALDA LUCERO",
+    "puntaje": 94.8
+  },
+  {
+    "codigo": "01948C",
+    "nombres": "PANGALIMA AGUILAR AROM AUGUSTO",
+    "puntaje": 62.25
+  },
+  {
+    "codigo": "01949D",
+    "nombres": "PARDO VEGA NATALY JHANELLY",
+    "puntaje": 59.8
+  },
+  {
+    "codigo": "01950E",
+    "nombres": "PAREDES AIQUIPA JAYRO JHARED",
+    "puntaje": 30
+  },
+  {
+    "codigo": "01951F",
+    "nombres": "PAREDES QUISPE VALERY ALEXANDRA",
+    "puntaje": 83
+  },
+  {
+    "codigo": "01952G",
+    "nombres": "PARIONA OSORIO JOSE MANUEL",
+    "puntaje": 57.55
+  },
+  {
+    "codigo": "01953H",
+    "nombres": "PASSUNI GIRON JESÚS SALVADOR",
+    "puntaje": 50.9
+  },
+  {
+    "codigo": "01954A",
+    "nombres": "PAYTÁN RIVERO JHONATAN FABRICIO",
+    "puntaje": null
+  },
+  {
+    "codigo": "01955B",
+    "nombres": "PEÑA CHOQUE IAN STEPHANO",
+    "puntaje": 33.85
+  },
+  {
+    "codigo": "01956C",
+    "nombres": "PEREA HUAMÁN JORGE ANTONIO",
+    "puntaje": 102.15
+  },
+  {
+    "codigo": "01957D",
+    "nombres": "PEREZ PALOMINO NAUM JOSEPH",
+    "puntaje": 41.35
+  },
+  {
+    "codigo": "01958E",
+    "nombres": "PEREZ LOPEZ JAIME MOISES",
+    "puntaje": 74.6
+  },
+  {
+    "codigo": "01959F",
+    "nombres": "PEREZ MAMANI ARIAN ZAIDTH",
+    "puntaje": null
+  },
+  {
+    "codigo": "01960G",
+    "nombres": "PEREZ SABINO JUAN JOSE",
+    "puntaje": 52.35
+  },
+  {
+    "codigo": "01961H",
+    "nombres": "PILLACA AQUISE LEO FABRICIO",
+    "puntaje": 37.45
+  },
+  {
+    "codigo": "01962A",
+    "nombres": "PINTADO MAYDANA FRANCO SANTIAGO",
+    "puntaje": 85.05
+  },
+  {
+    "codigo": "01963B",
+    "nombres": "PIÑARES PEREYRA GUADALUPE DEL PILAR",
+    "puntaje": 68.05
+  },
+  {
+    "codigo": "01964C",
+    "nombres": "PIZARRO LAGOS MARCOS FRANK",
+    "puntaje": 73.25
+  },
+  {
+    "codigo": "01965D",
+    "nombres": "POMA ROJAS FRANK JOSEPH",
+    "puntaje": 45.45
+  },
+  {
+    "codigo": "01966E",
+    "nombres": "POMA VILLANUEVA NAOMY XIOMARA",
+    "puntaje": 66.7
+  },
+  {
+    "codigo": "01967F",
+    "nombres": "PORRAS MATAMOROS MAX ANDERSON",
+    "puntaje": null
+  },
+  {
+    "codigo": "01968G",
+    "nombres": "PORTUGUEZ VEGA ROBERTO EDUARDO",
+    "puntaje": 108.4
+  },
+  {
+    "codigo": "01969H",
+    "nombres": "PRIETO LUNA SARGON RENZO CESAR",
+    "puntaje": 74.85
+  },
+  {
+    "codigo": "01970A",
+    "nombres": "PUCHURI MANRIQUE ANDRE MANUEL",
+    "puntaje": 54.65
+  },
+  {
+    "codigo": "01971B",
+    "nombres": "PUMA GALINDO ANTONY JHORDAN",
+    "puntaje": 82.65
+  },
+  {
+    "codigo": "01972C",
+    "nombres": "QUINO TORRES GERARDO LUDWIG",
+    "puntaje": 108.3
+  },
+  {
+    "codigo": "01973D",
+    "nombres": "QUINTANA QUISPE JOHAN YILMAR",
+    "puntaje": 99.1
+  },
+  {
+    "codigo": "01974E",
+    "nombres": "QUISPE BALCON JHOJAN ROGER",
+    "puntaje": 59
+  },
+  {
+    "codigo": "01975F",
+    "nombres": "QUISPE FLORES LUIS JAHIR",
+    "puntaje": 123.3
+  },
+  {
+    "codigo": "01976G",
+    "nombres": "QUISPE GASTELU JUDITH JAQUELIN",
+    "puntaje": null
+  },
+  {
+    "codigo": "01977H",
+    "nombres": "QUISPE HUAMÁN LEONARDO SANTOS",
+    "puntaje": 96
+  },
+  {
+    "codigo": "01978A",
+    "nombres": "QUISPE LÓPEZ LUIS MIGUEL",
+    "puntaje": 41.65
+  },
+  {
+    "codigo": "01979B",
+    "nombres": "QUISPE TUNANTE LORENZO FIDEL",
+    "puntaje": 95.8
+  },
+  {
+    "codigo": "01980C",
+    "nombres": "QUISPE ZAPATA PIERO DEL VIERI",
+    "puntaje": 44.55
+  },
+  {
+    "codigo": "01981D",
+    "nombres": "QUISPE HERNANDEZ HARRINTONG JHORDANO",
+    "puntaje": 96.85
+  },
+  {
+    "codigo": "01982E",
+    "nombres": "RACCHUMI RODRIGUEZ OMAR ADRIANO",
+    "puntaje": 108.85
+  },
+  {
+    "codigo": "01983F",
+    "nombres": "RAMIREZ MOLLO CARLOS JESÚS",
+    "puntaje": 67.85
+  },
+  {
+    "codigo": "01984G",
+    "nombres": "RAMIREZ TRUJILLO JOHAN ABRAHAM SALVADOR",
+    "puntaje": 70.7
+  },
+  {
+    "codigo": "01985H",
+    "nombres": "RAMIREZ ZELADA ELIEZER ALMAGRO",
+    "puntaje": 67.2
+  },
+  {
+    "codigo": "01986A",
+    "nombres": "RAMOS CHOQQUE ALEXANDER ABDIEL",
+    "puntaje": 84.2
+  },
+  {
+    "codigo": "01987B",
+    "nombres": "RAMOS LLANOS MIRKO ADRIAN",
+    "puntaje": 90.8
+  },
+  {
+    "codigo": "01988C",
+    "nombres": "RAYMUNDO QUINTANA FRANCO JHONATAN",
+    "puntaje": 52.55
+  },
+  {
+    "codigo": "01989D",
+    "nombres": "REMON FLORES JUAN FERNANDO",
+    "puntaje": 66.95
+  },
+  {
+    "codigo": "01990E",
+    "nombres": "RENGIFO GUEVARA ROBINSON SEGUNDO",
+    "puntaje": 87.25
+  },
+  {
+    "codigo": "01991F",
+    "nombres": "RETAMOZO CALLAÑAUPA CHRISTIAN HENRY",
+    "puntaje": 40.6
+  },
+  {
+    "codigo": "01992G",
+    "nombres": "RETO SÁNCHEZ DIEGO ALEJANDRO",
+    "puntaje": 103.3
+  },
+  {
+    "codigo": "01993H",
+    "nombres": "REYES PEREZ BRYAN STEVE",
+    "puntaje": 75.3
+  },
+  {
+    "codigo": "01994A",
+    "nombres": "REYES SUCA LUIS ALESSANDRO",
+    "puntaje": 50.4
+  },
+  {
+    "codigo": "01995B",
+    "nombres": "RIMACHI PAPA JERICO ANDRE",
+    "puntaje": 51.15
+  },
+  {
+    "codigo": "01996C",
+    "nombres": "RIOS DE LA CRUZ LEONARDO POOL",
+    "puntaje": 79.2
+  },
+  {
+    "codigo": "01997D",
+    "nombres": "RIOS VELA AMIR RODOLFO BENJAMIN",
+    "puntaje": 96.8
+  },
+  {
+    "codigo": "01998E",
+    "nombres": "RISOLAZO LARA FABRIZIO GABRIEL",
+    "puntaje": 88.8
+  },
+  {
+    "codigo": "01999F",
+    "nombres": "RIVAS DIAZ ALONSO",
+    "puntaje": 65.3
+  },
+  {
+    "codigo": "02000G",
+    "nombres": "RIVERA PINAUD PATRIC MATHIAS",
+    "puntaje": 61.9
+  },
+  {
+    "codigo": "02001H",
+    "nombres": "ROBLES MONTESINOS STEPHANNO ADRIANNO",
+    "puntaje": 33.4
+  },
+  {
+    "codigo": "02002A",
+    "nombres": "RODRIGUEZ PACHERRES KAROL NAOMI",
+    "puntaje": 71.85
+  },
+  {
+    "codigo": "02003B",
+    "nombres": "RODRIGUEZ PASACHE PIERO MICHEL",
+    "puntaje": 35.9
+  },
+  {
+    "codigo": "02004C",
+    "nombres": "RODRIGUEZ SANANDRES GUSTAVO JAVIER",
+    "puntaje": null
+  },
+  {
+    "codigo": "02005D",
+    "nombres": "RODRIGUEZ VILLACORTA MIGUEL SEBASTIAN",
+    "puntaje": 54.85
+  },
+  {
+    "codigo": "02006E",
+    "nombres": "RODRÍGUEZ PALOMINO MARIANA SOFÍA",
+    "puntaje": 66.55
+  },
+  {
+    "codigo": "02007F",
+    "nombres": "ROJAS ARTEAGA XENDRIX MANUEL",
+    "puntaje": 68.5
+  },
+  {
+    "codigo": "02008G",
+    "nombres": "ROJAS CARRILLO JOSE MATIAS",
+    "puntaje": 51.6
+  },
+  {
+    "codigo": "02009H",
+    "nombres": "ROJAS GARRO NEHEMIAS ALEXANDER",
+    "puntaje": 51.1
+  },
+  {
+    "codigo": "02010A",
+    "nombres": "ROJAS HUALLPA JHORDAN PABLO",
+    "puntaje": 96.6
+  },
+  {
+    "codigo": "02011B",
+    "nombres": "ROJAS PUENTE ARSEL",
+    "puntaje": 69.8
+  },
+  {
+    "codigo": "02012C",
+    "nombres": "ROJAS SALINAS FRANK ANTHONY",
+    "puntaje": 98.55
+  },
+  {
+    "codigo": "02013D",
+    "nombres": "ROMAN VALLEJOS CHRISTIAN ALEXANDER",
+    "puntaje": 117.6
+  },
+  {
+    "codigo": "02014E",
+    "nombres": "ROMERO MELGAR LUCIANA",
+    "puntaje": 52.55
+  },
+  {
+    "codigo": "02015F",
+    "nombres": "ROMERO PARI LUIS DAVID",
+    "puntaje": 113.65
+  },
+  {
+    "codigo": "02016G",
+    "nombres": "RONCAL GREY ERICK WILL",
+    "puntaje": 72.05
+  },
+  {
+    "codigo": "02017H",
+    "nombres": "RONDAN ROJAS KEVIN RHANDAL",
+    "puntaje": 102.5
+  },
+  {
+    "codigo": "02018A",
+    "nombres": "RUIZ AGUILAR GABRIEL JOSÍAS",
+    "puntaje": 84.45
+  },
+  {
+    "codigo": "02019B",
+    "nombres": "SAAVEDRA EVANGELIO MARTIN JOE",
+    "puntaje": 73.8
+  },
+  {
+    "codigo": "02020C",
+    "nombres": "SALAZAR SALINAS JUAN CARLOS",
+    "puntaje": 100.15
+  },
+  {
+    "codigo": "02021D",
+    "nombres": "SALAZAR PASACHE CRISTHIAN MANUEL",
+    "puntaje": null
+  },
+  {
+    "codigo": "02022E",
+    "nombres": "SALAZAR SOLOGORRÉ JERRY ANDERSON",
+    "puntaje": 45.65
+  },
+  {
+    "codigo": "02023F",
+    "nombres": "SALAZAR LEZAMA FRANKCHESCO HUGO",
+    "puntaje": 71.2
+  },
+  {
+    "codigo": "02024G",
+    "nombres": "SALCEDO LAIME ALDAIR PIERO",
+    "puntaje": 54.5
+  },
+  {
+    "codigo": "02025H",
+    "nombres": "SALGADO MAGUIÑA JEREMY CHRIS",
+    "puntaje": null
+  },
+  {
+    "codigo": "02026A",
+    "nombres": "SALINAS DE LA O JHOSEP ANTHONY",
+    "puntaje": 77.2
+  },
+  {
+    "codigo": "02027B",
+    "nombres": "SALIRROSAS RAMOS JOSÉ ALEJANDRO",
+    "puntaje": 88.2
+  },
+  {
+    "codigo": "02028C",
+    "nombres": "SALVATIERRA HUAYTALLA KEITH SEIYA AIORIA",
+    "puntaje": 58.3
+  },
+  {
+    "codigo": "02029D",
+    "nombres": "SANCHEZ FLORES ADRIAN JEREMITH",
+    "puntaje": null
+  },
+  {
+    "codigo": "02030E",
+    "nombres": "SÁNCHEZ MARTÍNEZ GABRIELA AYMAR",
+    "puntaje": 68.85
+  },
+  {
+    "codigo": "02031F",
+    "nombres": "SANDOVAL ALONZO ANDRÉS JESÚS ADRIÁN",
+    "puntaje": 50.2
+  },
+  {
+    "codigo": "02032G",
+    "nombres": "SANTACRUZ AHON JHON DEREK",
+    "puntaje": 87.6
+  },
+  {
+    "codigo": "02033H",
+    "nombres": "SANTIBAÑEZ ESPINOZA KAYTHE NOELIA",
+    "puntaje": 67.85
+  },
+  {
+    "codigo": "02034A",
+    "nombres": "SANTOS CONTRERAS RUBÉN BRANDON",
+    "puntaje": 84.2
+  },
+  {
+    "codigo": "02035B",
+    "nombres": "SARCO PÉREZ JESÚS GRECO",
+    "puntaje": null
+  },
+  {
+    "codigo": "02036C",
+    "nombres": "SARMIENTO HUALLPA RODRIGO",
+    "puntaje": null
+  },
+  {
+    "codigo": "02037D",
+    "nombres": "SARMIENTO LÓPEZ KAMILA MERY",
+    "puntaje": null
+  },
+  {
+    "codigo": "02038E",
+    "nombres": "SAYAS JAUJA CHRISTIAN JESUS",
+    "puntaje": 95.75
+  },
+  {
+    "codigo": "02039F",
+    "nombres": "SEVILLA RUIZ MIA EVASHKA",
+    "puntaje": 56
+  },
+  {
+    "codigo": "02040G",
+    "nombres": "SIHUAS VASQUEZ JARICKSA BRIGGITT NAYERLY",
+    "puntaje": null
+  },
+  {
+    "codigo": "02041H",
+    "nombres": "SILVA VEGA ANTONIO GUILLERMO BALTAZAR",
+    "puntaje": 49.3
+  },
+  {
+    "codigo": "02042A",
+    "nombres": "SOLIER SOTO LEANDRO",
+    "puntaje": null
+  },
+  {
+    "codigo": "02043B",
+    "nombres": "SOMINA GAMONAL CHRISTOPHER ERICK",
+    "puntaje": 110.4
+  },
+  {
+    "codigo": "02044C",
+    "nombres": "SONCCO ESCRIBA DAYANNA AYELEN",
+    "puntaje": 68.1
+  },
+  {
+    "codigo": "02045D",
+    "nombres": "SOTEC LUGO LUIS",
+    "puntaje": 58.4
+  },
+  {
+    "codigo": "02046E",
+    "nombres": "SOTERO VALQUI KIARA VALERIA",
+    "puntaje": 54.1
+  },
+  {
+    "codigo": "02047F",
+    "nombres": "SOTO NOLE ALEJANDRO SEBÁSTIAN",
+    "puntaje": 65.5
+  },
+  {
+    "codigo": "02048G",
+    "nombres": "SUAREZ EVARISTO GIOVANNY GONZALO",
+    "puntaje": 49.3
+  },
+  {
+    "codigo": "02049H",
+    "nombres": "SUAREZ JORGE DANNA VALERIE",
+    "puntaje": null
+  },
+  {
+    "codigo": "02050A",
+    "nombres": "SUCLUPE VARILLAS MIYUNI JULIANA",
+    "puntaje": null
+  },
+  {
+    "codigo": "02051B",
+    "nombres": "SUICA ROJAS DARIO JOSE",
+    "puntaje": 72.95
+  },
+  {
+    "codigo": "02052C",
+    "nombres": "SULCA HERRERA IAN FRANTZ",
+    "puntaje": 41.1
+  },
+  {
+    "codigo": "02053D",
+    "nombres": "SULLUCHUCO QUINTEROS BENJAMÍN SNEYDER",
+    "puntaje": 97.65
+  },
+  {
+    "codigo": "02054E",
+    "nombres": "TAMAYO VELÁSQUEZ KIARA MARIORET",
+    "puntaje": 62.35
+  },
+  {
+    "codigo": "02055F",
+    "nombres": "TAQUIRI ESPINOZA YERIMI ALDAIR",
+    "puntaje": 66.45
+  },
+  {
+    "codigo": "02056G",
+    "nombres": "TICONA AQUINO YAMIL ANGEL",
+    "puntaje": null
+  },
+  {
+    "codigo": "02057H",
+    "nombres": "TICONA VELASQUEZ JHON BRAYAN",
+    "puntaje": null
+  },
+  {
+    "codigo": "02058A",
+    "nombres": "TOLENTINO CONTRERAS LUCIANO ADOLFO",
+    "puntaje": 75
+  },
+  {
+    "codigo": "02059B",
+    "nombres": "TONE LIMA JORGE YAMIL",
+    "puntaje": null
+  },
+  {
+    "codigo": "02060C",
+    "nombres": "TORRES CASTILLO JACK DAYRON",
+    "puntaje": 64.9
+  },
+  {
+    "codigo": "02061D",
+    "nombres": "TORRES CUBAS CHELSEA MIRELLA",
+    "puntaje": 67.15
+  },
+  {
+    "codigo": "02062E",
+    "nombres": "TORRES SALAS NICOLAS ANDRE",
+    "puntaje": 65.75
+  },
+  {
+    "codigo": "02063F",
+    "nombres": "TORRES SOTOMAYOR ISAAC FERNANDO",
+    "puntaje": 104.2
+  },
+  {
+    "codigo": "02064G",
+    "nombres": "TORRES SAN MIGUEL DIEGO ALONSO",
+    "puntaje": 80.95
+  },
+  {
+    "codigo": "02065H",
+    "nombres": "TUCTO TRUJILLO JESÚS JULIO CIRO",
+    "puntaje": 78.8
+  },
+  {
+    "codigo": "02066A",
+    "nombres": "TUYA QUISPE JOSTIN DAYRON",
+    "puntaje": 71.75
+  },
+  {
+    "codigo": "02067B",
+    "nombres": "UNOCC HURTADO ALEXANDRA FRANSHESCA",
+    "puntaje": null
+  },
+  {
+    "codigo": "02068C",
+    "nombres": "UNTAMA MAYORCA ALEJANDRO ERNESTO",
+    "puntaje": null
+  },
+  {
+    "codigo": "02069D",
+    "nombres": "URBANO HERRERA ESTEFANO",
+    "puntaje": 65.75
+  },
+  {
+    "codigo": "02070E",
+    "nombres": "URIOL ALVINO NICOLE TATIANA",
+    "puntaje": 89.9
+  },
+  {
+    "codigo": "02071F",
+    "nombres": "VALDEIGLESIAS MONSEFÚ ALEJANDRO ARIEL",
+    "puntaje": null
+  },
+  {
+    "codigo": "02072G",
+    "nombres": "VALLE PEREZ VALENTINA",
+    "puntaje": 77.65
+  },
+  {
+    "codigo": "02073H",
+    "nombres": "VALLEJOS MAURTUA JOHAN LEONEL",
+    "puntaje": 68.25
+  },
+  {
+    "codigo": "02074A",
+    "nombres": "VARA SALVADOR NELSON ANDREE",
+    "puntaje": 66.9
+  },
+  {
+    "codigo": "02075B",
+    "nombres": "VARGAS HUAMAN ALEJANDRA GIEMENA",
+    "puntaje": 39.35
+  },
+  {
+    "codigo": "02076C",
+    "nombres": "VARGAS MENDOZA HENRY JESUS ALBERTO",
+    "puntaje": 40
+  },
+  {
+    "codigo": "02077D",
+    "nombres": "VARGAS PENADILLO JEFFRY AARON",
+    "puntaje": 113.85
+  },
+  {
+    "codigo": "02078E",
+    "nombres": "VARGAS SALAZAR IVETH SALOME",
+    "puntaje": null
+  },
+  {
+    "codigo": "02079F",
+    "nombres": "VASQUEZ SALAZAR DANIELA EDITH",
+    "puntaje": 72.15
+  },
+  {
+    "codigo": "02080G",
+    "nombres": "VELÁSQUEZ MARÍN RUBÉN",
+    "puntaje": 39
+  },
+  {
+    "codigo": "02081H",
+    "nombres": "VELÁSQUEZ RICALDI FÉLIX ADIEL SAI",
+    "puntaje": 63.6
+  },
+  {
+    "codigo": "02082A",
+    "nombres": "VENTOCILLA CHAVARRIA WILSON ADRIAN",
+    "puntaje": 68.1
+  },
+  {
+    "codigo": "02083B",
+    "nombres": "VERAMENDI OSORIO CHRISTOPHER DENNIS",
+    "puntaje": 71.6
+  },
+  {
+    "codigo": "02084C",
+    "nombres": "VILA CONDORHUAMAN ELENA SOFIA",
+    "puntaje": 113.65
+  },
+  {
+    "codigo": "02085D",
+    "nombres": "VILA ELESCANO ROBERTO MAXIMILIANO",
+    "puntaje": null
+  },
+  {
+    "codigo": "02086E",
+    "nombres": "VILLANUEVA CIERTO DIEGO ANDERSON",
+    "puntaje": 64.9
+  },
+  {
+    "codigo": "02087F",
+    "nombres": "VILLAVICENCIO HUERTAS RANDALF JESÚS ANTONIO",
+    "puntaje": null
+  },
+  {
+    "codigo": "02088G",
+    "nombres": "WONG REBATTA RENZO GABRIEL",
+    "puntaje": 102.65
+  },
+  {
+    "codigo": "02089H",
+    "nombres": "YANA CARDENAS KEVIN AARON",
+    "puntaje": 107.4
+  },
+  {
+    "codigo": "02090A",
+    "nombres": "YANA GOMEZ FIORELLA MILAGROS",
+    "puntaje": 51
+  },
+  {
+    "codigo": "02091B",
+    "nombres": "YANGUA EVANGELISTA RICARDO ALEXANDER",
+    "puntaje": 69.9
+  },
+  {
+    "codigo": "02092C",
+    "nombres": "YARIN POMA CARLOS EUGENIO",
+    "puntaje": 37.55
+  },
+  {
+    "codigo": "02093D",
+    "nombres": "YAURI PALACIN JOSEP FERNANDO",
+    "puntaje": null
+  },
+  {
+    "codigo": "02094E",
+    "nombres": "YOVERA HUERTO ELÍAS",
+    "puntaje": 63.95
+  },
+  {
+    "codigo": "02095F",
+    "nombres": "YSIDRO BRICEÑO WILLIAMS SMITH",
+    "puntaje": 76.55
+  },
+  {
+    "codigo": "02096G",
+    "nombres": "YUCRA HUAMANI LUISALFREDO JESUS",
+    "puntaje": 90.6
+  },
+  {
+    "codigo": "02097H",
+    "nombres": "YUPANQUI REYES HANNA NINOTSHKA",
+    "puntaje": 66.65
+  },
+  {
+    "codigo": "02098A",
+    "nombres": "ZAMBRANO TABOADA HERBERT MATHIAS",
+    "puntaje": 71.25
+  },
+  {
+    "codigo": "02099B",
+    "nombres": "ZAPATA CHERO JESÚS SEBASTIÁN",
+    "puntaje": 46.95
+  },
+  {
+    "codigo": "02100C",
+    "nombres": "ZATALAYA BARANDIARAN HÉCTOR DIEGO",
+    "puntaje": 107.6
+  },
+  {
+    "codigo": "02101D",
+    "nombres": "ZEGARRA HINOJOSA ARTURO EMANUEL",
+    "puntaje": 50.95
+  },
+  {
+    "codigo": "02102E",
+    "nombres": "ZHU WU CRISTIAN",
+    "puntaje": 70.45
+  },
+  {
+    "codigo": "02103F",
+    "nombres": "ZUÑIGA FERNANDEZ VERÓNICA ESTHER",
+    "puntaje": 44.4
+  },
+  {
+    "codigo": "11626A",
+    "nombres": "VIZCARRA APONTE IRWIN ANGEL",
+    "puntaje": 0
+  },
+  {
+    "codigo": "11627B",
+    "nombres": "RETUERTO BRAVO RODRIGO JULIAN",
+    "puntaje": 96.6
+  },
+  {
+    "codigo": "11628C",
+    "nombres": "ZANETTI HERRERA FABIAN ALBERTTO",
+    "puntaje": 80.4
+  },
+  {
+    "codigo": "11629D",
+    "nombres": "BLANCO HUARCAYA LEONEL ALONSO",
+    "puntaje": 42.2
+  },
+  {
+    "codigo": "11630E",
+    "nombres": "PEDRAZA CARRERA MARCK ALEXANDER",
+    "puntaje": 81.5
+  },
+  {
+    "codigo": "11631F",
+    "nombres": "SANDERS LIZARSE ALESSANDRO",
+    "puntaje": 90.35
+  },
+  {
+    "codigo": "11632G",
+    "nombres": "MONTENEGRO OTINIANO CAMILA ALESSANDRA",
+    "puntaje": 62.4
+  },
+  {
+    "codigo": "11633H",
+    "nombres": "CABALLERO CONDORI DIEGO FABIAN ANDRES",
+    "puntaje": 51.55
+  },
+  {
+    "codigo": "11634A",
+    "nombres": "LUDEÑA ALLCA WILLIAM ANDRE",
+    "puntaje": 58.6
+  },
+  {
+    "codigo": "11635B",
+    "nombres": "MOZO HUAMAN KEVIN MAURICIO",
+    "puntaje": null
+  },
+  {
+    "codigo": "11636C",
+    "nombres": "PILLACA CABALLERO EDDIE ALEXANDRO",
+    "puntaje": 54.3
+  },
+  {
+    "codigo": "11637D",
+    "nombres": "CARHUAMACA HUANHUAYO CARLOS ESMITH",
+    "puntaje": 36.55
+  },
+  {
+    "codigo": "21790A",
+    "nombres": "RAMIREZ CISNEROS SAMEER",
+    "puntaje": 58.25
+  },
+  {
+    "codigo": "21791B",
+    "nombres": "SILVA LATORRACA LUANA GHIA",
+    "puntaje": 42.4
+  },
+  {
+    "codigo": "21792C",
+    "nombres": "TADEO ANGELES KENNETH JOSEPH",
+    "puntaje": 37.05
+  },
+  {
+    "codigo": "90001B",
+    "nombres": "TERRAZOS PILCO JIMMY DAVID",
+    "puntaje": 88.3
+  },
+  {
+    "codigo": "90002B",
+    "nombres": "RAMIREZ FERNÁNDEZ EMILY PAMELA",
+    "puntaje": 56.45
+  },
+  {
+    "codigo": "90005C",
+    "nombres": "SILVA PIÑAS OSCAR ALBEYRO",
+    "puntaje": 57.6
+  },
+  {
+    "codigo": "90006C",
+    "nombres": "MAGELIANO MELGAREJO BRIGITTE YAMILLE",
+    "puntaje": 55.95
+  }
+]

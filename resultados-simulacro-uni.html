@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Resultados · Segundo Simulacro Presencial UNI 2026-2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:        #14100f;
+    --surface:    #1e1815;
+    --surface-2:  #241d19;
+    --line:       #392e28;
+    --garnet:     #7c1a33;
+    --garnet-2:   #a8264a;
+    --gold:       #c9a227;
+    --gold-soft:  #e8cf7a;
+    --slate:      #8a95a1;
+    --paper:      #f2ece2;
+    --paper-dim:  #cabfb0;
+    --good:       #6fae6a;
+
+    --display: 'Fraunces', serif;
+    --mono: 'IBM Plex Mono', monospace;
+    --sans: 'Inter', sans-serif;
+  }
+
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:var(--ink);
+    color:var(--paper);
+    font-family:var(--sans);
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  ::selection{background:var(--garnet-2); color:var(--paper);}
+
+  a{color:var(--gold-soft);}
+
+  .wrap{max-width:1180px; margin:0 auto; padding:0 28px;}
+
+  /* ---------- HERO ---------- */
+  .hero{
+    position:relative;
+    background:
+      radial-gradient(1200px 500px at 15% -10%, rgba(168,38,74,.35), transparent 60%),
+      linear-gradient(160deg, #2a0d16 0%, #150a0c 65%, var(--ink) 100%);
+    border-bottom:1px solid var(--line);
+    padding:64px 0 42px;
+    overflow:hidden;
+  }
+  .hero::before{
+    content:"";
+    position:absolute; inset:0;
+    background-image: radial-gradient(rgba(242,236,226,.06) 1px, transparent 1px);
+    background-size: 22px 22px;
+    mask-image: linear-gradient(to bottom, black, transparent 75%);
+    pointer-events:none;
+  }
+  .eyebrow{
+    font-family:var(--mono);
+    font-size:.72rem;
+    letter-spacing:.18em;
+    text-transform:uppercase;
+    color:var(--gold-soft);
+    display:flex; align-items:center; gap:10px;
+  }
+  .eyebrow::before{content:""; width:22px; height:1px; background:var(--gold-soft); display:inline-block;}
+  h1.title{
+    font-family:var(--display);
+    font-weight:700;
+    font-size:clamp(2.4rem, 6vw, 4.4rem);
+    line-height:.98;
+    margin:14px 0 6px;
+    letter-spacing:-.01em;
+  }
+  h1.title em{
+    font-style:italic;
+    font-weight:400;
+    color:var(--gold-soft);
+  }
+  .subtitle{
+    color:var(--paper-dim);
+    font-size:1.02rem;
+    max-width:560px;
+    margin-bottom:26px;
+  }
+  .hero-meta{
+    display:flex; flex-wrap:wrap; gap:28px;
+    font-family:var(--mono);
+    font-size:.82rem;
+    color:var(--slate);
+  }
+  .hero-meta b{color:var(--paper); font-weight:500;}
+
+  /* ---------- LOADER ---------- */
+  .loader{
+    margin-top:38px;
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:26px;
+  }
+  .loader h3{font-family:var(--display); font-size:1.3rem; margin-bottom:6px; font-weight:600;}
+  .loader p{color:var(--paper-dim); font-size:.92rem; margin-bottom:18px; max-width:640px;}
+  .loader-row{display:flex; flex-wrap:wrap; gap:12px; align-items:center;}
+
+  .btn{
+    font-family:var(--sans);
+    font-weight:600;
+    font-size:.88rem;
+    padding:11px 18px;
+    border-radius:8px;
+    border:1px solid var(--line);
+    background:var(--surface-2);
+    color:var(--paper);
+    cursor:pointer;
+    transition:.15s ease;
+  }
+  .btn:hover{border-color:var(--gold); color:var(--gold-soft);}
+  .btn.primary{
+    background:linear-gradient(135deg, var(--garnet), var(--garnet-2));
+    border-color:transparent;
+    color:#fff;
+  }
+  .btn.primary:hover{filter:brightness(1.1); color:#fff;}
+  input[type=file]{display:none;}
+
+  details.howto{margin-top:18px; font-size:.86rem;}
+  details.howto summary{cursor:pointer; color:var(--gold-soft); font-weight:600; list-style:none;}
+  details.howto summary::-webkit-details-marker{display:none;}
+  details.howto summary::before{content:"▸ "; color:var(--gold);}
+  details.howto[open] summary::before{content:"▾ ";}
+  .howto-body{margin-top:14px; color:var(--paper-dim);}
+  .howto-body ol{margin-left:1.1em; margin-bottom:12px;}
+  .howto-body li{margin-bottom:6px;}
+  pre.script{
+    position:relative;
+    background:#0d0a09;
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:16px 16px 16px;
+    font-family:var(--mono);
+    font-size:.72rem;
+    line-height:1.6;
+    color:#d8cfa8;
+    overflow-x:auto;
+    max-height:260px;
+  }
+  .copy-btn{
+    position:absolute; top:10px; right:10px;
+    font-family:var(--sans); font-size:.72rem; font-weight:600;
+    padding:5px 10px; border-radius:6px;
+    background:var(--surface-2); border:1px solid var(--line); color:var(--paper-dim);
+    cursor:pointer;
+  }
+  .copy-btn:hover{color:var(--gold-soft); border-color:var(--gold);}
+
+  #status{font-family:var(--mono); font-size:.78rem; color:var(--slate); margin-top:14px;}
+  #status.err{color:#d9776b;}
+  #status.ok{color:var(--good);}
+
+  /* ---------- DASHBOARD ---------- */
+  #dashboard{display:none; padding:46px 0 90px;}
+  .section-head{display:flex; align-items:baseline; justify-content:space-between; gap:16px; margin-bottom:18px; flex-wrap:wrap;}
+  .section-head h2{font-family:var(--display); font-weight:600; font-size:1.5rem;}
+  .section-head .num{font-family:var(--mono); color:var(--gold); font-size:.8rem;}
+  .hair{height:1px; background:var(--line); margin:44px 0;}
+
+  /* KPI strip */
+  .kpis{display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:1px; background:var(--line); border:1px solid var(--line); border-radius:12px; overflow:hidden;}
+  .kpi{background:var(--surface); padding:20px 16px; text-align:left;}
+  .kpi .lbl{font-family:var(--mono); font-size:.66rem; text-transform:uppercase; letter-spacing:.08em; color:var(--slate); margin-bottom:8px;}
+  .kpi .val{font-family:var(--display); font-weight:600; font-size:1.7rem; color:var(--paper);}
+  .kpi .val.accent{color:var(--gold-soft);}
+  @media (max-width:560px){.kpis{grid-template-columns:repeat(2,1fr);}}
+
+  /* Search / lookup */
+  .lookup{background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:26px;}
+  .lookup-input{display:flex; gap:10px; margin-bottom:6px;}
+  .lookup-input input{
+    flex:1; background:var(--surface-2); border:1px solid var(--line); border-radius:8px;
+    padding:12px 14px; color:var(--paper); font-family:var(--mono); font-size:.92rem;
+  }
+  .lookup-input input:focus{outline:none; border-color:var(--gold);}
+  .lookup-hint{color:var(--slate); font-size:.78rem; font-family:var(--mono);}
+  .lookup-result{margin-top:20px; display:none;}
+  .lookup-result.show{display:block;}
+  .lr-name{font-family:var(--display); font-size:1.3rem; font-weight:600;}
+  .lr-code{font-family:var(--mono); color:var(--slate); font-size:.8rem; margin-bottom:14px;}
+  .lr-stats{display:flex; gap:32px; flex-wrap:wrap;}
+  .lr-stats div .lbl{font-family:var(--mono); font-size:.66rem; text-transform:uppercase; color:var(--slate); letter-spacing:.06em;}
+  .lr-stats div .val{font-family:var(--display); font-size:1.5rem; font-weight:600; color:var(--gold-soft);}
+  .lr-multi{margin-top:14px; font-size:.85rem; color:var(--paper-dim);}
+  .lr-multi span{display:block; padding:6px 0; border-top:1px solid var(--line); cursor:pointer;}
+  .lr-multi span:hover{color:var(--gold-soft);}
+
+  /* Histogram */
+  .hist-wrap{background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:26px 26px 14px;}
+  #histogram{width:100%; height:220px; display:block;}
+  .hist-bar{fill:var(--garnet); transition:fill .15s;}
+  .hist-bar.hi{fill:var(--gold);}
+  .hist-label{fill:var(--slate); font-family:var(--mono); font-size:9px;}
+  .hist-marker-line{stroke:var(--gold-soft); stroke-width:1.5; stroke-dasharray:3 3;}
+  .hist-marker-label{fill:var(--gold-soft); font-family:var(--mono); font-size:10px; font-weight:600;}
+
+  /* Top ranking */
+  .podium{display:grid; gap:10px;}
+  .prow{
+    display:grid; grid-template-columns:52px 1fr auto; align-items:center; gap:16px;
+    background:var(--surface); border:1px solid var(--line); border-radius:10px; padding:13px 18px;
+  }
+  .prow.medal-1{border-color:var(--gold); background:linear-gradient(90deg, rgba(201,162,39,.14), var(--surface) 40%);}
+  .prow.medal-2{border-color:#9aa5ad;}
+  .prow.medal-3{border-color:#8a5a3a;}
+  .prank{font-family:var(--mono); font-weight:600; font-size:1rem; color:var(--slate); text-align:center;}
+  .prow.medal-1 .prank{color:var(--gold);}
+  .prow.medal-2 .prank{color:#c3cbd1;}
+  .prow.medal-3 .prank{color:#c9885a;}
+  .pname{font-weight:600; font-size:.95rem;}
+  .pcode{font-family:var(--mono); font-size:.72rem; color:var(--slate); margin-top:2px;}
+  .pscore{font-family:var(--mono); font-weight:600; font-size:1.15rem; color:var(--gold-soft); text-align:right;}
+  .pnota{font-family:var(--mono); font-size:.7rem; color:var(--slate); text-align:right; margin-top:2px;}
+
+  /* Full table */
+  .table-controls{display:flex; gap:12px; margin-bottom:14px; flex-wrap:wrap; align-items:center;}
+  .table-controls input{
+    background:var(--surface-2); border:1px solid var(--line); border-radius:8px;
+    padding:9px 12px; color:var(--paper); font-family:var(--mono); font-size:.82rem; min-width:220px;
+  }
+  .table-controls input:focus{outline:none; border-color:var(--gold);}
+  .table-scroll{max-height:560px; overflow-y:auto; border:1px solid var(--line); border-radius:12px;}
+  table.full{width:100%; border-collapse:collapse; font-size:.85rem;}
+  table.full thead th{
+    position:sticky; top:0; background:var(--surface-2); text-align:left; padding:11px 16px;
+    font-family:var(--mono); font-size:.7rem; text-transform:uppercase; letter-spacing:.06em; color:var(--slate);
+    cursor:pointer; border-bottom:1px solid var(--line); user-select:none;
+  }
+  table.full thead th:hover{color:var(--gold-soft);}
+  table.full td{padding:9px 16px; border-bottom:1px solid var(--line); background:var(--surface);}
+  table.full tbody tr:hover td{background:var(--surface-2);}
+  table.full td.rank{font-family:var(--mono); color:var(--slate);}
+  table.full td.code{font-family:var(--mono); color:var(--paper-dim);}
+  table.full td.score{font-family:var(--mono); font-weight:600; color:var(--gold-soft); text-align:right;}
+
+  footer{border-top:1px solid var(--line); padding:26px 0; color:var(--slate); font-size:.78rem; font-family:var(--mono);}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="eyebrow">Dirección de Admisión · UNI</div>
+    <h1 class="title">Resultados<br><em>Segundo Simulacro Presencial</em></h1>
+    <p class="subtitle">Tablero no oficial para explorar el listado público del Segundo Simulacro Presencial de Admisión 2026-2: ranking, promedios y distribución de puntajes.</p>
+    <div class="hero-meta">
+      <span>Domingo 5 de julio de 2026</span>
+      <span>Puntaje total del examen: <b>150,00 pts</b></span>
+      <span>Fuente: <a href="https://puntajes.admision.uni.edu.pe/resultados-simulacro.html" target="_blank">puntajes.admision.uni.edu.pe</a></span>
+    </div>
+
+    <div class="loader" id="loader">
+      <h3>Cargar datos</h3>
+      <p id="loaderDesc">Cargando <b>resultados_simulacro_uni.json</b> automáticamente...</p>
+      <div class="loader-row">
+        <button class="btn primary" onclick="document.getElementById('fileInput').click()">Cargar archivo (.json / .csv)</button>
+        <input type="file" id="fileInput" accept=".json,.csv">
+        <button class="btn" id="demoBtn">Probar con datos de muestra</button>
+      </div>
+      <div id="status"></div>
+
+      <details class="howto">
+        <summary>¿Cómo obtengo el archivo con todos los registros?</summary>
+        <div class="howto-body">
+          <ol>
+            <li>Abre la página oficial: <a href="https://puntajes.admision.uni.edu.pe/resultados-simulacro.html" target="_blank">resultados-simulacro.html</a></li>
+            <li>Abre las herramientas de desarrollador (F12) y ve a la pestaña <b>Consola</b>.</li>
+            <li>Pega el script de abajo y presiona Enter. Recorrerá las 82 páginas del listado (tarda ~1 minuto) y descargará automáticamente <b>resultados_simulacro_uni.json</b>.</li>
+            <li>Vuelve aquí y carga ese archivo con el botón "Cargar archivo".</li>
+          </ol>
+          <pre class="script" id="scriptBox"><button class="copy-btn" onclick="copyScript()">Copiar</button>(async function scrapeUNI(){
+  const sleep = ms => new Promise(r => setTimeout(r, ms));
+  function getTotalPages(){
+    const m = document.body.innerText.match(/P[aá]gina\s+\d+\s+de\s+(\d+)/i);
+    return m ? parseInt(m[1], 10) : 82;
+  }
+  function getRows(){
+    return Array.from(document.querySelectorAll('table tbody tr')).map(tr =>
+      Array.from(tr.querySelectorAll('td')).map(td => td.textContent.trim())
+    ).filter(c => c.length >= 3);
+  }
+  function findNextButton(){
+    return Array.from(document.querySelectorAll('button, a, [role="button"]'))
+      .find(el => el.textContent.trim().toUpperCase().includes('SIGUIENTE') && !el.disabled);
+  }
+  const seen = new Map();
+  const totalPages = getTotalPages();
+  let page = 1, stagnant = 0;
+  while (page <= totalPages && stagnant < 6) {
+    await sleep(300);
+    const before = seen.size;
+    getRows().forEach(r => seen.set(r[0], r));
+    stagnant = (seen.size === before) ? stagnant + 1 : 0;
+    const btn = findNextButton();
+    if (!btn) break;
+    btn.click();
+    page++;
+    await sleep(500);
+  }
+  const data = Array.from(seen.values()).map(([codigo, nombres, puntajeRaw]) => ({
+    codigo, nombres, puntaje: parseFloat(String(puntajeRaw).replace(',', '.'))
+  }));
+  console.log('Total capturado:', data.length);
+  const blob = new Blob([JSON.stringify(data, null, 2)], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = 'resultados_simulacro_uni.json';
+  document.body.appendChild(a); a.click(); a.remove();
+  console.log('Descarga iniciada: resultados_simulacro_uni.json');
+})();</pre>
+          <p style="margin-top:10px; font-size:.78rem;">Si la página cambia su estructura y el script no encuentra las filas o el botón "SIGUIENTE", el conteo se detiene solo; puedes ajustar los selectores o decírmelo y lo adapto.</p>
+        </div>
+      </details>
+    </div>
+  </div>
+</header>
+
+<main id="dashboard">
+  <div class="wrap">
+
+    <section id="kpi-section">
+      <div class="section-head"><h2>Panorama general</h2><span class="num" id="lastUpdated"></span></div>
+      <div class="kpis" id="kpis"></div>
+    </section>
+
+    <div class="hair"></div>
+
+    <section id="lookup-section">
+      <div class="section-head"><h2>Buscar postulante</h2></div>
+      <div class="lookup">
+        <div class="lookup-input">
+          <input type="text" id="lookupInput" placeholder="Código (ej. 00509D) o nombre...">
+          <button class="btn primary" onclick="doLookup()">Buscar</button>
+        </div>
+        <div class="lookup-hint">Muestra puesto, percentil y ubicación en la distribución de puntajes.</div>
+        <div class="lookup-result" id="lookupResult"></div>
+      </div>
+    </section>
+
+    <div class="hair"></div>
+
+    <section id="hist-section">
+      <div class="section-head"><h2>Distribución de puntajes</h2><span class="num" id="histRange"></span></div>
+      <div class="hist-wrap"><svg id="histogram" viewBox="0 0 900 220" preserveAspectRatio="none"></svg></div>
+    </section>
+
+    <div class="hair"></div>
+
+    <section id="top-section">
+      <div class="section-head"><h2>Top 20</h2><span class="num" id="topCount"></span></div>
+      <div class="podium" id="podium"></div>
+    </section>
+
+    <div class="hair"></div>
+
+    <section id="table-section">
+      <div class="section-head"><h2>Listado completo</h2><span class="num" id="tableCount"></span></div>
+      <div class="table-controls">
+        <input type="text" id="filterInput" placeholder="Filtrar por código o nombre...">
+      </div>
+      <div class="table-scroll">
+        <table class="full">
+          <thead>
+            <tr>
+              <th data-key="rank">#</th>
+              <th data-key="codigo">Código</th>
+              <th data-key="nombres">Nombres</th>
+              <th data-key="puntaje">Puntaje (/150)</th>
+              <th data-key="nota">Nota (/20)</th>
+            </tr>
+          </thead>
+          <tbody id="fullTableBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">Tablero generado localmente en tu navegador — ningún dato se envía a servidores externos. No es un canal oficial de la UNI.</div>
+</footer>
+
+<script>
+let RECORDS = [];
+let sortKey = 'puntaje';
+let sortDir = 'desc';
+const EXAM_TOTAL = 150; // puntaje total del examen
+function nota20(puntaje){ return (puntaje / EXAM_TOTAL) * 20; } // regla de tres: 150 -> 20
+
+function copyScript(){
+  const box = document.getElementById('scriptBox').innerText.replace('Copiar', '').trim();
+  navigator.clipboard.writeText(box).then(() => {
+    const btn = document.querySelector('.copy-btn');
+    const orig = btn.textContent;
+    btn.textContent = '¡Copiado!';
+    setTimeout(() => btn.textContent = orig, 1500);
+  });
+}
+
+function setStatus(msg, cls){
+  const el = document.getElementById('status');
+  el.textContent = msg;
+  el.className = cls || '';
+}
+
+document.getElementById('fileInput').addEventListener('change', (e) => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = (ev) => {
+    try{
+      let data;
+      if (file.name.toLowerCase().endsWith('.csv')) {
+        data = parseCSV(ev.target.result);
+      } else {
+        data = JSON.parse(ev.target.result);
+      }
+      loadData(data, file.name);
+    }catch(err){
+      setStatus('No se pudo leer el archivo: ' + err.message, 'err');
+    }
+  };
+  reader.readAsText(file);
+});
+
+document.getElementById('demoBtn').addEventListener('click', () => {
+  loadData(DEMO_DATA.slice(), 'datos de muestra');
+});
+
+const DATA_FILE = 'resultados_simulacro_uni.json';
+
+async function autoLoad(){
+  try{
+    const res = await fetch(DATA_FILE, {cache:'no-store'});
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    loadData(data, DATA_FILE);
+  }catch(err){
+    console.warn('No se pudo cargar automáticamente ' + DATA_FILE + ':', err);
+    document.getElementById('loaderDesc').innerHTML =
+      `No se pudo cargar <b>${DATA_FILE}</b> automáticamente. Esto es normal si abriste el archivo con doble clic ` +
+      `(los navegadores bloquean <code>fetch</code> en local); funciona al servirlo por GitHub Pages, un servidor local, ` +
+      `o cargando el archivo a mano abajo.`;
+    setStatus('Carga automática no disponible en este contexto: usa "Cargar archivo" o "datos de muestra".', 'err');
+  }
+}
+autoLoad();
+
+function parseCSV(text){
+  const lines = text.split(/\r?\n/).filter(l => l.trim().length);
+  const rows = lines.slice(1).length && /puntaje|codigo|score/i.test(lines[0]) ? lines.slice(1) : lines;
+  return rows.map(line => {
+    const parts = line.split(',');
+    const codigo = (parts[0] || '').trim();
+    const nombres = (parts[1] || '').trim();
+    const puntajeRaw = (parts.slice(2).join(',') || '0').trim();
+    return { codigo, nombres, puntaje: parseFloat(puntajeRaw.replace(',', '.')) || 0 };
+  }).filter(r => r.codigo);
+}
+
+function loadData(data, label){
+  if (!Array.isArray(data) || data.length === 0){
+    setStatus('El archivo no contiene registros válidos.', 'err');
+    return;
+  }
+  RECORDS = data.filter(r => r && r.codigo && !isNaN(r.puntaje))
+                .map(r => ({...r, nota: nota20(r.puntaje)}));
+  setStatus(`Cargados ${RECORDS.length.toLocaleString('es-PE')} registros de ${label}.`, 'ok');
+  document.getElementById('loader').style.display = 'none';
+  document.getElementById('dashboard').style.display = 'block';
+  renderAll();
+}
+
+function stats(arr){
+  const n = arr.length;
+  const sorted = arr.slice().sort((a,b) => a - b);
+  const sum = arr.reduce((a,b) => a+b, 0);
+  const mean = sum / n;
+  const mid = Math.floor(n/2);
+  const median = n % 2 ? sorted[mid] : (sorted[mid-1] + sorted[mid]) / 2;
+  const variance = arr.reduce((a,b) => a + Math.pow(b-mean,2), 0) / n;
+  const std = Math.sqrt(variance);
+  return { n, mean, median, std, min: sorted[0], max: sorted[n-1] };
+}
+
+function fmt(n, d=2){ return n.toLocaleString('es-PE', {minimumFractionDigits:d, maximumFractionDigits:d}); }
+
+function renderAll(){
+  const scores = RECORDS.map(r => r.puntaje);
+  const s = stats(scores);
+  document.getElementById('lastUpdated').textContent = `${s.n.toLocaleString('es-PE')} registros`;
+
+  const kpis = [
+    ['Postulantes', s.n.toLocaleString('es-PE'), false],
+    ['Promedio (/150)', fmt(s.mean), true],
+    ['Promedio (nota /20)', fmt(nota20(s.mean)), true],
+    ['Mediana', fmt(s.median), false],
+    ['Desv. estándar', fmt(s.std), false],
+    ['Puntaje máximo', fmt(s.max), true],
+    ['Puntaje mínimo', fmt(s.min), false],
+  ];
+  document.getElementById('kpis').innerHTML = kpis.map(([lbl,val,accent]) => `
+    <div class="kpi"><div class="lbl">${lbl}</div><div class="val ${accent?'accent':''}">${val}</div></div>
+  `).join('');
+
+  renderHistogram(scores);
+  renderTop();
+  renderFullTable();
+
+  document.getElementById('lookupInput').onkeydown = (e) => { if (e.key === 'Enter') doLookup(); };
+  document.getElementById('filterInput').oninput = () => renderFullTable();
+  document.querySelectorAll('table.full thead th').forEach(th => {
+    th.onclick = () => {
+      const key = th.dataset.key;
+      if (sortKey === key) sortDir = sortDir === 'desc' ? 'asc' : 'desc';
+      else { sortKey = key; sortDir = key === 'nombres' || key === 'codigo' ? 'asc' : 'desc'; }
+      renderFullTable();
+    };
+  });
+}
+
+function renderHistogram(scores){
+  const maxScore = EXAM_TOTAL;
+  const binWidth = 10;
+  const binCount = Math.ceil(maxScore / binWidth);
+  const bins = new Array(binCount).fill(0);
+  scores.forEach(v => {
+    let idx = Math.floor(v / binWidth);
+    if (idx < 0) idx = 0;
+    if (idx >= binCount) idx = binCount - 1;
+    bins[idx]++;
+  });
+  const maxCount = Math.max(...bins, 1);
+  document.getElementById('histRange').textContent = `0 – ${maxScore} pts, en tramos de ${binWidth}`;
+
+  const W = 900, H = 220, padL = 6, padB = 24, gap = 4;
+  const usableW = W - padL*2;
+  const barW = usableW / binCount - gap;
+  const usableH = H - padB - 10;
+
+  let svg = '';
+  bins.forEach((c, i) => {
+    const h = (c / maxCount) * usableH;
+    const x = padL + i * (barW + gap);
+    const y = H - padB - h;
+    svg += `<rect class="hist-bar" x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${barW.toFixed(1)}" height="${h.toFixed(1)}" data-bin="${i}"><title>${i*binWidth}-${(i+1)*binWidth}: ${c} postulantes</title></rect>`;
+    if (i % 2 === 0){
+      svg += `<text class="hist-label" x="${(x+barW/2).toFixed(1)}" y="${H-6}" text-anchor="middle">${i*binWidth}</text>`;
+    }
+  });
+  document.getElementById('histogram').innerHTML = svg;
+  document.getElementById('histogram').dataset.binWidth = binWidth;
+  document.getElementById('histogram').dataset.binCount = binCount;
+}
+
+function clearHistMarker(){
+  document.querySelectorAll('.hist-bar').forEach(b => b.classList.remove('hi'));
+  document.querySelectorAll('.hist-marker-line, .hist-marker-label').forEach(el => el.remove());
+}
+
+function markHistogram(score){
+  clearHistMarker();
+  const svg = document.getElementById('histogram');
+  const binWidth = parseInt(svg.dataset.binWidth);
+  const binCount = parseInt(svg.dataset.binCount);
+  let idx = Math.floor(score / binWidth);
+  if (idx < 0) idx = 0;
+  if (idx >= binCount) idx = binCount - 1;
+  const bar = svg.querySelector(`[data-bin="${idx}"]`);
+  if (bar) bar.classList.add('hi');
+}
+
+function renderTop(){
+  const sorted = RECORDS.slice().sort((a,b) => b.puntaje - a.puntaje).slice(0, 20);
+  document.getElementById('topCount').textContent = `de ${RECORDS.length.toLocaleString('es-PE')} postulantes`;
+  document.getElementById('podium').innerHTML = sorted.map((r, i) => {
+    const rank = i+1;
+    const medal = rank <= 3 ? `medal-${rank}` : '';
+    return `<div class="prow ${medal}">
+      <div class="prank">${String(rank).padStart(2,'0')}</div>
+      <div><div class="pname">${escapeHTML(r.nombres)}</div><div class="pcode">${escapeHTML(r.codigo)}</div></div>
+      <div><div class="pscore">${fmt(r.puntaje)}</div><div class="pnota">nota ${fmt(r.nota)}/20</div></div>
+    </div>`;
+  }).join('');
+}
+
+function escapeHTML(s){
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function renderFullTable(){
+  const filter = (document.getElementById('filterInput').value || '').toLowerCase().trim();
+  let rows = RECORDS.slice().sort((a,b) => b.puntaje - a.puntaje);
+  rows = rows.map((r, i) => ({...r, rank: i+1}));
+
+  if (filter){
+    rows = rows.filter(r => r.codigo.toLowerCase().includes(filter) || r.nombres.toLowerCase().includes(filter));
+  }
+
+  rows.sort((a,b) => {
+    let av = a[sortKey], bv = b[sortKey];
+    if (typeof av === 'string'){ av = av.toLowerCase(); bv = bv.toLowerCase(); }
+    if (av < bv) return sortDir === 'asc' ? -1 : 1;
+    if (av > bv) return sortDir === 'asc' ? 1 : -1;
+    return 0;
+  });
+
+  document.getElementById('tableCount').textContent = `${rows.length.toLocaleString('es-PE')} mostrados`;
+  document.getElementById('fullTableBody').innerHTML = rows.map(r => `
+    <tr>
+      <td class="rank">${r.rank}</td>
+      <td class="code">${escapeHTML(r.codigo)}</td>
+      <td>${escapeHTML(r.nombres)}</td>
+      <td class="score">${fmt(r.puntaje)}</td>
+      <td class="score">${fmt(r.nota)}</td>
+    </tr>
+  `).join('');
+}
+
+function doLookup(){
+  const q = document.getElementById('lookupInput').value.toLowerCase().trim();
+  const box = document.getElementById('lookupResult');
+  if (!q){ box.classList.remove('show'); return; }
+
+  const sorted = RECORDS.slice().sort((a,b) => b.puntaje - a.puntaje);
+  const matches = sorted.filter(r => r.codigo.toLowerCase() === q) .concat(
+                  sorted.filter(r => r.codigo.toLowerCase() !== q && r.nombres.toLowerCase().includes(q)));
+
+  if (matches.length === 0){
+    box.className = 'lookup-result show';
+    box.innerHTML = `<div class="lr-name">Sin resultados</div><div class="lr-code">No se encontró ningún registro con "${escapeHTML(q)}"</div>`;
+    clearHistMarker();
+    return;
+  }
+
+  showLookupResult(matches[0], sorted);
+  if (matches.length > 1){
+    const extra = matches.slice(1, 8);
+    document.getElementById('lookupResult').innerHTML += `
+      <div class="lr-multi">Otras coincidencias:
+      ${extra.map(m => `<span onclick="selectMatch('${m.codigo}')">${escapeHTML(m.nombres)} — ${escapeHTML(m.codigo)}</span>`).join('')}
+      </div>`;
+  }
+}
+
+function selectMatch(codigo){
+  const sorted = RECORDS.slice().sort((a,b) => b.puntaje - a.puntaje);
+  const r = sorted.find(x => x.codigo === codigo);
+  if (r) showLookupResult(r, sorted);
+}
+
+function showLookupResult(r, sorted){
+  const rank = sorted.findIndex(x => x.codigo === r.codigo) + 1;
+  const below = sorted.filter(x => x.puntaje < r.puntaje).length;
+  const percentile = (below / sorted.length) * 100;
+
+  const box = document.getElementById('lookupResult');
+  box.className = 'lookup-result show';
+  box.innerHTML = `
+    <div class="lr-name">${escapeHTML(r.nombres)}</div>
+    <div class="lr-code">Código ${escapeHTML(r.codigo)}</div>
+    <div class="lr-stats">
+      <div><div class="lbl">Puntaje (/150)</div><div class="val">${fmt(r.puntaje)}</div></div>
+      <div><div class="lbl">Nota (/20)</div><div class="val">${fmt(r.nota)}</div></div>
+      <div><div class="lbl">Puesto</div><div class="val">${rank.toLocaleString('es-PE')} / ${sorted.length.toLocaleString('es-PE')}</div></div>
+      <div><div class="lbl">Percentil</div><div class="val">Top ${(100-percentile).toFixed(1)}%</div></div>
+    </div>`;
+  markHistogram(r.puntaje);
+}
+
+// Sample data (from the publicly listed page) so the dashboard can be previewed instantly.
+const DEMO_DATA = [
+  {codigo:"00500C", nombres:"PIRCA LUNA LUIS ALEXANDER", puntaje:74.200},
+  {codigo:"00501D", nombres:"VASQUEZ CALAMPA ANGEL GABRIEL", puntaje:75.100},
+  {codigo:"00502E", nombres:"LÁZARO CONISLLA ANDER AYRTON", puntaje:61.850},
+  {codigo:"00503F", nombres:"HUAMANÍ CUBA SEBASTIAN LUIS", puntaje:52.300},
+  {codigo:"00504G", nombres:"CUPE CORONADO MELANI ROSARIO", puntaje:60.400},
+  {codigo:"00505H", nombres:"OJEDA RIOFRIO ALESSANDRO", puntaje:47.200},
+  {codigo:"00506A", nombres:"PANDURO FLORES MATÍAS ADRIEL", puntaje:49.400},
+  {codigo:"00507B", nombres:"GIRALDO HERNÁNDEZ PIERO JESÚS", puntaje:79.400},
+  {codigo:"00508C", nombres:"ALARCÓN ARANDA DAVID BENJAMÍN", puntaje:68.800},
+  {codigo:"00509D", nombres:"TREVEJO DURAN SEBASTIAN FAVIO", puntaje:74.300},
+  {codigo:"00510E", nombres:"CONGONA RAMOS KEVIN FABRICIO", puntaje:67.400},
+  {codigo:"00511F", nombres:"DEL VALLE AVILA MAYRIM ZULEYDI MASIELL", puntaje:46.950},
+  {codigo:"00512G", nombres:"CISNEROS VARGAS IAN", puntaje:62.900},
+  {codigo:"00513H", nombres:"CONDORI CAPA YELSIN", puntaje:36.100},
+];
+</script>
+</body>
+</html>
