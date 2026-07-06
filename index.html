@@ -477,8 +477,22 @@ function loadData(data, label){
     setStatus('El archivo no contiene registros válidos.', 'err');
     return;
   }
-  RECORDS = data.filter(r => r && r.codigo && !isNaN(r.puntaje))
-                .map(r => ({...r, nota: nota20(r.puntaje)}));
+  RECORDS = data
+    .filter(r => r && r.codigo)
+    .map(r => {
+      // Convertimos de manera segura cualquier null, undefined o NaN a 0
+      const numPuntaje = (r.puntaje === null || r.puntaje === undefined || isNaN(Number(r.puntaje))) 
+        ? 0 
+        : Number(r.puntaje);
+        
+      return {
+        ...r,
+        codigo: String(r.codigo || '').trim(),
+        nombres: String(r.nombres || 'SIN NOMBRE').trim(),
+        puntaje: numPuntaje,
+        nota: nota20(numPuntaje)
+      };
+    });
   setStatus(`Cargados ${RECORDS.length.toLocaleString('es-PE')} registros de ${label}.`, 'ok');
   document.getElementById('loader').style.display = 'none';
   document.getElementById('dashboard').style.display = 'block';
@@ -497,7 +511,11 @@ function stats(arr){
   return { n, mean, median, std, min: sorted[0], max: sorted[n-1] };
 }
 
-function fmt(n, d=2){ return n.toLocaleString('es-PE', {minimumFractionDigits:d, maximumFractionDigits:d}); }
+function fmt(n, d=2){ 
+  const val = Number(n);
+  if (isNaN(val)) return '0,00';
+  return val.toLocaleString('es-PE', {minimumFractionDigits:d, maximumFractionDigits:d}); 
+}
 
 function renderAll(){
   const scores = RECORDS.map(r => r.puntaje);
@@ -608,11 +626,15 @@ function renderFullTable(){
   rows = rows.map((r, i) => ({...r, rank: i+1}));
 
   if (filter){
-    rows = rows.filter(r => r.codigo.toLowerCase().includes(filter) || r.nombres.toLowerCase().includes(filter));
+    rows = rows.filter(r => 
+      String(r.codigo || '').toLowerCase().includes(filter) || 
+      String(r.nombres || '').toLowerCase().includes(filter)
+    );
   }
 
   rows.sort((a,b) => {
-    let av = a[sortKey], bv = b[sortKey];
+    let av = a[sortKey] ?? '';
+    let bv = b[sortKey] ?? '';
     if (typeof av === 'string'){ av = av.toLowerCase(); bv = bv.toLowerCase(); }
     if (av < bv) return sortDir === 'asc' ? -1 : 1;
     if (av > bv) return sortDir === 'asc' ? 1 : -1;
